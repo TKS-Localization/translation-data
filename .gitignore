@@ -11,3 +11,4 @@ wheels/
 /raw
 out/*
 !out/3_Translated/
+!out/names.json
