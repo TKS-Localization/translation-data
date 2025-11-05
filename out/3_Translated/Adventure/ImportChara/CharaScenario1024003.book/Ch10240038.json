@@ -1,446 +1,446 @@
 [
     {
-        "message": "――九浄家的夜晚，华丽而奢侈。"
+        "message": "――九净家的夜晚，是绚烂豪华的。"
     },
     {
-        "message": "海伦娜邀请我，今天我将住在她的宅邸。"
+        "message": "我受到海伦娜小姐的特别招待，今天要在宅邸过夜。"
     },
     {
-        "message": "不过，住的不是客房。而是住在九浄家工作的黄泉的房间。"
-    },
-    {
-        "name": "ヨミ",
-        "message": "「我只是九浄家的女仆队员，这样被款待真的好吗……」"
-    },
-    {
-        "name": "クロト",
-        "message": "「我觉得可以。海伦娜也说今天是特别的。」"
+        "message": "只不过住的不是来客用的房间，而是住在这个九净家里工作着的优咪的房间。"
     },
     {
         "name": "ヨミ",
-        "message": "「特别……是啊，特意穿上了婚纱。」"
-    },
-    {
-        "name": "ヨミ",
-        "message": "「在这个大厅里穿着白无垢，感觉真的像是结婚的当天一样，有点错觉。」"
+        "message": "「我明明只是九净家女仆队的成员，受到这样的款待真的好吗……」"
     },
     {
         "name": "クロト",
-        "message": "「大家都有这种感觉，我也有点感觉。」"
+        "message": "「我觉得没关系哦。海伦娜小姐也说了今天是特别的嘛」"
     },
     {
         "name": "ヨミ",
-        "message": "「是啊～真是受不了。这样预演了一下，我……有点奇怪的感觉……」"
-    },
-    {
-        "name": "クロト",
-        "message": "「晚餐也都是精力充沛的料理。」"
+        "message": "「特别……说得也是呢，毕竟还特意换上了新娘礼服」"
     },
     {
         "name": "ヨミ",
-        "message": "「宅邸的大家……也在期待这种事情吗？」"
+        "message": "「在这个大厅里穿着白无垢，真的会让人产生今天是婚礼当天的错觉呢」"
     },
     {
         "name": "クロト",
-        "message": "「……你不喜欢吗？」"
+        "message": "「我也有种大家都是这么想的感觉」"
     },
     {
         "name": "ヨミ",
-        "message": "「不讨厌。但因为过于意识到，有点难受……唔，我可能坚持不住。」"
-    },
-    {
-        "name": "クロト",
-        "message": "「那今晚就放开来尽情享受吧。」"
-    },
-    {
-        "name": "ヨミ",
-        "message": "「可以吗？我会当真的哦<emoji=heart04>」"
-    },
-    {
-        "name": "ヨミ",
-        "message": "「哈……哈……哈……对不起，明明邀请我到我的房间，却忍不住……」"
-    },
-    {
-        "name": "ヨミ",
-        "message": "「我没有错……大家都让我有色情的想象……被那样煽动的话，我也是……」"
-    },
-    {
-        "name": "ヨミ",
-        "message": "「强制发情……不是吗<emoji=heart04>」"
+        "message": "「是啊～真是的，真受不了啊。做了这样的彩排……感觉变得好奇怪……」"
     },
     {
         "name": "クロト",
-        "message": "「难道说，黄泉，你发情了吗？」"
+        "message": "「晚餐也全是能补气的食物呢」"
     },
     {
         "name": "ヨミ",
-        "message": "「刚才就说了……平时不会这么本能的，为什么偏偏今天……」"
-    },
-    {
-        "name": "ヨミ",
-        "message": "「唔，下面痒痒的～……想要你的阴茎，想要得不得了<emoji=heart04>」"
-    },
-    {
-        "name": "ヨミ",
-        "message": "「对不起对不起，想要像平时一样普通地相爱，却这样强迫地袭击……真是下流，无法面对父母」"
+        "message": "「府邸里的大家……果然也在期待着这种事情吗？」"
     },
     {
         "name": "クロト",
-        "message": "「如果父母也是狐魔族，或许会理解现在的黄泉吧？」"
+        "message": "「……优咪你不喜欢吗？」"
     },
     {
         "name": "ヨミ",
-        "message": "「那是……或许吧……但但但，这样还是不好啊」"
-    },
-    {
-        "name": "ヨミ",
-        "message": "「我喜欢被兴奋的你压倒……喜欢这种性爱……为什么……」"
+        "message": "「也不是不喜欢啦。只是被过度地刺激了，感觉心里痒痒的……呜呜，我可能忍不住了」"
     },
     {
         "name": "クロト",
-        "message": "「还是因为上次的事情吧？」"
+        "message": "「那今晚就别管那么多了，尽情享受吧」"
     },
     {
         "name": "ヨミ",
-        "message": "「难道是……当主大人说的，允许生孩子的那件事吗？」"
+        "message": "「可以吗？　我会当真的哦<emoji=heart04>」"
     },
     {
         "name": "ヨミ",
-        "message": "「唔唔，一想起来就意识到，下面湿了」"
+        "message": "「哈啊……哈啊……哈啊……对不起，明明好不容易把你招待到了我的房间，我却忍不住了……」"
     },
     {
         "name": "ヨミ",
-        "message": "「和你生孩子……想要<emoji=heart04>　虽然还没有正式成为新娘……但夫妻之间的性爱已经做了很多次了」"
+        "message": "「这不能怪我……都怪大家总是让我产生色色的想象……被那样不断地煽动，就算是我也……」"
     },
     {
         "name": "ヨミ",
-        "message": "「避孕套，拿了很多……但如果避孕的话，就不能生孩子了<emoji=heart04>」"
-    },
-    {
-        "name": "ヨミ",
-        "message": "「所以呢……那个……当主大人也同意了，想要正式的生孩子练习<emoji=heart04>」"
+        "message": "「这，这不是会……强制发情嘛<emoji=heart04>」"
     },
     {
         "name": "クロト",
-        "message": "「练习吗？还是正式的？」"
+        "message": "「难道说优咪你已经发情了？」"
     },
     {
         "name": "ヨミ",
-        "message": "「唔……现在这个问题太狡猾了。那个……不戴套，尽量接近正式的……练习，怎么样？」"
+        "message": "「都说了，我从刚才开始就一直在说啦……平常明明不会这么本能的……为什么偏偏今天会这么……」"
     },
     {
         "name": "ヨミ",
-        "message": "「嘿嘿嘿～，阴茎反应了呢<emoji=heart04>　果然，想和我生孩子吧<emoji=heart04>」"
+        "message": "「呜呜，小穴好痒啊～……好想要你的肉棒，想要得受不了了<emoji=heart04>」"
     },
     {
         "name": "ヨミ",
-        "message": "「只是这样骑在上面摩擦，已经完全勃起了……阴茎也完全认真了<emoji=heart04>」"
-    },
-    {
-        "name": "ヨミ",
-        "message": "「那么……这样下去可不行。作为你的新娘……用阴道紧紧包住，让你尽情射精吧<emoji=heart04>」"
-    },
-    {
-        "name": "ヨミ",
-        "message": "「啊嗯<emoji=heart04>　嗯～～～～～，嗯<emoji=heart04>　进、进去了啊啊<emoji=heart04>」"
-    },
-    {
-        "name": "ヨミ",
-        "message": "「哈啊，哈啊……你的生阴茎……进到我的阴道里了啊<emoji=heart04>　啊，嗯，好、好厉害啊<emoji=heart04>　一下子就兴奋起来了<emoji=heart04>」"
-    },
-    {
-        "name": "ヨミ",
-        "message": "「哈啊——哈啊——互相的粘膜摩擦着……淫荡的味道，扑鼻而来……淫荡的味道……雄性和雌性交尾的味道<emoji=heart04>」"
-    },
-    {
-        "name": "ヨミ",
-        "message": "「这样不行啊，我都想要你认真地给我种上了<emoji=heart04>　哈啊……哈啊……淫荡的体液的味道让我更加疯狂……这样我已经忍不住了<emoji=heart04>」"
-    },
-    {
-        "name": "ヨミ",
-        "message": "「对不起，性交是夫妻之间确认爱意的神圣行为啊<emoji=heart04>　交尾<emoji=heart04>　交尾的事情占据了我的脑海<emoji=heart04>　想要精子，想要在肚子深处咕咚咕咚地喝下去<emoji=heart04>」"
-    },
-    {
-        "name": "ヨミ",
-        "message": "「那个青臭的独特的精液味道……虽然臭，但闻起来会让人兴奋，让雌性迷恋的，你的精子……我想要<emoji=heart04>」"
-    },
-    {
-        "name": "ヨミ",
-        "message": "「说不定女仆队的孩子在外面偷听呢<emoji=heart04>　我<emoji=heart04>」"
-    },
-    {
-        "name": "ヨミ",
-        "message": "「对不起……已经无所谓了，认真地进行生孩子的交尾吧<emoji=heart04>　你就算说不行我也会做的<emoji=heart04>　会让你在最深处射出来的<emoji=heart04>」"
-    },
-    {
-        "name": "ヨミ",
-        "message": "「那么，就来个啪啪啪吧<emoji=heart04>　让腰部碰撞在一起，用阴茎和阴道互相搅拌吧<emoji=heart04>」"
-    },
-    {
-        "name": "ヨミ",
-        "message": "「啊啊<emoji=heart04>　哈嗯<emoji=heart04>　啊嗯<emoji=heart04>　啊啊啊<emoji=heart04>　比平时更加爆裂地舒服，啊啊啊<emoji=heart04>　果然因为发情所以才这么舒服吗？」"
-    },
-    {
-        "name": "ヨミ",
-        "message": "「啾啾啾啾啾<emoji=heart04>　从插入的地方传来了淫荡的声音，哈啊啊<emoji=heart04>　兴奋起来了<emoji=heart04>」"
-    },
-    {
-        "name": "ヨミ",
-        "message": "「阴道的深处<emoji=heart04>　已经被黏糊糊的本气汁填满了<emoji=heart04>　感觉到了吗？嗯哼<emoji=heart04>　呼呼<emoji=heart04>　啊<emoji=heart04>」"
-    },
-    {
-        "name": "ヨミ",
-        "message": "「这样深深地插入<emoji=heart04>　哈嗯<emoji=heart04>　阴茎深深地插入<emoji=heart04>　舒服得让人发疯<emoji=heart04>」"
-    },
-    {
-        "name": "ヨミ",
-        "message": "「抬起腰<emoji=heart04>　放下<emoji=heart04>　抬起腰<emoji=heart04>　放下<emoji=heart04>　哈啊<emoji=heart04>　敏感的地方摩擦着感觉很舒服<emoji=heart04>」"
-    },
-    {
-        "name": "ヨミ",
-        "message": "「你也<emoji=heart04>　舒服吗？阴道里的阴茎<emoji=heart04>　虽然很帅气地勃起了<emoji=heart04>　但我想听听你的感想<emoji=heart04>」"
-    },
-    {
-        "name": "ヨミ",
-        "message": "「哈哈……哈哈……<emoji=heart04>　我作为妻子，能好好地交尾吗？　能成为让人想要种马的……淫荡的雌穴吗？」"
-    },
-    {
-        "name": "ヨミ",
-        "message": "「你的鸡巴……这样子啪啪地抽插的话……我的子宫里，能射出浓厚的精液吗……？」"
-    },
-    {
-        "name": "ヨミ",
-        "message": "「告诉我……我作为妻子的性爱能让你满足吗……我想知道<emoji=heart04>」"
+        "message": "「对不起对不起，我明明想像平时那样正常地跟你爱爱，结果却像这样硬是扑倒你……我实在太不检点了，根本没脸面对父母啊」"
     },
     {
         "name": "クロト",
-        "message": "「当然了，最淫荡的雌穴啊！　这样的我可以射精很多次」"
+        "message": "「既然你的父母也是狐魔族，那他们应该能理解你现在的状态吧？」"
     },
     {
         "name": "ヨミ",
-        "message": "「高兴<emoji=heart04>　那我就尽力了<emoji=heart04>　这样子……嗯嗯<emoji=heart04>　从阴道口到最里面，全部都用来服侍你的鸡巴<emoji=heart04>」"
+        "message": "「这……或许吧……可是可是，我觉得这样还是不太好啦」"
     },
     {
         "name": "ヨミ",
-        "message": "「哈哈<emoji=heart04>　啊嗯<emoji=heart04>　啊嗯<emoji=heart04>　情不自禁地发出淫荡的声音<emoji=heart04>　哈哈<emoji=heart04>　啊嗯<emoji=heart04>　鸡巴感觉好好<emoji=heart04>　喜欢做爱<emoji=heart04>　喜欢交尾<emoji=heart04>」"
-    },
-    {
-        "name": "ヨミ",
-        "message": "「啊啊啊<emoji=heart04>　啊嗯<emoji=heart04>　胀鼓鼓的肉棒……慢慢地在阴道里进进出出<emoji=heart04>　啪啪的声音，还有淫荡的味道……好浓烈<emoji=heart04>」"
-    },
-    {
-        "name": "ヨミ",
-        "message": "「本来做爱的时候的味道就已经很兴奋了，今天特别……哈啊哈啊的<emoji=heart04>」"
-    },
-    {
-        "name": "ヨミ",
-        "message": "「是因为发情了吗？　不是玩乐，而是认真地做爱交尾吗？　哈啊，哈啊，阴道痒痒的……已经不知道自己在做什么了<emoji=heart04>」"
-    },
-    {
-        "name": "ヨミ",
-        "message": "「虽然已经神志不清了，但腰的动作却停不下来……嗯嗯<emoji=heart04>　声音也情不自禁地发出来了，不行<emoji=heart04>」"
-    },
-    {
-        "name": "ヨミ",
-        "message": "「这样子淫荡地吸吮你的鸡巴，这样子淫荡的交尾……明明很羞耻的<emoji=heart04>」"
-    },
-    {
-        "name": "ヨミ",
-        "message": "「不行……已经发情了，变成淫乱了<emoji=heart04>　对不起……对不起，我不是故意的，我<emoji=heart04>」"
-    },
-    {
-        "name": "ヨミ",
-        "message": "「希望是贞洁可爱的新娘呢……这样子，晚上会被说成是娼妇呢<emoji=heart04>」"
-    },
-    {
-        "name": "ヨミ",
-        "message": "「可是我喜欢<emoji=heart04>　非常喜欢<emoji=heart04>　想要更多的性爱，一起感到快乐<emoji=heart04>　请求你，更多……更多地在我身上播种交尾吧<emoji=heart04>」"
+        "message": "「我明明更喜欢被兴奋的你推倒……更喜欢那种做爱方式……可是……」"
     },
     {
         "name": "クロト",
-        "message": "「唔……我的新娘太淫荡了……除了播种，没有别的办法了！」"
+        "message": "「果然，还是因为之前那件事的影响吧？」"
     },
     {
         "name": "ヨミ",
-        "message": "「是的，请吧<emoji=heart04>　请把你那滑溜溜的精子……射进我的子宫里吧<emoji=heart04>　我会好好受精的<emoji=heart04>　想要怀上你的孩子<emoji=heart04>」"
+        "message": "「难道说……是族长大人说的，允许我们造人的那件事？」"
+    },
+    {
+        "name": "ヨミ",
+        "message": "「呜呜，一想起来我就忍不住在意，小穴都好痒啊」"
+    },
+    {
+        "name": "ヨミ",
+        "message": "「好想……和你造人哦<emoji=heart04>　虽然我还没有正式成为你的妻子……但我们已经做过好几次夫妻间的性爱了……」"
+    },
+    {
+        "name": "ヨミ",
+        "message": "「虽然收到了很多避孕用具……但要是避孕的话，就没办法造人了嘛<emoji=heart04>」"
+    },
+    {
+        "name": "ヨミ",
+        "message": "「所以说……嗯……既然当家大人都许可了……我想好好练习生孩子<emoji=heart04>」"
     },
     {
         "name": "クロト",
-        "message": "「那么，就用更强烈的腰部动作吧。用黄泉的大屁股拍打，从我这里榨取精液吧」"
+        "message": "「这是练习吗？　还是说正式来？」"
     },
     {
         "name": "ヨミ",
-        "message": "「好、好的<emoji=heart04>　如果是老公的愿望……我也会全力以赴的<emoji=heart04>」"
+        "message": "「唔……我现在发情了，问这个问题也太坏心眼了啦。那个……不戴套，尽可能接近正式来……就当是练习，怎么样？」"
     },
     {
         "name": "ヨミ",
-        "message": "「全力以赴地做，无论射多少次，都会把你榨干的，做好准备吧<emoji=heart04>」"
+        "message": "「嘿嘿嘿～肉棒大人都一抖一抖地有反应了呢<emoji=heart04>　果然，你也想和我生孩子吗<emoji=heart04>」"
     },
     {
         "name": "ヨミ",
-        "message": "「那么，我开始了～」"
+        "message": "「我只是这样骑在你身上蹭来蹭去，你就已经完全勃起了……肉棒大人也完全认真起来了呢<emoji=heart04>」"
     },
     {
         "name": "ヨミ",
-        "message": "「嗯哦<emoji=heart04>　哈啊<emoji=heart04>　哈嗯<emoji=heart04>　啊<emoji=heart04>　啊<emoji=heart04>　啊啊嗯<emoji=heart04>　怎、怎么样？　这就是我的……全力交尾<emoji=heart04>」"
+        "message": "「那……就更不能让你维持这个状态了。作为你的妻子……我会用小穴好好包裹住你，让你尽情射精的哦<emoji=heart04>」"
     },
     {
         "name": "ヨミ",
-        "message": "「高速地……用阴道肉摩擦……用淫乱的阴道肉尽情地做<emoji=heart04>」"
+        "message": "「啊嗯<emoji=heart04>　嗯呼～～～～呼呜<emoji=heart04>　进，进去了呢<emoji=heart04>」"
     },
     {
         "name": "ヨミ",
-        "message": "「啊唔<emoji=heart04>　嗯嗯、呼<emoji=heart04>　哈啊<emoji=heart04>　哈嗯<emoji=heart04>　呀啊<emoji=heart04>　好舒服<emoji=heart04>　全力的播种交尾，太舒服了<emoji=heart04>」"
+        "message": "「啊，啊……你的无套肉棒……进到我的小穴里了呢<emoji=heart04>　啊呼，嗯呜，爆，爆裂得好厉害哦<emoji=heart04>　一下子就打开了开关呢<emoji=heart04>」"
     },
     {
         "name": "ヨミ",
-        "message": "「一旦体验到这种快乐，我会不断怀孕的<emoji=heart04>　怀很多孩子，生很多孩子……啊啊～，我们会建立一个幸福的大家族的<emoji=heart04>」"
+        "message": "「啊啊——呼啊——……彼此的粘膜互相摩擦……下流的气味，一下子弥漫开来……好淫荡的气味……雄性和雌性交尾的气味……<emoji=heart04>」"
+    },
+    {
+        "name": "ヨミ",
+        "message": "「这样不行啦，会变得好想要你认真地播种的嘛<emoji=heart04>　啊啊……啊啊……淫荡的体液气味，让我变得更加疯狂……我已经忍不住了啦<emoji=heart04>」"
+    },
+    {
+        "name": "ヨミ",
+        "message": "「对不起，做爱明明是夫妻之间确认彼此爱意的神圣行为……但是我脑子里却全是交配<emoji=heart04>　交配的事<emoji=heart04>　我好想要你的精子，在我的子宫里咕嘟咕嘟地喝个够<emoji=heart04>」"
+    },
+    {
+        "name": "ヨミ",
+        "message": "「那股青涩又独特的精液气味……明明很臭，但是闻着闻着就兴奋得不得了，让你的雌性伴侣欲罢不能，我好想要……你的精子……<emoji=heart04>」"
+    },
+    {
+        "name": "ヨミ",
+        "message": "「明，明明女仆队的姑娘们说不定在外面偷听……我却……我却<emoji=heart04>」"
+    },
+    {
+        "name": "ヨミ",
+        "message": "「对不起……我已经顾不上了，我要来一场认认真真造人的交配咯<emoji=heart04>　就算你说不行我也会做下去的<emoji=heart04>　我要你噗咻～地射在最里面<emoji=heart04>」"
+    },
+    {
+        "name": "ヨミ",
+        "message": "「那，我要来使劲抽插咯<emoji=heart04>　我们来互相碰撞腰身，把肉棒大人和小穴搅在一起吧<emoji=heart04>」"
+    },
+    {
+        "name": "ヨミ",
+        "message": "「呼啊<emoji=heart04>　哈啊嗯<emoji=heart04>　啊嗯<emoji=heart04>　啊啊啊……<emoji=heart04>　比平时还要爽，爽爆了<emoji=heart04>　果然是因为发情了，才会这么舒服的吗？」"
+    },
+    {
+        "name": "ヨミ",
+        "message": "「咕啾，咕啾啾……从插进去的地方，传来淫荡的声音……哈啊啊～好兴奋啊<emoji=heart04>」"
+    },
+    {
+        "name": "ヨミ",
+        "message": "「小穴的深处……也满满都是粘乎乎的爱液……你有感受到吗？嗯哼<emoji=heart04>　呼呜呜，咕<emoji=heart04>」"
+    },
+    {
+        "name": "ヨミ",
+        "message": "「像这样往里面扭～地顶进去的话……哈啊嗯<emoji=heart04>　肉棒大人插得好深……爽得我都快要疯了<emoji=heart04>」"
+    },
+    {
+        "name": "ヨミ",
+        "message": "「抬起腰……往下……抬起腰……往下……哈啊啊，敏感的地方被摩擦得好爽～<emoji=heart04>」"
+    },
+    {
+        "name": "ヨミ",
+        "message": "「您也……舒服吗？　小穴里的肉棒大人，正帅气地挺立着……我想听听您的感想<emoji=heart04>」"
+    },
+    {
+        "name": "ヨミ",
+        "message": "「哈啊……哈啊……<emoji=heart04>　我作为妻子，交尾做得好吗？　是不是变成了……让您想播种的淫荡小穴了呢？」"
+    },
+    {
+        "name": "ヨミ",
+        "message": "「如果像这样……摩擦您的肉棒大人……能让我的子宫……喷出浓厚的精液吗……？」"
+    },
+    {
+        "name": "ヨミ",
+        "message": "「告诉我嘛……您想不想在和妻子的性爱中得到满足……我想知道呀<emoji=heart04>」"
     },
     {
         "name": "クロト",
-        "message": "「和黄泉的孩子，无论多少都欢迎」"
+        "message": "「那当然是，最淫荡的小穴了！　感觉这样的小穴要多少精液都能射出来啊」"
     },
     {
         "name": "ヨミ",
-        "message": "「高兴<emoji=heart04>　那么，我会怀很多孩子的<emoji=heart04>　用你的精液受精，然后生很多孩子<emoji=heart04>　所以请让我更舒服<emoji=heart04>」"
+        "message": "「好开心<emoji=heart04>　那，我会努力的哦<emoji=heart04>　像这样……嗯嗯<emoji=heart04>　从小穴的入口……到最深处，全部用上……来侍奉您的肉棒大人<emoji=heart04>」"
     },
     {
         "name": "ヨミ",
-        "message": "「哈啊、哈啊、最里面痒得不行<emoji=heart04>　这里是注入精液的洞，被仔细教导着<emoji=heart04>」"
+        "message": "「哈啊<emoji=heart04>　啊嗯<emoji=heart04>　啊嗯<emoji=heart04>　色色的声音要出来了<emoji=heart04>　哈啊<emoji=heart04>　呀啊嗯<emoji=heart04>　肉棒大人好舒服<emoji=heart04>　喜欢造小孩<emoji=heart04>　喜欢交尾<emoji=heart04>」"
     },
     {
         "name": "ヨミ",
-        "message": "「没、没关系<emoji=heart04>　我会用子宫好好吞下去<emoji=heart04>　不会浪费你的精液<emoji=heart04>　所以请尽情射出来<emoji=heart04>　给我种上<emoji=heart04>」"
+        "message": "「呼啊啊啊<emoji=heart04>　啊啊嗯<emoji=heart04>　胀得鼓鼓的肉竿……慢慢地在小穴里进进出出<emoji=heart04>　发出噗啾噗啾的声音……下流的气味也特别浓……都飘出来了<emoji=heart04>」"
     },
     {
         "name": "ヨミ",
-        "message": "「哈啊<emoji=heart04>　哈啊<emoji=heart04>　嗯啊啊<emoji=heart04>　对不起，我已经到极限了<emoji=heart04>　要高潮了<emoji=heart04>」"
+        "message": "「光是性爱时的气味，就让人很兴奋了……今天更特别，哈啊哈啊地喘着气呢<emoji=heart04>」"
     },
     {
         "name": "ヨミ",
-        "message": "「已经不行了<emoji=heart04>　要高潮了<emoji=heart04>　要高潮了<emoji=heart04>　要高潮了<emoji=heart04>　如果来了巨大的高潮，妻子的工作……淫荡的搾精就做不了了<emoji=heart04>」"
+        "message": "「果然是因为发情了……？　因为不是玩，而是认真地在交尾造小孩吗……？　哈啊，哈啊，小穴麻麻的……已经搞不清楚了……」"
     },
     {
         "name": "ヨミ",
-        "message": "「所以请求你<emoji=heart04>　快点……射出来<emoji=heart04>　你的遗传基因浓缩的精液……请给我种上<emoji=heart04>」"
+        "message": "「明明已经变得奇怪了，却还是停不下腰上的动作……嗯嗯嗯<emoji=heart04>　要叫出声了，不行啊啊啊<emoji=heart04>」"
+    },
+    {
+        "name": "ヨミ",
+        "message": "「像这样纠缠不休地用腰把肉棒大人吸吮到极致……用这么色情的方式扭腰……这么不知廉耻的交配，明明绝对很羞耻的<emoji=heart04>」"
+    },
+    {
+        "name": "ヨミ",
+        "message": "「不行……发情之后整个人都变得淫乱起来了<emoji=heart04>　抱歉……对不起，我本来没有这个打算的，我……」"
+    },
+    {
+        "name": "ヨミ",
+        "message": "「明明想当个贤淑又可爱的妻子的……这样子，晚上肯定会被说成是妓女的啊啊啊<emoji=heart04>」"
+    },
+    {
+        "name": "ヨミ",
+        "message": "「但是好喜欢你<emoji=heart04>　最喜欢了<emoji=heart04>　想跟你做更多的爱，一起变得舒服起来啊啊啊<emoji=heart04>　求求你，再多……多跟我交配播种吧啊啊啊<emoji=heart04>」"
     },
     {
         "name": "クロト",
-        "message": "「我、我也要高潮了！」"
+        "message": "「呜……我的妻子太色情了……这样子我不就只能继续播种了吗！」"
     },
     {
         "name": "ヨミ",
-        "message": "「好的<emoji=heart04>　那么一起……一起高潮吧<emoji=heart04>」"
-    },
-    {
-        "name": "ヨミ",
-        "message": "「一起迎接让头脑变得一片空白的绝顶<emoji=heart04>　我也会全力以赴地用阴道紧紧夹住<emoji=heart04>」"
-    },
-    {
-        "name": "ヨミ",
-        "message": "「嗯啊啊<emoji=heart04>　嗯啊<emoji=heart04>　哈啊<emoji=heart04>　哈啊<emoji=heart04>　呼～～～<emoji=heart04>　太舒服了<emoji=heart04>　虽然已经做了很多次性爱，但这种感觉还是第一次<emoji=heart04>」"
-    },
-    {
-        "name": "ヨミ",
-        "message": "「果然不是玩乐的性爱，而是真正的生育交尾<emoji=heart04>　所以身体才会明白<emoji=heart04>」"
-    },
-    {
-        "name": "ヨミ",
-        "message": "「哈啊<emoji=heart04>　啊嗯<emoji=heart04>　啊嗯<emoji=heart04>　啊嗯<emoji=heart04>　想要精液<emoji=heart04>　想要精液<emoji=heart04>　想要怀孕<emoji=heart04>　想要你的孩子<emoji=heart04>　请让我怀孕<emoji=heart04>」"
-    },
-    {
-        "name": "ヨミ",
-        "message": "「已经不行了<emoji=heart04>　腰都抬不起来了<emoji=heart04>　我要高潮了，快插我<emoji=heart04>　用力插我<emoji=heart04>　插到我的阴道最深处，用力搅拌<emoji=heart04>」"
-    },
-    {
-        "name": "ヨミ",
-        "message": "「嗯嗯嗯～～～～～<emoji=heart04>　不行了<emoji=heart04>　我要高潮了<emoji=heart04>　我要高潮了<emoji=heart04>　对不起，我要高潮了<emoji=heart04>」"
-    },
-    {
-        "name": "ヨミ",
-        "message": "「啊啊啊啊～～～～～～～～～～～～<emoji=heart04><emoji=heart04><emoji=heart04>」"
-    },
-    {
-        "name": "ヨミ",
-        "message": "「啊啊啊～～<emoji=heart04>　太棒了……太爽了<emoji=heart04>」"
-    },
-    {
-        "name": "ヨミ",
-        "message": "「嗯嗯……射精的时机也刚刚好……老公的精液……喷喷地……注入到我的体内<emoji=heart04>」"
-    },
-    {
-        "name": "ヨミ",
-        "message": "「这是我最棒的……生育体验<emoji=heart04>」"
-    },
-    {
-        "name": "ヨミ",
-        "message": "「嗯嗯……你还在努力<emoji=heart04>　好几次……都射在我身上<emoji=heart04>」"
-    },
-    {
-        "name": "ヨミ",
-        "message": "「这么多精液……能受精吗？<emoji=heart04>　希望能受精<emoji=heart04>　作为妻子，我想好好怀孕<emoji=heart04>」"
-    },
-    {
-        "name": "ヨミ",
-        "message": "「啊啊……啊啊……浓稠的精液<emoji=heart04>　谢谢款待<emoji=heart04>　比平时多很多<emoji=heart04>」"
-    },
-    {
-        "name": "ヨミ",
-        "message": "「呼呼……要是一直射精就好了<emoji=heart04>　但看来是结束了<emoji=heart04>　谢谢你了<emoji=heart04>」"
-    },
-    {
-        "name": "ヨミ",
-        "message": "「那么，虽然有点不舍<emoji=heart04>　但还是先拔出来吧<emoji=heart04>」"
-    },
-    {
-        "name": "ヨミ",
-        "message": "「啊嗯<emoji=heart04>　啊<emoji=heart04>　拔出来了<emoji=heart04>　有点寂寞<emoji=heart04>」"
-    },
-    {
-        "name": "ヨミ",
-        "message": "「嗯嗯<emoji=heart04>　对不起<emoji=heart04>　流出来了<emoji=heart04>　我想全部留在肚子里<emoji=heart04>」"
+        "message": "「嗯，请吧<emoji=heart04>　把那一大堆蝌蚪一样的精子……都射到我的子宫里来吧<emoji=heart04>　我会好好受精的<emoji=heart04>　想要怀上你的孩子啊啊啊<emoji=heart04>」"
     },
     {
         "name": "クロト",
-        "message": "「不用道歉<emoji=heart04>　会多次射在你身上的<emoji=heart04>」"
+        "message": "「那你就再认真点扭腰吧。用你那丰满的屁股啪啪啪地拍在我身上，把我精液都榨干吧」"
     },
     {
         "name": "ヨミ",
-        "message": "「呵呵<emoji=heart04>　高兴<emoji=heart04>　谢谢你<emoji=heart04>」"
+        "message": "「我，我知道了啦<emoji=heart04>　既然夫君你这么希望的话……那我也要认真起来了哦<emoji=heart04>」"
     },
     {
         "name": "ヨミ",
-        "message": "「那么<emoji=heart04>　作为妻子<emoji=heart04>　我要更加努力<emoji=heart04>」"
+        "message": "「我会尽全力啪啪啪的……不管你射出多少次白色的液体，我都会把你榨到射不出来的，做好觉悟吧<emoji=heart04>」"
     },
     {
         "name": "ヨミ",
-        "message": "「因为我发情了<emoji=heart04>　如果排卵了<emoji=heart04>　应该能高概率受精<emoji=heart04>　但这点不太清楚<emoji=heart04>」"
+        "message": "「那，我要开始了哦～」"
     },
     {
         "name": "ヨミ",
-        "message": "「所以，通过性交的刺激来促进排卵……再多做些造孩子的事吧，老公<emoji=heart04>」"
+        "message": "「嗯哦<emoji=heart04>　啊呜<emoji=heart04>　啊嗯<emoji=heart04>　啊<emoji=heart04>　啊<emoji=heart04>　啊啊嗯<emoji=heart04>　怎，怎么样？这就是我的……认真交配哦<emoji=heart04>」"
     },
     {
         "name": "ヨミ",
-        "message": "「作为老婆，我会好好怀孕的<emoji=heart04>　我们一起努力，让孩子能顺利出生吧<emoji=heart04>」"
+        "message": "「我会用高速……套弄肉棒……用淫乱肉穴尽情地套弄哦<emoji=heart04>」"
     },
     {
         "name": "ヨミ",
-        "message": "「所以……阴茎大人，可以了吗？　一直插在里面，拔出来会觉得很寂寞的……<emoji=heart04>」"
+        "message": "「啊呜<emoji=heart04>　嗯嗯，呼<emoji=heart04>　啊啊<emoji=heart04>　啊嗯<emoji=heart04>　呀啊<emoji=heart04>　好舒服<emoji=heart04>　认真交配播种，太舒服了啦<emoji=heart04>」"
     },
     {
         "name": "ヨミ",
-        "message": "「再用我的阴道……嗯～～地做吧。应该比刚才更舒服了<emoji=heart04>」"
+        "message": "「要是记住了这种快乐，我会怀孕好多次的啦<emoji=heart04>　怀好多好多，生好多好多……真是的～会组建一个幸福大家庭的啦啊啊啊<emoji=heart04>」"
+    },
+    {
+        "name": "クロト",
+        "message": "「如果是和你的孩子，来多少我都很欢迎哦」"
     },
     {
         "name": "ヨミ",
-        "message": "「用我的内射过的阴道……多做些进出运动，让你舒服吧<emoji=heart04>　多多益善，把所有的精液都注入我体内吧<emoji=heart04>」"
+        "message": "「好开心啊<emoji=heart04>　那那，我要怀好多好多哦<emoji=heart04>　用你的种子受精，生好多好多哦<emoji=heart04>　所以请让我更舒服吧<emoji=heart04>」"
     },
     {
         "name": "ヨミ",
-        "message": "「那么，我要开始了……<emoji=heart04>」"
+        "message": "「啊啊，啊啊，最深处痒痒的啦<emoji=heart04>　好像在细心地告诉我，这里是注入种子的洞口哦<emoji=heart04>」"
     },
     {
-        "message": "就这样，我和黄泉的造孩子活动开始了。"
+        "name": "ヨミ",
+        "message": "「没，没事的啦<emoji=heart04>　我会好好用子宫喝下去的啦<emoji=heart04>　不会浪费丈夫大人的种子的啦<emoji=heart04>　所以尽管射出来吧<emoji=heart04>　在我的体内播种吧<emoji=heart04>」"
+    },
+    {
+        "name": "ヨミ",
+        "message": "「啊啊<emoji=heart04>　啊啊<emoji=heart04>　嗯啊啊啊<emoji=heart04>　对，对不起，我好像已经到极限了啦<emoji=heart04>　要高潮了啦<emoji=heart04>」"
+    },
+    {
+        "name": "ヨミ",
+        "message": "「不行了啦<emoji=heart04>　要去了<emoji=heart04>　要高潮了<emoji=heart04>　要去了<emoji=heart04>　要是那么大颗的精液爆发出来，妻子的工作……下流的榨精工作就要做不下去了啦<emoji=heart04>」"
+    },
+    {
+        "name": "ヨミ",
+        "message": "「所以拜托你了啦<emoji=heart04>　快点……射出来吧<emoji=heart04>　把你那装满了遗传因子的精液……全都射进我的身体里吧<emoji=heart04>」"
+    },
+    {
+        "name": "クロト",
+        "message": "「我，我也，我也快射了！」"
+    },
+    {
+        "name": "ヨミ",
+        "message": "「好的……那我们一起……我想和你一起高潮<emoji=heart04>」"
+    },
+    {
+        "name": "ヨミ",
+        "message": "「一起迎来让脑袋变得一片空白的高潮吧<emoji=heart04>　我也会在最后用尽全力把小穴顶上去的啦<emoji=heart04>」"
+    },
+    {
+        "name": "ヨミ",
+        "message": "「嗯啊啊<emoji=heart04>　嗯啊<emoji=heart04>　哈啊<emoji=heart04>　哈啊<emoji=heart04>　呼呜呜～～～<emoji=heart04>　太舒服了啦<emoji=heart04>　明明都做过好几次了，还是第一次这么舒服啊啊啊<emoji=heart04>」"
+    },
+    {
+        "name": "ヨミ",
+        "message": "「果然不是玩玩的性爱，而是真的要生小孩的交配……身体还是能感受到的呢……<emoji=heart04>」"
+    },
+    {
+        "name": "ヨミ",
+        "message": "「哈啊<emoji=heart04>　啊嗯<emoji=heart04>　啊嗯<emoji=heart04>　啊嗯<emoji=heart04>　我想要种子<emoji=heart04>　精液<emoji=heart04>　让我怀孕吧<emoji=heart04>　我想要你的孩子啊<emoji=heart04>　让我怀上你的孩子吧——<emoji=heart04>」"
+    },
+    {
+        "name": "ヨミ",
+        "message": "「不行了啦——<emoji=heart04>　腰都动不了了啦——<emoji=heart04>　我要去了，快点插进来吧——<emoji=heart04>　激烈地插进来吧——<emoji=heart04>　狠狠地插进小穴的最深处，尽情地玩弄那里吧——<emoji=heart04>」"
+    },
+    {
+        "name": "ヨミ",
+        "message": "「嗯呜呜呜呜～～～～～<emoji=heart04>　不行了啦——<emoji=heart04>　要去了——<emoji=heart04>　要去了要去了要去了——<emoji=heart04>　对，对不起，我要高潮了——<emoji=heart04>」"
+    },
+    {
+        "name": "ヨミ",
+        "message": "「高潮了～～～～～～～～<emoji=heart04><emoji=heart04><emoji=heart04>」"
+    },
+    {
+        "name": "ヨミ",
+        "message": "「哈啊啊啊～～<emoji=heart04>　好厉害……爆炸般地舒服啊啊啊<emoji=heart04>」"
+    },
+    {
+        "name": "ヨミ",
+        "message": "「嗯呼……正好和射精的时机也完美同步……丈夫的种子……咻咻地……注入进来……<emoji=heart04>」"
+    },
+    {
+        "name": "ヨミ",
+        "message": "「这是最棒的……造人体验……非常感谢……<emoji=heart04>」"
+    },
+    {
+        "name": "ヨミ",
+        "message": "「嗯唔……肉棒大人还在努力……一次又一次地……射给我……好开心<emoji=heart04>」"
+    },
+    {
+        "name": "ヨミ",
+        "message": "「得到这么多的精液……能好好受精吗？　要是能受精就好了……身为妻子，想好好怀上孩子……<emoji=heart04>」"
+    },
+    {
+        "name": "ヨミ",
+        "message": "「哈啊……哈啊……特浓粘稠精液……多谢款待……好像比平时的量还要多……好开心，感谢不尽<emoji=heart04>」"
+    },
+    {
+        "name": "ヨミ",
+        "message": "「呼唔唔……虽然觉得要是能一直射精就好了……但看来果然还是结束了呢……嗯嗯，辛苦了<emoji=heart04>」"
+    },
+    {
+        "name": "ヨミ",
+        "message": "「那么，虽然很舍不得，但还是先拔出来吧……」"
+    },
+    {
+        "name": "ヨミ",
+        "message": "「哈啊嗯<emoji=heart04>　啊啊……滑溜溜地……拔出来了……哈啊，哈啊……可能有点寂寞……」"
+    },
+    {
+        "name": "ヨミ",
+        "message": "「嗯呜，对不起，流出来好多……本来想全部都收进肚子里的……对不起，我没能做到……」"
+    },
+    {
+        "name": "クロト",
+        "message": "「不用道歉啦。无论多少次我都会射给你的」"
+    },
+    {
+        "name": "ヨミ",
+        "message": "「嘻嘻，好开心。谢谢你<emoji=heart04>」"
+    },
+    {
+        "name": "ヨミ",
+        "message": "「那么……作为妻子，我得更加努力地榨取你的精液才行呢<emoji=heart04>」"
+    },
+    {
+        "name": "ヨミ",
+        "message": "「因为正在发情，只要好好排卵的话，应该有很大概率会受精……不过这方面我也不太清楚」"
+    },
+    {
+        "name": "ヨミ",
+        "message": "「所以，为了用性交的刺激来促进排卵……我们再多做爱吧，老公<emoji=heart04>」"
+    },
+    {
+        "name": "ヨミ",
+        "message": "「作为妻子，我会好好怀上你的孩子的<emoji=heart04>　为了能生下小宝宝，我们一起努力吧<emoji=heart04>」"
+    },
+    {
+        "name": "ヨミ",
+        "message": "「所以说……肉棒大人，差不多可以了吧？一直插在里面，拔出去的话会很寂寞的……<emoji=heart04>」"
+    },
+    {
+        "name": "ヨミ",
+        "message": "「我会用我的小穴……再让你滋噗～～的插进来哦。应该会比刚才还要舒服哦<emoji=heart04>」"
+    },
+    {
+        "name": "ヨミ",
+        "message": "「用妻子的中出小穴……让你尽情地抽插，变得舒服吧<emoji=heart04>　大量大量地生产精子，全部～都注入到我体内吧<emoji=heart04>」"
+    },
+    {
+        "name": "ヨミ",
+        "message": "「那么，我要开动了……<emoji=heart04>」"
+    },
+    {
+        "message": "就这样，我和优咪的造娃活动反复进行着。"
     }
 ]

@@ -1,435 +1,435 @@
 [
     {
-        "message": "某天放学后。新的阿斯特拉出现了，但沙知的新力量“福尔图娜形态”的活跃使得顺利攻略成功。"
+        "message": "某天放学后。虽然出现了新的阿斯特拉，但在幸的新能力『幸运女神形态』的帮助下，我们顺利地将其攻略了。"
     },
     {
-        "message": "之后，正准备回学校时――"
+        "message": "之后，正当我们准备返回学园时――"
     },
     {
         "name": "サチ",
-        "message": "「那个……哥哥，对不起。可以占用你一点时间吗？」"
+        "message": "「那，那个……哥哥，不好意思。能占用你一点时间吗？」"
     },
     {
         "name": "クロト",
-        "message": "「嗯？怎么了，沙知？」"
+        "message": "「嗯？　怎么了，幸？」"
     },
     {
-        "message": "看过去，沙知的脸红了，呼吸也急促。"
-    },
-    {
-        "name": "サチ",
-        "message": "「实际上，那个……福尔图娜形态的<ruby=・・>反动</ruby>又来了……」"
-    },
-    {
-        "message": "沙知的福尔图娜形态虽然强大，但另一方面，需要极大的幸运，因此会加快“运势的周期”这种缺点。"
-    },
-    {
-        "message": "受其影响，本来一年只会来一次的“倒霉日”──虽然不幸的程度被分散并减弱了──变成每月都会来一次。"
+        "message": "仔细一看，幸的脸红红的，呼吸也很急促。"
     },
     {
         "name": "サチ",
-        "message": "「注意到异常后，向特蕾吉安娜小姐请教了“不幸解析”，调查了一下……」"
+        "message": "「实际上，那个……幸运女神形态的<ruby=・・>反作用力</ruby>好像又来了……」"
+    },
+    {
+        "message": "幸的幸运女神形态虽然很强大，但相对地，由于需要惊人的幸运，因此有着“加快运势周期”的缺点。"
+    },
+    {
+        "message": "受到这个影响，原本应该一年只来一次的『倒霉日』——尽管不幸的程度被分散减弱了——却变成了每月一次。"
     },
     {
         "name": "サチ",
-        "message": "「这次似乎是魔法失控了……」"
+        "message": "「我察觉到异变，就用崔吉安娜帮我附加上去的『不幸分析』试着调查了一下……」"
+    },
+    {
+        "name": "サチ",
+        "message": "「但这次好像是魔法突然爆发了……」"
     },
     {
         "name": "サチ",
         "message": "「我的身体……那个……」"
     },
     {
-        "message": "沙知一边揉着肚子，一边害羞地说道。"
+        "message": "幸一边摩挲着肚子一带，一边羞涩地说道。"
     },
     {
         "name": "サチ",
-        "message": "「啊……『<ruby=淫紋>淫纹</ruby>』好像被刻上了……<emoji=heart04>　嗯……呼……<emoji=heart04>」"
+        "message": "「好像……被刻上了『<ruby=淫纹>淫纹</ruby>』……<emoji=heart04>　嗯……呼唔唔……<emoji=heart04>」"
     },
     {
-        "message": "喘着粗气，摩擦着大腿，沙知说出了这样的话。"
-    },
-    {
-        "name": "サチ",
-        "message": "「那个效果是，强制把身体变成『发情状态』，好像是……<emoji=heart04>　解除方法，是……っ」"
+        "message": "幸呼吸急促，大腿互相摩擦着，如此说道。"
     },
     {
         "name": "サチ",
-        "message": "「『通过高潮释放性欲』<emoji=heart04>　好像是……<emoji=heart04>」"
+        "message": "「它的效果，好像会强制让身体进入『发情状态』……<emoji=heart04>　解除方法，是……」"
     },
     {
         "name": "サチ",
-        "message": "「所以，对不起，哥哥<emoji=heart04>　啊啊啊……<emoji=heart04>」"
+        "message": "「『通过高潮来发泄性欲』<emoji=heart04>　好像是这样……<emoji=heart04>」"
     },
     {
         "name": "サチ",
-        "message": "「请求……这样做，可以吗？　我，已经……呼唔唔<emoji=heart04>　已经忍不住了<emoji=heart04>」"
+        "message": "「所以，对不起，哥哥<emoji=heart04>　哈啊啊啊……<emoji=heart04>」"
+    },
+    {
+        "name": "サチ",
+        "message": "「可以……拜托你吗？ 我，已经……呼唔唔唔唔<emoji=heart04>　已经，忍不住了<emoji=heart04>」"
     },
     {
         "name": "クロト",
-        "message": "「还是快点比较好。放心吧，我会一直在你身边的」"
+        "message": "「看来还是快点比较好。放心吧，我会一直陪在你身边的」"
     },
     {
         "name": "サチ",
-        "message": "「啊啊<emoji=heart04><emoji=heart04>　哥哥……<emoji=heart04>」"
+        "message": "「啊啊啊<emoji=heart04><emoji=heart04>　哥哥……<emoji=heart04>」"
     },
     {
-        "message": "然后，我们偷偷地进了附近的情侣酒店――"
-    },
-    {
-        "name": "サチ",
-        "message": "「啊啊～<emoji=heart04>　呼～<emoji=heart04>　嗯嗯～<emoji=heart04>　啊啊～<emoji=heart04>　呼～<emoji=heart04>　啊啊啊<emoji=heart04>　哥哥的小鸡鸡！」"
+        "message": "之后，我们偷偷溜进了附近的爱情旅馆――"
     },
     {
         "name": "サチ",
-        "message": "「啊啊～<emoji=heart04>　嗯啊啊<emoji=heart04>　好大……<emoji=heart04>」"
-    },
-    {
-        "message": "沙知说得没错，战斗服掀起的腹部上有一个怪异发光的粉红色淫纹。"
-    },
-    {
-        "message": "我们匆忙进入的酒店房间，床上，沙知以平时无法想象的大胆姿势张开双腿，呼吸急促。"
+        "message": "「哈啊啊～<emoji=heart04>　呼呜呜～<emoji=heart04>　嗯嗯呜<emoji=heart04>　哈啊啊～……<emoji=heart04>　呼呜呜～……<emoji=heart04>　啊啊啊<emoji=heart04>　哥哥的鸡鸡！」"
     },
     {
         "name": "サチ",
-        "message": "「不、不行了<emoji=heart04>　忍不住了……！　哥哥，对不起<emoji=heart04>」"
+        "message": "「哈啊啊～<emoji=heart04>　呼哇啊啊<emoji=heart04>　好大……<emoji=heart04>」"
+    },
+    {
+        "message": "正如幸所说，她掀起战斗服的腹部，粉红色的淫纹正发出诡异的光芒。"
+    },
+    {
+        "message": "我们冲进了旅馆的房间，在床上，幸张开着平时无法想象的大腿，呼吸急促。"
     },
     {
         "name": "サチ",
-        "message": "「快点！　快点给我鸡巴<emoji=heart04><emoji=heart04>　我真的忍不住了～～<emoji=heart04><emoji=heart04><emoji=heart04>」"
-    },
-    {
-        "message": "说着，沙知用自己的手指撑开阴道口，摇晃着屁股诱惑着。"
-    },
-    {
-        "name": "クロト",
-        "message": "「……！」"
-    },
-    {
-        "message": "平时做爱时总是害羞的沙知，这次因为淫纹的效果，理性完全丧失，发情得无法自制。"
-    },
-    {
-        "name": "クロト",
-        "message": "「等、等一下！　得先准备一下……」"
-    },
-    {
-        "message": "我试图用手指进行前戏，但当手指碰到阴道时，已经不需要前戏了，里面已经湿透了。"
+        "message": "「已，已经不行了<emoji=heart04>　忍不住了……！　哥哥，对不起<emoji=heart04>」"
     },
     {
         "name": "サチ",
-        "message": "「嗯～～～！！　求你了，别这样<emoji=heart04>　快点，快点干我～<emoji=heart04>」"
+        "message": "「快点！　快点给我鸡鸡吧<emoji=heart04><emoji=heart04>　我已经忍不住了～～<emoji=heart04><emoji=heart04><emoji=heart04>」"
     },
     {
-        "name": "サチ",
-        "message": "「啊啊啊<emoji=heart04>　我平时总是禁止做这些事<emoji=heart04>　嗯啊<emoji=heart04>　你是在故意折磨我吗？」"
-    },
-    {
-        "name": "サチ",
-        "message": "「我会好好道歉的，求你了<emoji=heart04>　嗯嗯嗯<emoji=heart04>」"
-    },
-    {
-        "name": "サチ",
-        "message": "「啊啊啊<emoji=heart04>　平时总是装作对这些事不感兴趣，对不起<emoji=heart04>」"
-    },
-    {
-        "name": "サチ",
-        "message": "「其实我真的很喜欢做这些事<emoji=heart04>　啊啊嗯<emoji=heart04>　每次见到哥哥，我都会期待做这些事<emoji=heart04>」"
-    },
-    {
-        "name": "サチ",
-        "message": "「明明是附属学校的学生会长，却这么下流，对不起<emoji=heart04>　啊啊嗯<emoji=heart04>」"
-    },
-    {
-        "name": "サチ",
-        "message": "「但我真的忍不住了<emoji=heart04>　啊啊啊<emoji=heart04>」"
-    },
-    {
-        "name": "サチ",
-        "message": "「我是哥哥专用的阴道<emoji=heart04>」"
-    },
-    {
-        "name": "サチ",
-        "message": "「我是个内心喜欢做这些事的淫乱学生会长<emoji=heart04>　啊啊啊<emoji=heart04>　对不起，我喜欢做这些事<emoji=heart04>」"
-    },
-    {
-        "name": "サチ",
-        "message": "「所以哥哥，对淫荡的附属生进行惩罚性交吧<emoji=heart04>　性交吧，性交吧<emoji=heart04>」"
-    },
-    {
-        "name": "クロト",
-        "message": "「唔……明白了。马上插进去了！」"
-    },
-    {
-        "message": "沙知的淫荡煽动话语，让阴茎已经完全勃起了。"
-    },
-    {
-        "name": "サチ",
-        "message": "「啊啊啊<emoji=heart04>　哥哥的阴茎，顶到阴道了<emoji=heart04>　啊啊啊，好厉害<emoji=heart04>　好大，好硬<emoji=heart04>」"
-    },
-    {
-        "name": "サチ",
-        "message": "「快点，快点插进来<emoji=heart04>」"
-    },
-    {
-        "name": "クロト",
-        "message": "「插进去了，沙知……！」"
-    },
-    {
-        "name": "サチ",
-        "message": "「嗯<emoji=heart04>　嗯嗯<emoji=heart04>　来了<emoji=heart04>　阴茎，快点<emoji=heart04>」"
-    },
-    {
-        "name": "サチ",
-        "message": "「啊――<emoji=heart04><emoji=heart04>」"
-    },
-    {
-        "name": "サチ",
-        "message": "「啊啊啊啊啊啊啊啊啊啊啊啊<emoji=heart04><emoji=heart04><emoji=heart04>　阴茎来了啊啊啊啊啊啊啊啊啊啊啊啊<emoji=heart04><emoji=heart04><emoji=heart04>」"
-    },
-    {
-        "message": "虽然没有那么用力地插进去，但沙知的阴道已经被爱液弄得湿漉漉的，所以一下子就被吞进去了。"
-    },
-    {
-        "name": "サチ",
-        "message": "「嗯嗯<emoji=heart04>　啊啊啊<emoji=heart04>　呼呼<emoji=heart04>　嗯啊<emoji=heart04>　啊啊啊<emoji=heart04>　啊啊啊<emoji=heart04><emoji=heart04>　嗯嗯<emoji=heart04>　啊啊啊<emoji=heart04>　啊啊啊<emoji=heart04>」"
-    },
-    {
-        "name": "クロト",
-        "message": "「唔……沙知的里面，好厉害……！」"
-    },
-    {
-        "message": "仿佛用嘴巴进行吸吮一样，阴道紧紧吸住阴茎。"
-    },
-    {
-        "message": "这是无法用言语形容的快乐的深渊，稍不注意就会射精。"
-    },
-    {
-        "name": "サチ",
-        "message": "「啊啊<emoji=heart04>　阴道好舒服<emoji=heart04>　阴茎好舒服<emoji=heart04>」"
-    },
-    {
-        "name": "サチ",
-        "message": "「啊啊啊啊，好厉害<emoji=heart04>　哥哥的阴茎，比平时更舒服<emoji=heart04>」"
-    },
-    {
-        "name": "サチ",
-        "message": "「啊<emoji=heart04>　啊啊<emoji=heart04>　嗯嗯<emoji=heart04>　啊啊啊<emoji=heart04>　啊啊啊啊<emoji=heart04>」"
-    },
-    {
-        "name": "サチ",
-        "message": "「哥哥的阴茎，好舒服<emoji=heart04>　啊啊啊<emoji=heart04>　喜欢，喜欢喜欢喜欢<emoji=heart04>」"
-    },
-    {
-        "message": "我伸手摸向沙知的胸部。"
-    },
-    {
-        "name": "サチ",
-        "message": "「啊啊啊<emoji=heart04><emoji=heart04>　胸部<emoji=heart04>　再用力一点<emoji=heart04>」"
-    },
-    {
-        "name": "サチ",
-        "message": "「呼唔嗯<emoji=heart04>　再粗暴一点<emoji=heart04>　乳头也要捏<emoji=heart04>」"
-    },
-    {
-        "name": "サチ",
-        "message": "「啊啊啊<emoji=heart04>　胸部被用力揉的感觉<emoji=heart04>　乳头被弄得硬硬的，好舒服～～<emoji=heart04>」"
-    },
-    {
-        "name": "サチ",
-        "message": "「啊嗯<emoji=heart04>　啊嗯<emoji=heart04>　啊嗯<emoji=heart04>　呼啊啊<emoji=heart04>　太舒服了，脑袋都要爆炸了～～<emoji=heart04>」"
-    },
-    {
-        "name": "サチ",
-        "message": "「哈啊啊啊<emoji=heart04>　哥哥，求你了<emoji=heart04>　阴道<emoji=heart04>　再弄阴道<emoji=heart04>　用力，用力～～<emoji=heart04>」"
-    },
-    {
-        "name": "サチ",
-        "message": "「更更更想要更舒服<emoji=heart04>　呼唔嗯<emoji=heart04>　哥哥射精的时候，用力抽插<emoji=heart04>」"
-    },
-    {
-        "name": "サチ",
-        "message": "「想要这样<emoji=heart04>　用力干<emoji=heart04>　啊啊啊啊<emoji=heart04>　阴道舒服点<emoji=heart04>」"
-    },
-    {
-        "name": "サチ",
-        "message": "「再粗暴点也没关系<emoji=heart04>　啊哈啊<emoji=heart04>　求你了～～<emoji=heart04>」"
-    },
-    {
-        "message": "沙知的愿望我想满足她，但再加快速度的话真的马上就要射了，所以我无法加快速度。"
-    },
-    {
-        "message": "犹豫的时候，沙知自己开始摇动腰部。"
-    },
-    {
-        "name": "サチ",
-        "message": "「嗯唔～～<emoji=heart04>　哥哥～～<emoji=heart04>」"
-    },
-    {
-        "name": "サチ",
-        "message": "「嗯嗯……太不检点了，对不起<emoji=heart04>　啊啊啊<emoji=heart04>　但阴道，想要更舒服<emoji=heart04>」"
-    },
-    {
-        "name": "サチ",
-        "message": "「啊啊啊<emoji=heart04>　求你了<emoji=heart04>　阴道更<emoji=heart04>　更用力<emoji=heart04>」"
-    },
-    {
-        "name": "サチ",
-        "message": "「任性对不起<emoji=heart04>　淫荡对不起<emoji=heart04>　啊啊啊<emoji=heart04>　但忍不住～～<emoji=heart04>」"
-    },
-    {
-        "name": "サチ",
-        "message": "「不要再撩拨了<emoji=heart04>　用哥哥的大鸡巴，调教附属学校的淫乱小骚货阴道<emoji=heart04>」"
+        "message": "她一边说着，一边用自己的手指撑开小穴，摇着屁股诱惑我。"
     },
     {
         "name": "クロト",
         "message": "「……！」"
     },
     {
-        "name": "クロト",
-        "message": "「激烈点来代替，我也不会坚持很久的……！　来了！」"
-    },
-    {
-        "name": "サチ",
-        "message": "「是的～<emoji=heart04>　阴茎，再多给点吧～<emoji=heart04>」"
-    },
-    {
-        "name": "サチ",
-        "message": "「啊啊啊――<emoji=heart04><emoji=heart04>」"
-    },
-    {
-        "name": "サチ",
-        "message": "「啊啊啊啊啊啊啊啊～～～～～～～<emoji=heart04><emoji=heart04><emoji=heart04>」"
-    },
-    {
-        "name": "サチ",
-        "message": "「啊啊啊啊啊啊啊啊啊啊啊～<emoji=heart04>　阴茎，谢谢了～<emoji=heart04>」"
-    },
-    {
-        "name": "サチ",
-        "message": "「啊啊啊啊啊啊啊啊啊啊啊～<emoji=heart04>　太棒了<emoji=heart04>　阴茎，感觉真好～<emoji=heart04>」"
-    },
-    {
-        "name": "サチ",
-        "message": "「谢谢了～<emoji=heart04>　啊啊啊啊啊啊啊啊啊啊～<emoji=heart04>　阴茎，谢谢了～<emoji=heart04>」"
-    },
-    {
-        "name": "サチ",
-        "message": "「啊啊啊啊啊啊啊啊啊啊啊～<emoji=heart04>　阴道感觉真好～<emoji=heart04>　喜欢～喜欢～喜欢～<emoji=heart04>」"
-    },
-    {
-        "name": "サチ",
-        "message": "「嗯嗯嗯嗯嗯嗯～<emoji=heart04>　谢谢了～<emoji=heart04>　啊啊啊啊啊啊啊啊啊啊～<emoji=heart04>　谢谢了～<emoji=heart04>」"
-    },
-    {
-        "name": "サチ",
-        "message": "「啊啊啊啊啊啊啊啊啊啊～<emoji=heart04>　幸福～<emoji=heart04>　啊啊啊啊啊啊啊啊啊啊～<emoji=heart04>　阴道幸福～<emoji=heart04>」"
-    },
-    {
-        "name": "サチ",
-        "message": "「阴茎最棒了啊啊啊<emoji=heart04>　啊<emoji=heart04>　哈啊啊<emoji=heart04>　呼啊啊<emoji=heart04>　感觉好好<emoji=heart04>　阴道感觉好好啊啊啊<emoji=heart04>」"
-    },
-    {
-        "name": "サチ",
-        "message": "「更多，更多，请再多插几下啊啊啊<emoji=heart04>　请求您了啊啊啊<emoji=heart04>　请求您了啊啊啊<emoji=heart04>」"
-    },
-    {
-        "message": "我不仅仅是猛烈地插入最深处，还在不变速度的情况下，用龟头摩擦浅处的G点。"
-    },
-    {
-        "name": "サチ",
-        "message": "「呼啊啊<emoji=heart04>　浅处，感觉好好啊啊啊啊<emoji=heart04><emoji=heart04><emoji=heart04>」"
-    },
-    {
-        "name": "サチ",
-        "message": "「啊<emoji=heart04>　嗯啊<emoji=heart04>　呼啊啊啊<emoji=heart04>　嗯唔<emoji=heart04>　哈啊啊<emoji=heart04>　啊，那里<emoji=heart04>　那里那里<emoji=heart04>　感觉好好啊啊啊<emoji=heart04>　啊啊啊<emoji=heart04>　谢谢您啊啊啊<emoji=heart04>」"
-    },
-    {
-        "name": "サチ",
-        "message": "「哈啊啊啊<emoji=heart04>　喜欢<emoji=heart04>　喜欢喜欢喜欢啊啊啊<emoji=heart04>　嗯呼嗯<emoji=heart04>　谢谢您啊啊啊<emoji=heart04>　谢谢您啊啊啊<emoji=heart04>」"
-    },
-    {
-        "name": "サチ",
-        "message": "「感觉好棒<emoji=heart04>　感觉好棒～<emoji=heart04>　啊啊啊～<emoji=heart04>　感觉好棒啊～<emoji=heart04>」"
-    },
-    {
-        "name": "サチ",
-        "message": "「谢谢<emoji=heart04>　谢谢<emoji=heart04><emoji=heart04>　啊啊啊、感觉好棒好幸福～<emoji=heart04><emoji=heart04><emoji=heart04>」"
-    },
-    {
-        "message": "流着泪水和口水，幸福地喘息着的沙知。"
-    },
-    {
-        "name": "サチ",
-        "message": "「啊<emoji=heart04>　啊<emoji=heart04>　啊啊啊<emoji=heart04>　嗯啊啊啊<emoji=heart04><emoji=heart04>　嗯<emoji=heart04>　嗯嗯嗯<emoji=heart04>　啊啊啊<emoji=heart04>　啊啊啊啊<emoji=heart04><emoji=heart04><emoji=heart04>」"
-    },
-    {
-        "name": "サチ",
-        "message": "「不行了<emoji=heart04>　要高潮了<emoji=heart04>　请求你了<emoji=heart04>　请求你了<emoji=heart04>　让我高潮吧，哥哥～<emoji=heart04>」"
+        "message": "平时做爱时，幸多半会表现出羞涩的样子，但现在似乎因为淫纹的效果而发情到丧失了理性。"
     },
     {
         "name": "クロト",
-        "message": "「我也快要高潮了……！」"
+        "message": "「等，等一下！　我得先准备一下……」"
+    },
+    {
+        "message": "我本想用手淫作为前戏，但当我一碰到小穴，就发现那里已经湿得不需要前戏了。"
     },
     {
         "name": "サチ",
-        "message": "「是的<emoji=heart04>　更激烈点，更激烈点<emoji=heart04>」"
-    },
-    {
-        "message": "我忍住立刻射精的欲望，更加激烈地动着腰，进入最后的冲刺。"
+        "message": "「嗯～～～！！　求你了，不要再捉弄我了<emoji=heart04>　快点，快点插我的小穴～<emoji=heart04>」"
     },
     {
         "name": "サチ",
-        "message": "「啊啊啊啊<emoji=heart04>　阴茎<emoji=heart04>　阴茎好棒啊<emoji=heart04>」"
+        "message": "「啊啊啊啊<emoji=heart04>　我总是说禁止做色色的事情，<emoji=heart04>　哈啊嗯<emoji=heart04>　你是在故意捉弄我吗？」"
     },
     {
         "name": "サチ",
-        "message": "「感觉好棒<emoji=heart04>　感觉好棒<emoji=heart04>　感觉好棒～<emoji=heart04>　啊啊～～<emoji=heart04>　啊啊～～<emoji=heart04><emoji=heart04>　啊啊～～～<emoji=heart04><emoji=heart04><emoji=heart04>」"
+        "message": "「我一定会好好道歉的！　求求你了<emoji=heart04>　嗯呼唔唔嗯<emoji=heart04>」"
     },
     {
         "name": "サチ",
-        "message": "「啊啊啊啊<emoji=heart04>　来了<emoji=heart04><emoji=heart04>　要来了<emoji=heart04>　幸福来了～<emoji=heart04><emoji=heart04><emoji=heart04>」"
+        "message": "「哈啊啊啊啊<emoji=heart04>　对不起，我总是装作对色色的事情没兴趣的样子<emoji=heart04>」"
     },
     {
         "name": "サチ",
-        "message": "「啊<emoji=heart04>　嗯啊<emoji=heart04>　啊啊啊<emoji=heart04>　幸福<emoji=heart04>　幸福要来了<emoji=heart04><emoji=heart04>　啊<emoji=heart04>　啊啊啊<emoji=heart04>　嗯啊啊啊～～～<emoji=heart04><emoji=heart04><emoji=heart04>」"
+        "message": "「其实我最喜欢色色的事情了<emoji=heart04>　啊啊啊嗯<emoji=heart04>　每次见到哥哥，我都会期待着色色的事情<emoji=heart04>」"
     },
     {
         "name": "サチ",
-        "message": "「啊啊啊啊<emoji=heart04>　幸福来了～～～<emoji=heart04><emoji=heart04><emoji=heart04>」"
+        "message": "「明明是附属校的学生会长，却这么不检点，真的很抱歉<emoji=heart04>　哈啊啊嗯<emoji=heart04>」"
+    },
+    {
+        "name": "サチ",
+        "message": "「但是，我真的无法忍耐色色的事情了<emoji=heart04>　啊啊啊啊<emoji=heart04>」"
+    },
+    {
+        "name": "サチ",
+        "message": "「我是哥哥的专用小穴<emoji=heart04>」"
+    },
+    {
+        "name": "サチ",
+        "message": "「我就是个被色色的事情弄得很开心的淫乱学生会长啦<emoji=heart04>　啊啊啊啊<emoji=heart04>　对不起，我这么色<emoji=heart04>」"
+    },
+    {
+        "name": "サチ",
+        "message": "「所以哥哥，请惩罚这个好色的附属生吧<emoji=heart04>　请尽情地抽插我的小穴吧<emoji=heart04>」"
     },
     {
         "name": "クロト",
-        "message": "「……沙知！　要射在里面了！！！」"
+        "message": "「唔……知道了。那我要插进去了哦！」"
+    },
+    {
+        "message": "听了幸淫乱的煽动话语，我的阴茎已经完全勃起，硬邦邦的了。"
     },
     {
         "name": "サチ",
-        "message": "「啊啊啊啊<emoji=heart04><emoji=heart04>　要高潮了<emoji=heart04>　高潮高潮高潮高潮高潮<emoji=heart04><emoji=heart04><emoji=heart04>」"
+        "message": "「哈啊啊啊嗯<emoji=heart04>　哥哥的大○鸡，顶到小穴了<emoji=heart04>　哈啊啊啊，好厉害<emoji=heart04>　又大，又硬<emoji=heart04>」"
     },
     {
         "name": "サチ",
-        "message": "「高潮――――<emoji=heart04><emoji=heart04><emoji=heart04>」"
+        "message": "「快点，快点插进来吧<emoji=heart04>」"
+    },
+    {
+        "name": "クロト",
+        "message": "「要插进去了哦，幸……！」"
     },
     {
         "name": "サチ",
-        "message": "「呼哇啊啊啊啊啊<emoji=heart04><emoji=heart04><emoji=heart04>　哇啊啊啊啊啊～<emoji=heart04><emoji=heart04><emoji=heart04>」"
+        "message": "「好的<emoji=heart04>　好的——<emoji=heart04>　来吧<emoji=heart04>　快点把大○鸡插进来吧——<emoji=heart04>」"
     },
     {
         "name": "サチ",
-        "message": "「啊啊啊啊啊～～～～～<emoji=heart04><emoji=heart04><emoji=heart04>　哥哥的精液，全都射进来了啊啊啊啊～～～～～<emoji=heart04><emoji=heart04>」"
+        "message": "「啊——<emoji=heart04><emoji=heart04>」"
     },
     {
         "name": "サチ",
-        "message": "「子宫里，感觉到滚烫的液体在跳动～～～<emoji=heart04>　啊啊啊～～～<emoji=heart04>　啊啊，幸福～～<emoji=heart04><emoji=heart04>」"
+        "message": "「呼啊啊啊啊啊啊<emoji=heart04><emoji=heart04>　大○鸡进来了啊啊啊啊啊啊～～～～～～<emoji=heart04><emoji=heart04><emoji=heart04>」"
+    },
+    {
+        "message": "明明插入的速度并不快，但可能是因为幸的小穴已经被爱液弄得湿漉漉的，一下子就被吞到了最深处。"
     },
     {
         "name": "サチ",
-        "message": "「啊啊啊～～<emoji=heart04>　嗯……呼唔<emoji=heart04>　哈啊，子宫里全是精液<emoji=heart04>　谢谢您了～～<emoji=heart04>」"
+        "message": "「嗯呜呜<emoji=heart04>　哈啊啊啊<emoji=heart04>　呼呜呜<emoji=heart04>　嗯啊啊<emoji=heart04>　呼啊啊啊<emoji=heart04>　啊啊啊嗯<emoji=heart04><emoji=heart04>　嗯嗯嗯<emoji=heart04>　哈啊啊<emoji=heart04>　嗯啊啊啊嗯<emoji=heart04>」"
+    },
+    {
+        "name": "クロト",
+        "message": "「唔……幸的里面，好厉害……！」"
+    },
+    {
+        "message": "就像是在用嘴做真空口交一样，小穴紧紧地吸附着阴茎。"
+    },
+    {
+        "message": "这简直就是难以用笔墨形容的快乐熔炉，稍有不慎就会立刻射精。"
     },
     {
         "name": "サチ",
-        "message": "「啊啊……<emoji=heart04>　呼呼<emoji=heart04>　射精，真是太棒了……终于，结束了<emoji=heart04>」"
+        "message": "「啊啊嗯<emoji=heart04>　小穴好舒服<emoji=heart04>　大○鸡好舒服啊<emoji=heart04>」"
     },
     {
-        "message": "我慢慢地抽出阴茎。"
+        "name": "サチ",
+        "message": "「呼啊啊啊啊，好厉害<emoji=heart04>　哥哥的大○鸡，感觉比平时还要舒服<emoji=heart04>」"
+    },
+    {
+        "name": "サチ",
+        "message": "「啊<emoji=heart04>　啊啊啊嗯<emoji=heart04>　嗯嗯呜<emoji=heart04>　哈啊啊啊<emoji=heart04>　呼啊啊啊啊嗯<emoji=heart04>」"
+    },
+    {
+        "name": "サチ",
+        "message": "「哥哥的大○鸡，好舒服～<emoji=heart04>　啊哈啊啊<emoji=heart04>　喜欢，喜欢喜欢喜欢你<emoji=heart04>」"
+    },
+    {
+        "message": "我把手伸向幸的胸部，开始抚摸。"
+    },
+    {
+        "name": "サチ",
+        "message": "「啊啊啊<emoji=heart04><emoji=heart04>　胸部<emoji=heart04>　请再用力一点<emoji=heart04>」"
+    },
+    {
+        "name": "サチ",
+        "message": "「哈呼嗯嗯<emoji=heart04>　好想被更加粗暴地对待啊<emoji=heart04>　把乳头也捏一捏吧<emoji=heart04>」"
+    },
+    {
+        "name": "サチ",
+        "message": "「啊啊啊<emoji=heart04>　胸部被用力揉的感觉好强烈<emoji=heart04>　乳头被捏来捏去，好舒服～～<emoji=heart04>」"
+    },
+    {
+        "name": "サチ",
+        "message": "「啊嗯<emoji=heart04>　啊嗯<emoji=heart04>　啊嗯<emoji=heart04>　呼啊啊啊<emoji=heart04>　太舒服了，脑袋里都变得一片空白了～<emoji=heart04>」"
+    },
+    {
+        "name": "サチ",
+        "message": "「哈啊啊啊啊<emoji=heart04>　哥哥，拜托你了<emoji=heart04>　小穴<emoji=heart04>　再多插插小穴吧<emoji=heart04>　激烈点，再激烈点～～<emoji=heart04>」"
+    },
+    {
+        "name": "サチ",
+        "message": "「人家还想变得更加更加舒服啊<emoji=heart04>　哈呼嗯嗯<emoji=heart04>　用哥哥想要射精时的那种，认真的抽插吧<emoji=heart04>」"
+    },
+    {
+        "name": "サチ",
+        "message": "「人家好想体验那个啊<emoji=heart04>　认真地啪啪啪<emoji=heart04>　啊啊啊啊啊<emoji=heart04>　请把小穴弄得更舒服吧<emoji=heart04>」"
+    },
+    {
+        "name": "サチ",
+        "message": "「就算粗暴一点也没关系的<emoji=heart04>　啊哈啊啊嗯<emoji=heart04>　拜托你了～<emoji=heart04>」"
+    },
+    {
+        "message": "虽然我很想回应幸的期望，但如果动作再快一点的话，感觉真的会马上射精，所以我迟迟无法加快速度。"
+    },
+    {
+        "message": "正当我犹豫不决时，幸主动地开始扭动起腰部。"
+    },
+    {
+        "name": "サチ",
+        "message": "「嗯呜呜～<emoji=heart04>　哥哥～<emoji=heart04>」"
+    },
+    {
+        "name": "サチ",
+        "message": "「嗯嗯……这么下流，真的很抱歉<emoji=heart04>　啊啊啊嗯<emoji=heart04>　但是小穴，想要变得更加舒服啊<emoji=heart04>」"
+    },
+    {
+        "name": "サチ",
+        "message": "「啊啊啊<emoji=heart04>　拜托你了<emoji=heart04>　小穴还要<emoji=heart04>　再激烈一点～<emoji=heart04>」"
+    },
+    {
+        "name": "サチ",
+        "message": "「对不起，我这么任性<emoji=heart04>　对不起，我这么淫乱<emoji=heart04>　啊啊啊<emoji=heart04>　但是我忍不住了～<emoji=heart04>」"
+    },
+    {
+        "name": "サチ",
+        "message": "「不要让我等了啦<emoji=heart04>　用哥哥强壮的鸡鸡，调教我这个<emoji=heart04>　淫乱又闷骚的留学生的骚穴吧～<emoji=heart04>」"
+    },
+    {
+        "name": "クロト",
+        "message": "「……！」"
+    },
+    {
+        "name": "クロト",
+        "message": "「如果要我激烈一点的话，我也就没办法坚持太久了哦……！　我要上了！」"
+    },
+    {
+        "name": "サチ",
+        "message": "「好的～<emoji=heart04>　请把鸡鸡，插得更深一点吧<emoji=heart04>」"
+    },
+    {
+        "name": "サチ",
+        "message": "「啊啊啊——<emoji=heart04><emoji=heart04>」"
+    },
+    {
+        "name": "サチ",
+        "message": "「呼啊啊啊啊啊啊<emoji=heart04>　好激烈啊啊啊～～～～～～<emoji=heart04><emoji=heart04><emoji=heart04>」"
+    },
+    {
+        "name": "サチ",
+        "message": "「啊啊啊啊啊<emoji=heart04>　大肉棒，谢谢你啦啊啊啊<emoji=heart04>」"
+    },
+    {
+        "name": "サチ",
+        "message": "「哈啊啊啊啊<emoji=heart04>　好厉害<emoji=heart04>　大肉棒，好舒服啊啊<emoji=heart04>」"
+    },
+    {
+        "name": "サチ",
+        "message": "「谢谢你啦<emoji=heart04>　啊啊啊嗯<emoji=heart04>　大肉棒，谢谢你啦啊啊<emoji=heart04>」"
+    },
+    {
+        "name": "サチ",
+        "message": "「呼哇啊啊啊<emoji=heart04>　小穴好舒服<emoji=heart04>　喜欢，喜欢，喜欢你～<emoji=heart04>」"
+    },
+    {
+        "name": "サチ",
+        "message": "「嗯呼唔唔唔唔<emoji=heart04>　谢谢你啦<emoji=heart04>　呼哇啊啊啊<emoji=heart04>　谢谢你啦～<emoji=heart04>」"
+    },
+    {
+        "name": "サチ",
+        "message": "「哈啊啊啊啊<emoji=heart04>　好幸福<emoji=heart04>　啊啊啊嗯<emoji=heart04>　小穴好幸福<emoji=heart04>」"
+    },
+    {
+        "name": "サチ",
+        "message": "「大肉棒太棒了啦<emoji=heart04>　啊<emoji=heart04>　哈啊啊啊<emoji=heart04>　呼啊啊啊<emoji=heart04>　好舒服啊<emoji=heart04>　小穴好舒服啊啊～<emoji=heart04>」"
+    },
+    {
+        "name": "サチ",
+        "message": "「继续，继续狠狠地顶进来吧<emoji=heart04>　拜托你了<emoji=heart04>　拜托你了啦<emoji=heart04>」"
+    },
+    {
+        "message": "我不光是激烈地往深处顶，还保持着同样的速度，用冠状沟摩擦着浅处的G点。"
+    },
+    {
+        "name": "サチ",
+        "message": "「呼啊啊啊<emoji=heart04>　浅的地方，好舒服啊啊啊啊啊<emoji=heart04><emoji=heart04><emoji=heart04>」"
+    },
+    {
+        "name": "サチ",
+        "message": "「啊<emoji=heart04>　嗯啊啊<emoji=heart04>　呼啊啊啊啊<emoji=heart04>　嗯呜呜<emoji=heart04>　哈啊啊啊<emoji=heart04>　啊，那里<emoji=heart04>　那里那里<emoji=heart04>　好舒服<emoji=heart04>　啊啊啊<emoji=heart04>　谢谢你<emoji=heart04>」"
+    },
+    {
+        "name": "サチ",
+        "message": "「哈啊啊啊啊<emoji=heart04>　喜欢<emoji=heart04>　喜欢喜欢喜欢<emoji=heart04>　嗯呼呜呜嗯<emoji=heart04>　谢谢你<emoji=heart04>　谢谢你<emoji=heart04>」"
+    },
+    {
+        "name": "サチ",
+        "message": "「好舒服<emoji=heart04>　好舒服～<emoji=heart04>　呼啊啊啊啊<emoji=heart04>　好舒服啊啊<emoji=heart04>」"
+    },
+    {
+        "name": "サチ",
+        "message": "「谢谢你<emoji=heart04>　谢谢你<emoji=heart04><emoji=heart04>　啊啊啊，好舒服好幸福～<emoji=heart04><emoji=heart04><emoji=heart04>」"
+    },
+    {
+        "message": "幸流着泪水和口水，带着幸福的笑容娇喘着。"
+    },
+    {
+        "name": "サチ",
+        "message": "「啊<emoji=heart04>　啊<emoji=heart04>　呼啊啊<emoji=heart04>　嗯啊啊啊<emoji=heart04><emoji=heart04>　嗯<emoji=heart04>　嗯嗯呜<emoji=heart04>　哈啊啊啊<emoji=heart04>　呼啊啊啊啊<emoji=heart04><emoji=heart04><emoji=heart04>」"
+    },
+    {
+        "name": "サチ",
+        "message": "「已经不行了<emoji=heart04>　要高潮了<emoji=heart04>　拜托了<emoji=heart04>　拜托了<emoji=heart04>　请让我高潮吧，哥哥<emoji=heart04>」"
+    },
+    {
+        "name": "クロト",
+        "message": "「我也快，要射了……！」"
+    },
+    {
+        "name": "サチ",
+        "message": "「好的<emoji=heart04>　请，请更加激烈地做吧<emoji=heart04>」"
+    },
+    {
+        "message": "我一边忍耐着想要立刻尽情射出来的射精欲望，一边更加激烈地活动腰部，开始了最后的冲刺。"
+    },
+    {
+        "name": "サチ",
+        "message": "「呼啊啊啊啊啊<emoji=heart04>　大肉棒<emoji=heart04>　大肉棒好厉害啊啊<emoji=heart04>」"
+    },
+    {
+        "name": "サチ",
+        "message": "「好舒服<emoji=heart04>　好舒服<emoji=heart04>　好舒服啊～<emoji=heart04>　咿咿～～<emoji=heart04>　咿咿～～<emoji=heart04><emoji=heart04>　咿咿咿～～～<emoji=heart04><emoji=heart04><emoji=heart04>」"
+    },
+    {
+        "name": "サチ",
+        "message": "「啊啊啊啊啊<emoji=heart04>　要来了<emoji=heart04><emoji=heart04>　要来了<emoji=heart04>　幸福要来了呜呜<emoji=heart04><emoji=heart04><emoji=heart04>」"
+    },
+    {
+        "name": "サチ",
+        "message": "「啊<emoji=heart04>　嗯啊啊<emoji=heart04>　呼啊啊啊<emoji=heart04>　好幸福<emoji=heart04>　变得好幸福啊<emoji=heart04><emoji=heart04>　啊啊<emoji=heart04>　呼啊啊啊<emoji=heart04>　嗯啊啊啊啊啊～～～<emoji=heart04><emoji=heart04><emoji=heart04>」"
+    },
+    {
+        "name": "サチ",
+        "message": "「啊啊啊啊啊<emoji=heart04>　幸福要来啦啊啊啊啊～～～<emoji=heart04><emoji=heart04><emoji=heart04>」"
+    },
+    {
+        "name": "クロト",
+        "message": "「……幸！　我要射在里面了！！！」"
+    },
+    {
+        "name": "サチ",
+        "message": "「啊啊啊啊啊啊<emoji=heart04><emoji=heart04>　去了<emoji=heart04>　去了去了去了去了去了<emoji=heart04><emoji=heart04><emoji=heart04>」"
+    },
+    {
+        "name": "サチ",
+        "message": "「去————<emoji=heart04><emoji=heart04><emoji=heart04>」"
+    },
+    {
+        "name": "サチ",
+        "message": "「去了呜呜呜呜——————————<emoji=heart04><emoji=heart04><emoji=heart04>　呼啊啊啊啊啊啊啊啊啊～～～～～～～～～<emoji=heart04><emoji=heart04><emoji=heart04>」"
+    },
+    {
+        "name": "サチ",
+        "message": "「哈啊啊啊啊啊啊～～～～<emoji=heart04><emoji=heart04><emoji=heart04>　哥哥的精液，在里面射了好多好多呜呜呜呜呜呜～～～～<emoji=heart04><emoji=heart04>」"
+    },
+    {
+        "name": "サチ",
+        "message": "「子宫里面，感觉热热的在咕嘟咕嘟地流～～～<emoji=heart04>　呼啊啊啊啊～～～<emoji=heart04>　啊啊啊，好幸福～～<emoji=heart04><emoji=heart04>」"
+    },
+    {
+        "name": "サチ",
+        "message": "「哈啊啊啊～～<emoji=heart04>　嗯……呼唔唔<emoji=heart04>　哈啊啊，子宫里灌满了精液<emoji=heart04>　真的非常感谢……<emoji=heart04>」"
+    },
+    {
+        "name": "サチ",
+        "message": "「哈啊啊……<emoji=heart04>　呼唔唔<emoji=heart04>　射精，好厉害……终于，结束了<emoji=heart04>」"
+    },
+    {
+        "message": "我慢慢地把阴茎拔了出来。"
     },
     {
         "name": "サチ",
@@ -437,30 +437,30 @@
     },
     {
         "name": "サチ",
-        "message": "「啊啊啊……<emoji=heart04>　呼呼呼……<emoji=heart04>」"
+        "message": "「哈啊啊啊……<emoji=heart04>　哈呼唔唔唔……<emoji=heart04>」"
     },
     {
         "name": "クロト",
-        "message": "「沙知，怎么样？」"
+        "message": "「幸，感觉怎么样？」"
     },
     {
         "name": "サチ",
-        "message": "「啊啊<emoji=heart04>　是的……<emoji=heart04>　做爱……真的，很舒服<emoji=heart04>」"
+        "message": "「哈啊啊<emoji=heart04>　是的……<emoji=heart04>　做爱……真的，非常舒服<emoji=heart04>」"
     },
     {
         "name": "クロト",
-        "message": "「呃、淫纹是……？」"
+        "message": "「那个，淫纹呢……？」"
     },
     {
         "name": "サチ",
-        "message": "「哎……？　啊！」"
+        "message": "「诶……？　啊！」"
     },
     {
-        "message": "沙知，突然把视线落在了肚子上。"
+        "message": "幸像是突然想起了什么似的，把视线落在了肚子上。"
     },
     {
         "name": "サチ",
-        "message": "「啊……还没有消失，好像。虽然得到了很多快感……但好像还不够……<emoji=heart04>」"
+        "message": "「啊……好像还没有消失呢。虽然已经让我非常舒服了……但是……好像还是不够……<emoji=heart04>」"
     },
     {
         "name": "クロト",
@@ -468,41 +468,41 @@
     },
     {
         "name": "サチ",
-        "message": "「是、是的……身体的发热，还没有平息……<emoji=heart04>」"
+        "message": "「是，是的……身体的燥热，还没有消退……<emoji=heart04>」"
     },
     {
         "name": "クロト",
-        "message": "「那，再努力一次吧」"
+        "message": "「那，我们得再努力一次了」"
     },
     {
         "name": "サチ",
-        "message": "「嗯……<emoji=heart04>　是、是的<emoji=heart04>」"
+        "message": "「嗯……<emoji=heart04>　好，好的<emoji=heart04>」"
     },
     {
         "name": "サチ",
-        "message": "「哥哥，那个……」"
+        "message": "「大哥，那个……」"
     },
     {
         "name": "サチ",
-        "message": "「……<ruby=・・・・・・・・・・>谢谢</ruby><emoji=heart04>」"
+        "message": "「……<ruby=・・・・・・・・・・>非常感谢你</ruby><emoji=heart04>」"
     },
     {
         "name": "サチ",
-        "message": "「在做爱的时候……说了很多次喜欢你……」"
+        "message": "「虽然在做爱的过程中……已经说了好多次喜欢了……」"
     },
     {
         "name": "サチ",
-        "message": "「我那个……比起做爱，更喜欢你——那个，非常喜欢你<emoji=heart04>」"
+        "message": "「但是比起色色的事，我其实……更喜欢大哥——那个，最喜欢了<emoji=heart04>」"
     },
     {
         "name": "サチ",
-        "message": "「啊……好厉害<emoji=heart04>　哥哥，已经变大了……<emoji=heart04>」"
+        "message": "「啊……好厉害<emoji=heart04>　大哥哥，已经变大了呢……<emoji=heart04>」"
     },
     {
         "name": "サチ",
         "message": "「啊<emoji=heart04>　啊嗯<emoji=heart04>」"
     },
     {
-        "message": "之后，直到淫纹消失为止，我多次在她体内射精，她每次都高兴地说『谢谢』。――"
+        "message": "在那之后，直到淫纹消失之前，我一次又一次地将精液注入到她体内，而她每次都会高兴地对我说『非常感谢』――"
     }
 ]

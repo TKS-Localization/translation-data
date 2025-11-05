@@ -1,46 +1,46 @@
 [
     {
         "name": "Title",
-        "message": "第2话, 咪咪猫模式,P"
+        "message": "第2话,喵喵猫模式,P"
     },
     {
-        "message": "希托莉能变成万圣节形态之后，和以前相比有了些变化。"
+        "message": "自从希朵莉能够变身成万圣节形态后，她就和以前有些不同了。"
     },
     {
-        "message": "那天希托莉来我家玩――"
-    },
-    {
-        "name": "ヒトリ",
-        "message": "「咪呀<emoji=heart04>　咕噜咕噜……<emoji=heart04>」"
+        "message": "那天，希朵莉来我家玩――"
     },
     {
         "name": "ヒトリ",
-        "message": "「主人的膝盖上，很安心，咪……♪」"
+        "message": "「呼喵<emoji=heart04>　咕噜咕噜……<emoji=heart04>」"
     },
     {
-        "message": "今天妈妈出去了，只有我们两个人。我坐在沙发上，膝盖上坐着希托莉。"
+        "name": "ヒトリ",
+        "message": "「坐在主人的膝盖上，感觉好安心，喵……♪」"
+    },
+    {
+        "message": "今天妈妈出门了，家里只有我们两个。我坐在沙发上，希朵莉则坐在我的膝盖上。"
     },
     {
         "name": "*S-ch10160022-1",
-        "message": "今天的希托莉是猫咪模式？"
+        "message": "今天的希朵莉，是猫猫模式吗？"
     },
     {
         "name": "ヒトリ",
-        "message": "「是的，咪♪　所以，对喜欢的主人撒娇也不会害羞，咪<emoji=heart04>」"
+        "message": "「是的，没错喵♪　所以，向最喜欢的主人撒娇也不会觉得害羞喵<emoji=heart04>」"
     },
     {
         "name": "ヒトリ",
-        "message": "「所以，多摸摸……然后是――」"
+        "message": "「所以，主人可以尽情地摸摸我……然后——」"
     },
     {
         "name": "ヒトリ",
-        "message": "「亲亲我，会很高兴，咪……<emoji=heart04>」"
+        "message": "「如果能亲我一下，我会很开心的，喵……<emoji=heart04>」"
     },
     {
-        "message": "万圣节形态很喜欢吗，最近的希托莉只要我们两个人在一起，就会这样用猫咪模式撒娇。"
+        "message": "或许是相当中意万圣节装束，最近我和希朵莉独处时，她都会像这样变成猫模式跟我撒娇。"
     },
     {
-        "message": "希托莉坐正，面对我，轻轻靠近脸――"
+        "message": "希朵莉转过身来与我面对面坐着，然后轻轻把脸凑了上来――"
     },
     {
         "name": "ヒトリ",
@@ -48,123 +48,123 @@
     },
     {
         "name": "ヒトリ",
-        "message": "「嘟<emoji=heart04>」"
+        "message": "「啾<emoji=heart04>」"
     },
     {
         "name": "ヒトリ",
-        "message": "「主人……喜欢你<emoji=heart04>　嗯唔……嘟<emoji=heart04>　嘟……<emoji=heart04>」"
+        "message": "「主人……我喜欢你<emoji=heart04>　嗯呣……啾<emoji=heart04>　啾……<emoji=heart04>」"
     },
     {
-        "message": "希托莉给我下了一场甜蜜的吻雨。"
-    },
-    {
-        "name": "ヒトリ",
-        "message": "「啊啊……<emoji=heart04>　主人也，想要亲亲我……嗯……嘟<emoji=heart04>」"
+        "message": "希朵莉对我降下了一阵甜蜜之吻的雨。"
     },
     {
         "name": "ヒトリ",
-        "message": "「啊……被亲亲，很高兴，咪<emoji=heart04>　嗯……嘟<emoji=heart04>　嘟……嗯唔<emoji=heart04>」"
+        "message": "「哈啊啊……<emoji=heart04>　我也想，主人主动亲我……嗯……啾<emoji=heart04>」"
     },
     {
         "name": "ヒトリ",
-        "message": "「啊啊……<emoji=heart04>　主人的吻，很有力，头脑都麻了……<emoji=heart04>」"
+        "message": "「啊……主人主动亲我，好开心<emoji=heart04>　嗯……啾<emoji=heart04>　啾……嗯呣<emoji=heart04>」"
+    },
+    {
+        "name": "ヒトリ",
+        "message": "「哈啊啊……<emoji=heart04>　主人的吻，好激烈，脑袋里都麻酥酥的……<emoji=heart04>」"
     },
     {
         "name": "*S-ch10160022-2",
-        "message": "希托莉已经完全变成亲亲魔了"
+        "message": "希朵莉彻底变成一个接吻狂魔了呢"
     },
     {
         "name": "ヒトリ",
-        "message": "「是，是的……<emoji=heart04>　和主人接吻，头脑里充满了幸福的感觉……那、那还有……」"
+        "message": "「是，是的……<emoji=heart04>　和主人接吻时，脑子里都充满了幸福的感觉……而，而且……」"
     },
     {
         "name": "ヒトリ",
-        "message": "「纯粹地，肌肤相触也很舒服，咪<emoji=heart04>」"
+        "message": "「单纯地肌肤相亲，也很舒服……<emoji=heart04>」"
     },
     {
         "name": "ヒトリ",
-        "message": "「主人呢……怎么样？」"
+        "message": "「主人您……感觉怎么样呢？」"
     },
     {
         "name": "ヒトリ",
-        "message": "「嘿嘿<emoji=heart04>　心跳加速，咪……？　啊啊<emoji=heart04>　我也一样♪」"
+        "message": "「哎嘿嘿<emoji=heart04>　心跳加速吗……？　哈啊啊<emoji=heart04>　我也是呢♪」"
     },
     {
         "name": "ヒトリ",
-        "message": "「啊，啊<emoji=heart04>　咪呀……<emoji=heart04>　主人，耳朵和尾巴不能摸，咪<emoji=heart04>」"
+        "message": "「――啊，啊<emoji=heart04>　呀嗯……<emoji=heart04>　主人，不可以摸耳朵和尾巴啦……<emoji=heart04>」"
     },
     {
         "name": "ヒトリ",
-        "message": "「那、那里很敏感的……啊啊<emoji=heart04>　主人……<emoji=heart04>」"
+        "message": "「那，那里很敏感的……呼啊啊<emoji=heart04>　主人啊……<emoji=heart04>」"
     },
     {
-        "message": "希托莉的万圣节装扮上附带的猫耳和尾巴。那不仅仅是装饰，而是“能做出猫一样的事情”的能力的一部分，感知能力是通的。"
+        "message": "希朵莉的万圣节装扮上附带了猫耳和尾巴。这并非单纯的装饰，而是她能力的一部分，让她能够『像猫一样行动』，而且似乎还能感受到触觉。"
     },
     {
-        "message": "所以，触摸时会感受到体温的温暖，还会可爱地反应，比如“啪啪”地动来动去。"
+        "message": "因此，抚摸它们时能感受到体温的温暖，还能看到它们可爱地抖动着的反应。"
     },
     {
         "name": "ヒトリ",
-        "message": "「啊……不、不行<emoji=heart04>　再这样下去的话……求、求求你了<emoji=heart04>」"
+        "message": "「呀啊……不，不行啦<emoji=heart04>　再这样下去……请，请饶了我吧……<emoji=heart04>」"
     },
     {
         "name": "*S-ch10160022-3",
-        "message": "抱歉，你讨厌吗？"
+        "message": "抱歉，你不喜欢这样吗？"
     },
     {
         "name": "ヒトリ",
-        "message": "「哈……哈……。不、不是的，反而是……太舒服了，感觉要变得奇怪了，或者……」"
+        "message": "「哈啊……哈啊……不，不是，倒不如说……是因为太舒服了，感觉都快变得不正常了……」"
     },
     {
         "name": "ヒトリ",
-        "message": "「主人的触摸方式，真的很棒<emoji=heart04>」"
+        "message": "「因为主人的抚摸方式，真的非常熟练……<emoji=heart04>」"
     },
     {
         "name": "ヒトリ",
-        "message": "「在猫咖啡厅打过工吗？　……唔。是、是吗……」"
+        "message": "「——莫非你以前在猫咪咖啡厅打过工？　……唔，原，原来是这样啊……」"
     },
     {
         "name": "*S-ch10160022-4",
-        "message": "你在嫉妒猫吗？"
+        "message": "她这是在嫉妒猫吗？"
     },
     {
         "name": "*S-ch10160022-4",
-        "message": "咦？　希托莉，难道……"
+        "message": "诶？　希朵莉，难道说……"
     },
     {
         "name": "ヒトリ",
-        "message": "「我、我没有……！」"
+        "message": "「我，我才没有……！」"
     },
     {
         "name": "ヒトリ",
-        "message": "「这种程度的事情，根本不算什么……」"
+        "message": "「就这点小事，没什么大不了的……」"
     },
     {
-        "message": "我忍不住抱紧了她。"
+        "message": "我不由自主地，将她紧紧地拥入怀中。"
     },
     {
         "name": "ヒトリ",
-        "message": "「咪！？　主人……？」"
+        "message": "「喵！？　主，主人……？」"
     },
     {
         "name": "*S-ch10160022-5",
-        "message": "希托莉真的很可爱啊"
+        "message": "希朵莉真的是太可爱了啊"
     },
     {
         "name": "ヒトリ",
-        "message": "「啊啊……<emoji=heart04>　被温柔地抚摸头，耳边被低语……感觉全身都在颤抖<emoji=heart04>」"
+        "message": "「呼啊啊……<emoji=heart04>　被温柔地抚摸着头，耳边还传来低语……感觉好激动<emoji=heart04>」"
     },
     {
         "name": "*S-ch10160022-6",
-        "message": "你是我的，所以没问题"
+        "message": "你只属于我一个人，所以不用担心"
     },
     {
         "name": "ヒトリ",
-        "message": "「……！　会长<emoji=heart04>」"
+        "message": "「……！　会长……<emoji=heart04>」"
     },
     {
         "name": "ヒトリ",
-        "message": "「那个……我。想再接吻<emoji=heart04>」"
+        "message": "「那个……我还想，再和你接吻……<emoji=heart04>」"
     },
     {
         "name": "ヒトリ",
@@ -176,9 +176,9 @@
     },
     {
         "name": "ヒトリ",
-        "message": "「主人……我爱你<emoji=heart04>　啾……啾<emoji=heart04>」"
+        "message": "「主人……我最喜欢你了<emoji=heart04>　啾……啾<emoji=heart04>」"
     },
     {
-        "message": "我们之后又反复了好几次甜蜜的亲吻――"
+        "message": "在那之后，我们又亲吻了好几次――"
     }
 ]

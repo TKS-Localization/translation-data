@@ -1,419 +1,419 @@
 [
     {
         "name": "ナナカ",
-        "message": "「――就是这样，发生了很多事啊」"
+        "message": "「——就是这样，发生了很多事哦」"
     },
     {
         "name": "ナナカ",
-        "message": "「真的，辛在关键时刻总是不在。时机真差，反省一下吧」"
-    },
-    {
-        "name": "シン",
-        "message": "「那是我的错吗？」"
-    },
-    {
-        "name": "ナナカ",
-        "message": "「恋人遇到危险时不能赶到，这样的男朋友真是失格啊」"
+        "message": "「真是的，慎在关键时刻都不在身边。时机太差了，要反省哦」"
     },
     {
         "name": "シン",
-        "message": "「被这么说的话，我无话可说啊」"
+        "message": "「这算是我的错吗？」"
     },
     {
         "name": "ナナカ",
-        "message": "「下次一定要在我身边。这是请求而不是命令哦」"
-    },
-    {
-        "name": "ナナカ",
-        "message": "「还有……这边是请求而不是命令……」"
-    },
-    {
-        "name": "ナナカ",
-        "message": "「……很寂寞。所以安慰我吧」"
+        "message": "「在恋人危机的时候不能赶来，不配当男朋友吧」"
     },
     {
         "name": "シン",
-        "message": "「嗯，我会好好安慰你的」"
+        "message": "「你这么说的话我也没法反驳啊」"
     },
     {
         "name": "ナナカ",
-        "message": "「紧紧抱住我。还有，轻轻抚摸我的头发」"
+        "message": "「下次一定要陪在我身边。这不是请求，是命令」"
+    },
+    {
+        "name": "ナナカ",
+        "message": "「还有……这边不是命令，而是请求……」"
+    },
+    {
+        "name": "ナナカ",
+        "message": "「……我很寂寞，所以安慰我吧」"
     },
     {
         "name": "シン",
-        "message": "「呵呵，今天的七华真像个小孩子啊」"
+        "message": "「嗯，不管多少次我都会安慰你的」"
     },
     {
         "name": "ナナカ",
-        "message": "「谁的错啊，真是。在我变成这样之前，你要好好处理啊」"
+        "message": "「想要被紧紧抱住，还有，摸摸头发」"
     },
     {
         "name": "シン",
-        "message": "「我知道了。这次对不起，没能在你身边」"
+        "message": "「呵呵，今天的奈奈香真爱撒娇啊」"
     },
     {
         "name": "ナナカ",
-        "message": "「嗯……非常反省。还有……非常……爱你……」"
+        "message": "「到底是怪谁啊，真是的。在我变成这样之前做点什么啊」"
     },
     {
-        "message": "这样互相打闹着交换话语，恋人之间的关系逐渐恢复。"
+        "name": "シン",
+        "message": "「我知道啦。这次很抱歉，没能陪在你身边」"
     },
     {
-        "message": "从幼馴染的七华，到我的恋人七华。"
+        "name": "ナナカ",
+        "message": "「嗯……你可要好好反省啊。还有……要使劲地……疼爱我……」"
+    },
+    {
+        "message": "我们就这样一边嬉戏一边交谈，逐渐恢复到了恋人之间的关系。"
+    },
+    {
+        "message": "从青梅竹马的奈奈香，变回了我的恋人奈奈香。"
     },
     {
-        "message": "这看似困难，其实非常简单。"
+        "message": "这件事看似复杂，其实非常简单。"
     },
     {
         "name": "ナナカ",
-        "message": "「啊……在这里做吗……？」"
+        "message": "「啊……要在这里做吗……？」"
     },
     {
         "name": "ナナカ",
-        "message": "「嗯，不是不行，但可能会有人来啊……」"
+        "message": "「唔嗯，也不是不行……但说不定会有人过来……」"
     },
     {
         "name": "ナナカ",
-        "message": "「所以，不要太激烈哦。声音太大了会危险的」"
+        "message": "「所，所以，不要太激烈哦。要是叫出声就危险了」"
     },
     {
         "name": "ナナカ",
-        "message": "「呀！　等、等一下……啊、啊、那里……<emoji=heart04>」"
+        "message": "「呀嗯！　等，刚说完就……啊，呀，那里……<emoji=heart04>」"
     },
     {
         "name": "ナナカ",
-        "message": "「真是的……辛的色狼……不过，我也没资格说别人」"
+        "message": "「真是的……慎好色……不过，我也没资格说别人」"
     },
     {
         "name": "ナナカ",
-        "message": "「和辛成为恋人后，虽然有各种原因，但也做了很多色色的事。一开始真的很害羞，但现在……」"
+        "message": "「和慎成为恋人之后，我们做了好多色色的事。虽然一开始很害羞，但现在……」"
     },
     {
         "name": "ナナカ",
-        "message": "「呀！　所以不要突然袭击啊～～！　虽然习惯了色色的事，但也有不习惯的啊」"
+        "message": "「呀嗯！　都，都说了不要偷袭啦～～！虽然我习惯做色色的事了，但还是有不习惯的嘛」"
     },
     {
         "name": "ナナカ",
-        "message": "「真是的，做是可以做，但不要吓我啊。声音要忍住才行」"
+        "message": "「真是的，要亲也可以，但别吓我嘛。我还要忍住不发出声音呢」"
     },
     {
         "name": "ナナカ",
-        "message": "「嗯……这样，轻轻地……即使温柔地触摸，也足够舒服了……啊，辛……<emoji=heart04>」"
+        "message": "「嗯嗯……对，轻轻的……就算温柔地摸，也够舒服了……呼啊，啊，慎……<emoji=heart04>」"
     },
     {
         "name": "ナナカ",
-        "message": "「嗯，今天比平时湿得快……我是不是期待了啊」"
+        "message": "「呜呜，好像比平时更湿了……我是不是在期待啊」"
     },
     {
         "name": "ナナカ",
-        "message": "「辛也……今天比平时更兴奋吧？ 我知道。呼吸也变得急促了，还有……那个，阴茎，也变得很厉害了呢<emoji=heart04>」"
+        "message": "「慎也是……比平时更兴奋了吧？我看得出来。呼吸也变得急促了，而且……那个，大鸡鸡也，变得很不得了了呢<emoji=heart04>」"
     },
     {
         "name": "ナナカ",
-        "message": "「因为我而兴奋了……呵呵，感觉很高兴。希望你能更加迷恋我」"
+        "message": "「原来是因为我而兴奋的啊……呵呵，好开心。要是慎能更加更加迷上我就更好了」"
     },
     {
         "name": "ナナカ",
-        "message": "「啊，态度上不用表现出来！ 那种时候应该用普通的话语，更多地呢喃爱意」"
+        "message": "「呃，不用用态度表示啦！这种时候一般都用语言吧，多说点甜言蜜语啊」"
     },
     {
         "name": "ナナカ",
-        "message": "「……做爱的时候，辛也总是有点坏心眼呢。嗯，大概知道了」"
+        "message": "「……做爱的时候，慎还挺坏心眼的呢——虽然我大概也猜到了」"
     },
     {
         "name": "ナナカ",
-        "message": "「我也……知道自己不够坦率，也不是那种被要求就立刻说出来的人……」"
+        "message": "「我也知道……自己不够坦率，也不是那种让你说出来就能马上说出口的类型……」"
     },
     {
         "name": "ナナカ",
-        "message": "「我们是青梅竹马嘛，看起来一点也不像，但也有相似的地方。嗯，这样也好，想做什么就做什么吧。用行动告诉我」"
+        "message": "「毕竟是青梅竹马嘛，虽然看起来一点也不像，但也有相似的地方……嗯，可以哦，想怎么做就怎么做吧。用行动来告诉我吧」"
     },
     {
         "name": "ナナカ",
-        "message": "「嗯……啊嗯<emoji=heart04> 辛的手，今天比平时更温柔呢……感觉很好<emoji=heart04>」"
+        "message": "「嗯嗯……啊嗯<emoji=heart04>　慎的手，比平时还要温柔呢……好舒服哦<emoji=heart04>」"
     },
     {
         "name": "ナナカ",
-        "message": "「我全身都是你的……啊嗯，哈……作为交换，你的一切也都是我的」"
+        "message": "「我全部都是属于慎的……呼啊，哈啊……作为交换，慎的一切，我也会独占的」"
     },
     {
         "name": "ナナカ",
-        "message": "「呵呵，我虽然看起来这样，但占有欲很强，你要有心理准备哦」"
+        "message": "「呵呵，别看我这样，我的占有欲可是很强的，要做好觉悟哦」"
     },
     {
         "name": "ナナカ",
-        "message": "「嗯，哈嗯……<emoji=heart04> 真是的，辛太厉害了……知道我所有的弱点，像是完全了解我一样地爱抚我……」"
+        "message": "「嗯咕，哈啊嗯……<emoji=heart04>　真是的，慎太熟练了……像是知道我所有弱点一样，准确地爱抚着……」"
     },
     {
         "name": "ナナカ",
-        "message": "「不过，被你完全了解的感觉也很好。喜欢<emoji=heart04>」"
+        "message": "「不过，被你这样全部都知道的感觉，也挺不错的呢。喜欢<emoji=heart04>」"
     },
     {
         "name": "ナナカ",
-        "message": "「嗯……我也喜欢你<emoji=heart04> 非常喜欢<emoji=heart04>」"
+        "message": "「嗯……我也喜欢慎<emoji=heart04>　最喜欢了<emoji=heart04>」"
     },
     {
         "name": "ナナカ",
-        "message": "「被喜欢的人的手……变得这么淫荡了<emoji=heart04> 看，张开来了，渴望着你呢」"
+        "message": "「被最喜欢的慎的手……弄得这么下流了<emoji=heart04>　你看，都张开了，这么想要慎了」"
     },
     {
         "name": "ナナカ",
-        "message": "「那，我这边已经准备好了……如果你愿意的话，我们可以开始了<emoji=heart04>」"
+        "message": "「那，那么……我已经准备好了……如果慎你愿意的话，差不多……可以了吧<emoji=heart04>」"
     },
     {
         "name": "ナナカ",
-        "message": "「呵呵……阴茎，看起来很帅气呢。不用这样展示也没关系的」"
+        "message": "「呵呵……肉棒变得好帅。不用那样露给我看也没关系的哦」"
     },
     {
         "name": "ナナカ",
-        "message": "「嗯，来……想快点和你连接在一起……<emoji=heart04>」"
+        "message": "「嗯，来吧……好想快点和慎连在一起……<emoji=heart04>」"
     },
     {
         "name": "ナナカ",
-        "message": "「嗯啊啊啊<emoji=heart04> 进来了……啊<emoji=heart04>」"
+        "message": "「嗯啊啊<emoji=heart04>　进来了……<emoji=heart04>」"
     },
     {
         "name": "ナナカ",
-        "message": "「辛的阴茎，感觉到了……因为我而兴奋，变得硬硬的呢……<emoji=heart04>」"
+        "message": "「我感觉到慎的肉棒了……因为我的缘故变得这么硬了呢……<emoji=heart04>」"
     },
     {
         "name": "ナナカ",
-        "message": "「嗯哼……不要客气，更深入一点……嗯，就是这样……进入我最深处……<emoji=heart04>」"
+        "message": "「嗯哼……不用客气，再往深处……嗯，就是这样……插到我最深处吧……<emoji=heart04>」"
     },
     {
         "name": "ナナカ",
-        "message": "「啊啊～～～哈，到达了<emoji=heart04>　全部都进来了呢。嗯……感觉非常满足……终于感觉到你回来了呢」"
+        "message": "「哈啊啊～～～到达终点了<emoji=heart04>　全都进来了。嗯……感觉好满足……终于有了慎回到我身边的实感」"
     },
     {
         "name": "ナナカ",
-        "message": "「呵呵，里面在跳动呢<emoji=heart04>　我的阴道，感觉怎么样？」"
+        "message": "「呵呵，在里面一跳一跳的呢<emoji=heart04>　我的小穴就这么舒服吗？」"
     },
     {
         "name": "ナナカ",
-        "message": "「当然我也……感觉非常好<emoji=heart04>　每次顶到深处，都觉得要发出淫荡的声音了」"
+        "message": "「当然我也……非常舒服哦<emoji=heart04>　每次顶到深处，我都快要发出淫荡的声音了」"
     },
     {
         "name": "ナナカ",
-        "message": "「等、等一下！　别突然开始抽插啊<emoji=heart04>」"
+        "message": "「等！等一下等一下！不要突然开始抽插啦<emoji=heart04>」"
     },
     {
         "name": "ナナカ",
-        "message": "「唔唔，听到湿润的声音了……这样做的话，就算我再怎么忍耐，也会发出声音的」"
+        "message": "「呜呜，发出咕啾咕啾的声音了……被这样插的话，就算我再怎么能忍也会忍不住叫出来嘛……」"
     },
     {
         "name": "ナナカ",
-        "message": "「不过，真的变得很淫荡了呢。一开始我们都那么生疏的<emoji=heart04>」"
+        "message": "「话说回来，你真的变得很熟练了呢。一开始我们俩明明都还那么笨拙<emoji=heart04>」"
     },
     {
         "name": "ナナカ",
-        "message": "「啊啊嗯，啊，啊，哈啊嗯<emoji=heart04>　阴茎好棒……嗯，啊，啊嗯<emoji=heart04>　感觉好好，真<emoji=heart04>」"
+        "message": "「啊啊嗯，啊，啊，哈啊嗯<emoji=heart04>　肉棒好厉害……嗯嗯，呜啊，啊嗯<emoji=heart04>　好舒服啊，慎……<emoji=heart04>」"
     },
     {
         "name": "ナナカ",
-        "message": "「声音会出来，不过稍微发出来应该没关系吧？　其实这样忍耐反而更难受」"
+        "message": "「我，我虽然会叫出来，但只是稍微叫一下应该没关系吧？　应该说，这种情况下要我忍住反而更难……」"
     },
     {
         "name": "ナナカ",
-        "message": "「真是的，腰动得太淫荡了<emoji=heart04>　你想怎么折磨我这个青梅竹马？」"
+        "message": "「真是的，你扭腰的动作太色情了<emoji=heart04>　这样欺负青梅竹马的我，你是想做什么呀？」"
     },
     {
         "name": "ナナカ",
-        "message": "「嗯，呼，啊，哈啊嗯<emoji=heart04>　让我感到愉快……你也想让自己感到愉快吧？　对不起，现在才问这个有点晚了」"
+        "message": "「嗯呜，呼，呼啊，哈啊嗯<emoji=heart04>　你想让我舒服……然后你自己也想舒服起来对吧……抱歉，这好像不是现在该问的问题呢」"
     },
     {
         "name": "ナナカ",
-        "message": "「好啊，一起感到愉快吧<emoji=heart04>　我也想要更多……让我感到愉快<emoji=heart04>」"
+        "message": "「可以哦，我们一起舒服起来吧<emoji=heart04>　我也想……变得更舒服<emoji=heart04>」"
     },
     {
         "name": "ナナカ",
-        "message": "「啊嗯<emoji=heart04>　啊<emoji=heart04>　啊<emoji=heart04>　胸部也……想要摸<emoji=heart04>　嗯，想要被摸很多<emoji=heart04>」"
+        "message": "「啊啊嗯<emoji=heart04>　啊<emoji=heart04>　啊<emoji=heart04>　胸部也……来摸吧<emoji=heart04>　嗯，想被你尽情地摸一摸<emoji=heart04>」"
     },
     {
         "name": "ナナカ",
-        "message": "「哈啊<emoji=heart04>　啊嗯<emoji=heart04>　啊<emoji=heart04>　越来越激烈了呢<emoji=heart04>　嗯唔<emoji=heart04>　好啊，别忍耐。我也要放开自己了<emoji=heart04>」"
+        "message": "「哈啊<emoji=heart04>　啊嗯<emoji=heart04>　啊<emoji=heart04>　越来越……激烈了呢<emoji=heart04>　嗯呜<emoji=heart04>　可以哦，不用忍耐。我也不会再忍耐了<emoji=heart04>」"
     },
     {
         "name": "ナナカ",
-        "message": "「呵呵，学生会长失格？　别在意这些了。现在的你是我的恋人，专心点<emoji=heart04>」"
+        "message": "「呵呵，没资格当学生会长？　真是的，别在意那种事啦。现在的你是我的恋人，所以就专心地当我的恋人吧<emoji=heart04>」"
     },
     {
         "name": "ナナカ",
-        "message": "「是啊<emoji=heart04>　嗯嗯，啊嗯<emoji=heart04>　我的感觉好地方，再深深地插进来<emoji=heart04>　用你的鸡巴好好玩弄我的阴道吧<emoji=heart04>」"
+        "message": "「没错没错<emoji=heart04>　嗯嗯，啊嗯<emoji=heart04>　再用力顶弄，我舒服的地方<emoji=heart04>　用慎的肉棒欺负我的小穴吧<emoji=heart04>」"
     },
     {
         "name": "ナナカ",
-        "message": "「啊啊啊啊啊啊啊啊<emoji=heart04>　啊嗯<emoji=heart04>　啊，好厉害<emoji=heart04>　这样子不行啊<emoji=heart04>　感觉太强烈了啊<emoji=heart04>」"
+        "message": "「啊啊啊啊————<emoji=heart04>　啊啊嗯<emoji=heart04>　呀，好厉害<emoji=heart04>　这样不行啦<emoji=heart04>　太有感觉了啦<emoji=heart04>」"
     },
     {
         "name": "ナナカ",
-        "message": "「感觉太好，声音都忍不住了<emoji=heart04>　啊<emoji=heart04>　啊嗯<emoji=heart04>　啊<emoji=heart04>　啊<emoji=heart04>　做爱的声音被听到了……和你在一起感觉好极了<emoji=heart04>」"
+        "message": "「太舒服了忍不住叫出声了<emoji=heart04>　呀<emoji=heart04>　呀嗯<emoji=heart04>　啊<emoji=heart04>　啊<emoji=heart04>　会被发现我们在做爱的……会被发现我正在和慎一起用下流的姿势做爱的<emoji=heart04>」"
     },
     {
         "name": "ナナカ",
-        "message": "「被、被看到了也没关系<emoji=heart04>　和你在一起的关系不会改变的<emoji=heart04>　啊，不过还是很害羞啊<emoji=heart04>」"
+        "message": "「就，就算被发现……也没关系啦<emoji=heart04>　我们还是恋人关系不会变的啦<emoji=heart04>　啊，不过果然还是好害羞……嗯呜<emoji=heart04>」"
     },
     {
         "name": "ナナカ",
-        "message": "「啊，果然今天特别多<emoji=heart04>　平时不是这样的<emoji=heart04>　今天特别感觉强烈<emoji=heart04>」"
+        "message": "「果，果然比平时流了更多的水出来啊～<emoji=heart04>　平时明明不是这样的<emoji=heart04>　今天好像特别有感觉的样子<emoji=heart04>」"
     },
     {
         "name": "ナナカ",
-        "message": "「连接的地方，发出咕噜咕噜的声音呢……啊～嗯，真是的。之后得打扫一下地板了……」"
+        "message": "「连接的地方还发出咕噗咕噗的声音……啊～嗯，真是的，之后要打扫地板了啊……」"
     },
     {
         "name": "ナナカ",
-        "message": "「现在已经无所谓了<emoji=heart04>　好啦，现在忘掉一切，尽情享受吧？你也不要在意，全力爱我吧<emoji=heart04>」"
+        "message": "「都事到如今了啦<emoji=heart04>　没关系，现在就全都忘掉好好享受吧？　慎也别在意了，用全力疼爱我吧<emoji=heart04>」"
     },
     {
         "name": "ナナカ",
-        "message": "「嗯唔<emoji=heart04>　嗯唔<emoji=heart04>　好厉害<emoji=heart04>　你那么迷恋我<emoji=heart04>　这样子不行啊<emoji=heart04>　从一开始就喜欢你喜欢得不得了，现在更喜欢了<emoji=heart04>」"
+        "message": "「嗯呜呜<emoji=heart04>　嗯咕<emoji=heart04>　好棒<emoji=heart04>　慎忘我地渴求着我<emoji=heart04>　这样不行啦<emoji=heart04>　明明从一开始就已经喜欢得不得了了，这样会更喜欢的啦<emoji=heart04>」"
     },
     {
         "name": "ナナカ",
-        "message": "「好啊，<emoji=heart04>　更激烈点<emoji=heart04>　用力地插我<emoji=heart04>」"
+        "message": "「可以哦，慎<emoji=heart04>　再激烈一点吧<emoji=heart04>　用肉棒用力地顶我吧<emoji=heart04>」"
     },
     {
         "name": "ナナカ",
-        "message": "「啊啊啊啊<emoji=heart04>　啊嗯<emoji=heart04>　啊<emoji=heart04>　啊嗯<emoji=heart04>　好舒服啊<emoji=heart04>　<emoji=heart04>　喜欢你<emoji=heart04>　喜欢你<emoji=heart04>」"
+        "message": "「哈啊啊<emoji=heart04>　啊啊嗯<emoji=heart04>　啊<emoji=heart04>　啊嗯<emoji=heart04>　好舒服啊<emoji=heart04>　慎<emoji=heart04>　喜欢你<emoji=heart04>　好喜欢你<emoji=heart04>」"
     },
     {
         "name": "ナナカ",
-        "message": "「更多地让我感觉到你的快乐<emoji=heart04>　嗯唔<emoji=heart04>　嗯唔<emoji=heart04>　啊啊啊啊啊啊啊<emoji=heart04><emoji=heart04><emoji=heart04>」"
+        "message": "「用我变得更舒服吧<emoji=heart04>　嗯呜呜<emoji=heart04>　嗯咕<emoji=heart04>　哈啊啊<emoji=heart04>　啊嗯<emoji=heart04>　啊嗯<emoji=heart04>　嗯啊啊啊啊———<emoji=heart04><emoji=heart04><emoji=heart04>」"
     },
     {
         "name": "ナナカ",
-        "message": "「对不起，我可能撑不住了<emoji=heart04>　要高潮了<emoji=heart04>　辛<emoji=heart04>　辛<emoji=heart04>　辛<emoji=heart04><emoji=heart04><emoji=heart04>」"
+        "message": "「抱歉，我可能坚持不了那么久<emoji=heart04>　快要去了<emoji=heart04>　慎<emoji=heart04>　慎<emoji=heart04>　慎<emoji=heart04><emoji=heart04><emoji=heart04>」"
     },
     {
         "name": "ナナカ",
-        "message": "「啊啊啊<emoji=heart04>　喜欢<emoji=heart04>　非常喜欢你<emoji=heart04>　一直一直，想这样<emoji=heart04>　和辛在一起<emoji=heart04>」"
+        "message": "「啊啊啊啊<emoji=heart04>　喜欢你<emoji=heart04>　最喜欢了<emoji=heart04>　我想一直，一直这样下去<emoji=heart04>　想和慎一直贴在一起<emoji=heart04>」"
     },
     {
         "name": "ナナカ",
-        "message": "「不要离开我<emoji=heart04>　紧紧抓住我，不要让我逃走<emoji=heart04>　我也会紧紧抱住你的<emoji=heart04>」"
+        "message": "「绝对不要放开我哦<emoji=heart04>　紧紧地抓住我，别让我逃走<emoji=heart04>　我也会，紧紧抱着慎的<emoji=heart04>」"
     },
     {
         "name": "ナナカ",
-        "message": "「啊啊啊<emoji=heart04>　嗯啊<emoji=heart04>　阴茎好厉害<emoji=heart04>　比平时更硬了吧<emoji=heart04>　嗯，你这么兴奋是为了我吗？　好开心啊<emoji=heart04>」"
+        "message": "「嗯啊啊啊<emoji=heart04>　哈啊嗯<emoji=heart04>　肉棒好厉害<emoji=heart04>　绝对比平时还要大吧<emoji=heart04>　嗯真是的，你对我就这么兴奋吗？　我好开心啊<emoji=heart04>」"
     },
     {
         "name": "ナナカ",
-        "message": "「哈啊<emoji=heart04>　哈啊<emoji=heart04>　哈啊<emoji=heart04>　来啊<emoji=heart04>　快点来啊<emoji=heart04>　不然我先高潮了<emoji=heart04>」"
+        "message": "「哈啊<emoji=heart04>　哈啊<emoji=heart04>　哈啊<emoji=heart04>　来吧<emoji=heart04>　快点来吧<emoji=heart04>　你再不来，我就要先高潮了<emoji=heart04>」"
     },
     {
         "name": "ナナカ",
-        "message": "「不行了<emoji=heart04>　忍不住了<emoji=heart04>　要高潮了<emoji=heart04>　快点啊～～～<emoji=heart04><emoji=heart04><emoji=heart04>」"
+        "message": "「不行了<emoji=heart04>　不行了<emoji=heart04>　要去了<emoji=heart04>　要去了<emoji=heart04>　忍不住了快点～～～<emoji=heart04><emoji=heart04><emoji=heart04>」"
     },
     {
         "name": "ナナカ",
-        "message": "「啊啊<emoji=heart04>　啊啊啊<emoji=heart04>　啊，阴茎好厉害<emoji=heart04>　来啊<emoji=heart04>　再用力顶我啊～～～<emoji=heart04>」"
+        "message": "「呜啊<emoji=heart04>　啊啊啊<emoji=heart04>　呀，肉棒好厉害<emoji=heart04>　来吧<emoji=heart04>　再插得用力些———<emoji=heart04>」"
     },
     {
         "name": "ナナカ",
-        "message": "「要高潮了<emoji=heart04>　要高潮了<emoji=heart04>　我要高潮了<emoji=heart04>　要高潮了<emoji=heart04>　要高潮了高潮了高潮了<emoji=heart04>　在辛的阴茎里高潮了～～～<emoji=heart04><emoji=heart04><emoji=heart04>」"
+        "message": "「去了<emoji=heart04>　要去了<emoji=heart04>　我要去了<emoji=heart04>　去了<emoji=heart04>　去了去了去了<emoji=heart04>　要被慎的肉棒插到高潮了～～～<emoji=heart04><emoji=heart04><emoji=heart04>」"
     },
     {
         "name": "ナナカ",
-        "message": "「嗯～～～～～<emoji=heart04>　嗯嗯<emoji=heart04>　要高潮了<emoji=heart04>　辛<emoji=heart04>　喜欢<emoji=heart04>　喜欢喜欢喜欢<emoji=heart04><emoji=heart04><emoji=heart04>」"
+        "message": "「嗯咕～～～～～<emoji=heart04>　嗯嗯<emoji=heart04>　去了<emoji=heart04>　慎<emoji=heart04>　喜欢你<emoji=heart04>　喜欢喜欢喜欢<emoji=heart04><emoji=heart04><emoji=heart04>」"
     },
     {
         "name": "ナナカ",
-        "message": "「要高潮了～～～～～～～～～～～～<emoji=heart04><emoji=heart04><emoji=heart04><emoji=heart04><emoji=heart04>」"
+        "message": "「去了～～～～～～～～～～呜呜呜<emoji=heart04><emoji=heart04><emoji=heart04><emoji=heart04><emoji=heart04>」"
     },
     {
         "name": "ナナカ",
-        "message": "「哈啊<emoji=heart04>　哈啊<emoji=heart04>　哈啊<emoji=heart04>　……射了好多……<emoji=heart04>」"
+        "message": "「哈啊<emoji=heart04>　哈啊<emoji=heart04>　哈啊<emoji=heart04>　……射了好多……出来……<emoji=heart04>」"
     },
     {
         "name": "ナナカ",
-        "message": "「嗯<emoji=heart04>　在我的里面跳动着……射精得很激烈呢<emoji=heart04>」"
+        "message": "「嗯咕<emoji=heart04>　在我的里面一跳一跳的……精神满满地射精呢……<emoji=heart04>」"
     },
     {
         "name": "ナナカ",
-        "message": "「哈啊<emoji=heart04>　精液的量太多了……全部都装不下……<emoji=heart04>」"
+        "message": "「哈啊<emoji=heart04>　精液好多……都装不下了……<emoji=heart04>」"
     },
     {
         "name": "ナナカ",
-        "message": "「还在噗噗地射出来……这样射出来的话，肚子会变得鼓鼓的<emoji=heart04>」"
+        "message": "「还在biubiu地射出来……射这么多的话，肚子都要鼓起来了啦<emoji=heart04>」"
     },
     {
         "name": "ナナカ",
-        "message": "「嗯……不讨厌<emoji=heart04>　高兴<emoji=heart04>　在阴道里被注入了真的精液……感觉很幸福<emoji=heart04>」"
+        "message": "「嗯……我不讨厌哦<emoji=heart04>　好开心<emoji=heart04>　小穴被射进慎的精液……感觉好幸福哦<emoji=heart04>」"
     },
     {
         "name": "ナナカ",
-        "message": "「所以呢……不要客气，尽情射出来……真想射出来的话……全部射进我里面<emoji=heart04>」"
+        "message": "「所，所以啊……不要顾虑，射出来吧……你想射多少……都可以射给我哦<emoji=heart04>」"
     },
     {
         "name": "ナナカ",
-        "message": "「啊嗯<emoji=heart04>　刚才在里面动了一下<emoji=heart04>　真的是个色鬼<emoji=heart04>」"
+        "message": "「啊嗯<emoji=heart04>　刚刚在里面跳了一下<emoji=heart04>　真是的，慎好色<emoji=heart04>」"
     },
     {
         "name": "ナナカ",
-        "message": "「不过……感觉很好呢。想要更多也是理所当然的<emoji=heart04>」"
+        "message": "「不过……毕竟很舒服嘛。会想要更多，也是当然的吧<emoji=heart04>」"
     },
     {
         "name": "ナナカ",
-        "message": "「我也……<emoji=heart04>　真是的<emoji=heart04>　刚才在想你色呢？」"
+        "message": "「我也，那个……<emoji=heart04>　真是的，笨蛋<emoji=heart04>　你刚刚觉得我很色吧？」"
     },
     {
         "name": "ナナカ",
-        "message": "「嗯嗯……<emoji=heart04>　射完了吗？　舒服了？」"
+        "message": "「嗯唔……<emoji=heart04>　终于射完了？　舒服了吗？」"
     },
     {
         "name": "ナナカ",
-        "message": "「嘿嘿……能让男朋友满足，作为女朋友来说，有成就感呢<emoji=heart04>」"
+        "message": "「诶嘿嘿……满足了男朋友，作为女朋友也有了成就感呢<emoji=heart04>」"
     },
     {
         "name": "ナナカ",
-        "message": "「当然，这样就满足了可不行。我们两个……对吧<emoji=heart04>」"
+        "message": "「当然，这可不是满足了哦。我们彼此都……对吧<emoji=heart04>」"
     },
     {
         "name": "ナナカ",
-        "message": "「真的阴茎在我的里面还想射出来呢<emoji=heart04>」"
+        "message": "「慎的肉棒也好像在说，还想在我里面射呢～<emoji=heart04>」"
     },
     {
         "name": "ナナカ",
-        "message": "「嗯啊<emoji=heart04>　拔出来了……啊啊，拔出来了……」"
+        "message": "「嗯啊<emoji=heart04>　拔出来了……啊啊～拔出来了……」"
     },
     {
         "name": "ナナカ",
-        "message": "「哈啊<emoji=heart04>　哈啊<emoji=heart04>　哈啊<emoji=heart04>　因为刚才那么大的东西进去了，有点失落感」"
+        "message": "「哈啊<emoji=heart04>　哈啊<emoji=heart04>　哈啊<emoji=heart04>　刚刚插得那么深，感觉有点失落呢」"
     },
     {
         "name": "ナナカ",
-        "message": "「嗯嗯……<emoji=heart04>　好不容易射进来的，却流出来了<emoji=heart04>」"
+        "message": "「嗯嗯……<emoji=heart04>　好不容易才插进来，要流出来了<emoji=heart04>」"
     },
     {
         "name": "ナナカ",
-        "message": "「啊嗯<emoji=heart04>　别这样挖出来啊。反正还会……多多注入的<emoji=heart04>」"
+        "message": "「呀嗯<emoji=heart04>　喂，不用掏出来啦。反正还要……射很多进来的吧<emoji=heart04>」"
     },
     {
         "name": "ナナカ",
-        "message": "「真……<emoji=heart04>　因为真的精液，我变成了个色情的女孩<emoji=heart04>」"
+        "message": "「呐，慎……<emoji=heart04>　都是因为慎的精液，让我变成好色的女孩了<emoji=heart04>」"
     },
     {
         "name": "ナナカ",
-        "message": "「变得淫荡的女朋友……男朋友打算怎么办？」"
+        "message": "「面对变得下流的女朋友……男朋友先生会怎么做呢？」"
     },
     {
         "name": "ナナカ",
-        "message": "「真想做的事情……什么都可以做哦<emoji=heart04>」"
+        "message": "「你想做的事……不管是什么都可以哦<emoji=heart04>」"
     },
     {
         "name": "ナナカ",
-        "message": "「呵呵，阴茎翘起来了<emoji=heart04>　真的是很有精神呢<emoji=heart04>」"
+        "message": "「呵呵，肉棒向上翘起来了呢<emoji=heart04>　真是的，好有精神啊<emoji=heart04>」"
     },
     {
         "name": "ナナカ",
-        "message": "「啊，不过在这里继续做会不会不好吧？　怎么办？　继续做的话会被发现的前提下？」"
+        "message": "「啊，但是在这里继续做下去不太好吧？　怎么办？　要以被发现为前提继续吗？」"
     },
     {
         "name": "ナナカ",
-        "message": "「啊，那样的话还是太过分了～。刚才没有被发现真是幸运啊……」"
+        "message": "「呃，那也太糟糕了吧～现在没被发现，就已经很幸运了……」"
     },
     {
         "name": "ナナカ",
-        "message": "「那，接下来是……在哪个房间……呢？　做很多爱吧<emoji=heart04>」"
+        "message": "「那，接下来……就去其中一个人的房间……好吗？　尽情做爱吧<emoji=heart04>」"
     }
 ]

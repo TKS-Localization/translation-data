@@ -1,29 +1,29 @@
 [
     {
-        "message": "那天，黄泉因为维纳斯的指示，被安排在大圣堂的星期日弥撒中和孩子们一起玩。――"
+        "message": "这天，优咪按照维纳斯的指示，负责陪大教堂周日弥撒的孩子们玩耍――"
     },
     {
         "name": "ヨミ",
-        "message": "「呼……终于可以喘口气了」"
+        "message": "「呼……终于能喘口气了」"
     },
     {
-        "message": "午休时间到了，黄泉刚刚回到大圣堂里。"
-    },
-    {
-        "name": "ヨミ",
-        "message": "（在实家的天岬神宫当巫女的时候，也因为仪式什么的，和孩子们一起玩已经习惯了……但这完全不是一个级别的，爆裂地困难……）"
+        "message": "到了午休时间，优咪暂时回到了大教堂里。"
     },
     {
         "name": "ヨミ",
-        "message": "（因为是流星市国，所以不仅是人类的孩子，还有魔族、天使的孩子混在一起……而且不知为什么，全都是星力持有者的孩子……！）"
+        "message": "（虽然我在老家天之崎神宫当巫女的时候，也经常因为活动之类的原因陪孩子们玩耍……但这里的忙碌程度简直不可同日而语……）"
     },
     {
         "name": "ヨミ",
-        "message": "（因为穿着驯鹿的装扮会受欢迎，所以被小姐姐说要穿圣诞节的形式，但这可能是战斗服救了我……）"
+        "message": "（因为这里是流星市国，所以不只是人类的孩子，还有魔族和天使的孩子……而且不知为何，全都是拥有星力的孩子……！）"
     },
     {
         "name": "ヨミ",
-        "message": "「总之，趁着忙碌忘记之前，先把<ruby=・・>那个</ruby>喝了吧――」"
+        "message": "（虽然大小姐说圣诞装打扮成驯鹿很受欢迎，所以叫我穿着圣诞装……但也许这身战斗服反而帮了大忙……）"
+    },
+    {
+        "name": "ヨミ",
+        "message": "「总之，趁着还没忙到忘记，得先把<ruby=・・>那个东西</ruby>喝下去才行——」"
     },
     {
         "name": "ヨミ",
@@ -31,11 +31,11 @@
     },
     {
         "name": "ヨミ",
-        "message": "「明明一直放在口袋里的……盒子不见了……？」"
+        "message": "「我明明一直都随身携带，放在口袋里的……怎么不见了……？」"
     },
     {
         "name": "ヨミ",
-        "message": "「难道说……在和孩子们玩的时候，不小心掉了什么的……？」"
+        "message": "「难，难不成……是陪孩子们玩耍的时候，不小心掉在哪里了吗……？」"
     },
     {
         "name": "ヨミ",
@@ -43,140 +43,140 @@
     },
     {
         "name": "ヨミ",
-        "message": "「没有的东西也没办法啊。总之，一次不喝应该也没关系……大概……」"
+        "message": "「没有的东西也没办法了……唉，就一次没喝应该也没事吧……大概……」"
     },
     {
-        "message": "黄泉像是对自己说服一样点了点头，为了吃午餐，向咖啡厅走去。――"
+        "message": "优咪像是在说服自己一样点了点头，随后便去食堂吃午饭了――"
     },
     {
-        "message": "场景转换，新星学园的星生会室。"
+        "message": "场景变换，这里是新星学园星徒会室。"
     },
     {
-        "message": "我刚刚完成了其他工作，回来了。为了检查剩下的文件，坐在会长席上――"
+        "message": "我刚做完别的工作回到这里。正准备去会长席上检查还有哪些文件需要处理，结果——――"
     },
     {
-        "message": "――哇哦！？ 等等！ 为什么会藏在那种地方！？"
+        "message": "――呜哇！？　喂！？　你为什么藏在那种地方啊！？"
     },
     {
-        "message": "等等等等，突然脱裤子是什么意思――"
+        "message": "等等等等，突然脱我裤子是想干什――"
     },
     {
-        "message": "啊――――！？"
-    },
-    {
-        "name": "ヨミ",
-        "message": "「哈啊……<emoji=heart04> 会长的小鸡鸡……<emoji=heart04> 闻闻……<emoji=heart04> 好想念……<emoji=heart04>」"
-    },
-    {
-        "message": "藏在会长席桌子下的是，竟然是恋人黄泉。记得今天应该是在星期日弥撒中负责孩子们的游戏角色的……"
-    },
-    {
-        "message": "脸已经红了，呼吸也急促，状态很奇怪。问她发生了什么事――"
+        "message": "啊————！？"
     },
     {
         "name": "ヨミ",
-        "message": "「对不起。因为很害羞所以没说，其实我……现在正在发情期……<emoji=heart04>」"
+        "message": "「哈啊啊……<emoji=heart04>　会长的肉棒大人……<emoji=heart04>　嗅嗅……<emoji=heart04>　我好想念您……<emoji=heart04>」"
+    },
+    {
+        "message": "藏在会长席桌子下的，竟然是我的恋人优咪。我记得她说过，今天要在周日弥撒上扮演陪孩子们玩耍的角色……。"
+    },
+    {
+        "message": "她的脸已经变得通红，呼吸也很急促，样子非常奇怪。我问她到底是怎么了――"
     },
     {
         "name": "ヨミ",
-        "message": "「平时每天在固定的时间喝药来抑制症状。但今天……好像把装有药片的盒子弄丢了……」"
+        "message": "「对不起。因为太难为情了所以一直没说，其实我……现在，正处于发情期……<emoji=heart04>」"
     },
     {
         "name": "ヨミ",
-        "message": "「我想一两次不喝也没关系，但……不行……<emoji=heart04>」"
+        "message": "「平时我每天都会在固定的时间服药来抑制症状。但是，今天……装着药的盒子好像不知道掉到哪里去了……」"
     },
     {
         "name": "ヨミ",
-        "message": "「所以，会长……对不起。只要一点点就好，希望你能帮忙……<emoji=heart04>」"
+        "message": "「本来以为只是少服一次药应该还能忍耐……结果还是不行……<emoji=heart04>」"
     },
     {
         "name": "ヨミ",
-        "message": "「嗯嗯……<emoji=heart04>　啊啊……呼……<emoji=heart04>　阴茎的味道，果然忍不住……<emoji=heart04>　喜欢……<emoji=heart04>　吸……啊啊……<emoji=heart04>　嗯哼……<emoji=heart04>」"
+        "message": "「所以，会长……对不起。只要一会儿就好，希望你能帮帮我……<emoji=heart04>」"
     },
     {
         "name": "ヨミ",
-        "message": "「只是闻着……嗯嗯……<emoji=heart04>　阴道里流出了爱液……呼……<emoji=heart04>　变得湿漉漉的……<emoji=heart04>　啊啊……<emoji=heart04>」"
+        "message": "「嗅嗅……<emoji=heart04>　哈啊啊……呼呜呜……<emoji=heart04>　大○棒的味道，果然让人受不了……<emoji=heart04>　好喜欢……<emoji=heart04>　（吸气）……哈啊啊……<emoji=heart04>　嗯呼呜……<emoji=heart04>」"
     },
     {
         "name": "ヨミ",
-        "message": "「啊嗯<emoji=heart04>　阴道痒痒的……手指不听使唤……<emoji=heart04>　嗯<emoji=heart04>　啊……<emoji=heart04>　啊啊……<emoji=heart04>　舒服……<emoji=heart04>」"
+        "message": "「只是闻着味道……嗅嗅……<emoji=heart04>　小穴就流出了爱液……呼呜呜……<emoji=heart04>　变得湿答答的了……<emoji=heart04>　哈啊啊……<emoji=heart04>」"
     },
     {
         "name": "ヨミ",
-        "message": "「啊<emoji=heart04>　阴蒂已经勃起了……<emoji=heart04>　哈啊……哈啊<emoji=heart04>　嗯<emoji=heart04>　啊啊……<emoji=heart04>　啊<emoji=heart04>　好……<emoji=heart04>　啊啊……<emoji=heart04>　啊，啊嗯……<emoji=heart04>」"
+        "message": "「啊嗯<emoji=heart04>　小穴好痒……手指不自觉地就动起来了……<emoji=heart04>　嗯<emoji=heart04>　啊……<emoji=heart04>　呼啊啊……<emoji=heart04>　好舒服……<emoji=heart04>」"
     },
     {
         "name": "ヨミ",
-        "message": "「嗯……<emoji=heart04>　――门没锁，有人进来会很麻烦，对吧？」"
+        "message": "「啊<emoji=heart04>　阴蒂已经勃起了……<emoji=heart04>　哈啊……哈啊<emoji=heart04>　嗯<emoji=heart04>　呼啊啊……<emoji=heart04>　啊<emoji=heart04>　好棒……<emoji=heart04>　哈啊啊……<emoji=heart04>　啊，啊嗯……<emoji=heart04>」"
     },
     {
         "name": "ヨミ",
-        "message": "「没关系……<emoji=heart04>　桌子底下看不到门口……<emoji=heart04>　嗯嗯……<emoji=heart04>　嗯哼……<emoji=heart04>」"
+        "message": "「嗯……<emoji=heart04>　——因为门没锁，要是有人进来就糟了，对吧？」"
     },
     {
         "name": "ヨミ",
-        "message": "「所以，会长可以安心地享受……<emoji=heart04>　舔阴茎了……<emoji=heart04>　嗯……吻……<emoji=heart04>　舔……<emoji=heart04>」"
+        "message": "「没事的……<emoji=heart04>　桌子底下的话，从门口是看不到的……<emoji=heart04>　（嗅嗅）……<emoji=heart04>　嗯呼……<emoji=heart04>」"
     },
     {
         "name": "ヨミ",
-        "message": "「啊啊……<emoji=heart04>　会长的阴茎，坚挺而巨大，每次看都很棒……<emoji=heart04>　嗯嗯……<emoji=heart04>　舔吻……<emoji=heart04>」"
+        "message": "「所以，请会长放心地享受吧……<emoji=heart04>　我来舔您的肉棒……<emoji=heart04>　嗯……啾……<emoji=heart04>　咧咯……<emoji=heart04>」"
     },
     {
         "name": "ヨミ",
-        "message": "「嗯哼……<emoji=heart04>　越来越硬，越来越勃起……<emoji=heart04>　厉害……<emoji=heart04>　吸吮……<emoji=heart04>　舔……<emoji=heart04>」"
+        "message": "「哈啊啊……<emoji=heart04>　会长的肉棒，又粗又大，不管什么时候看都好棒……<emoji=heart04>　嗯唔……<emoji=heart04>　咧咯啾……<emoji=heart04>」"
     },
     {
         "name": "ヨミ",
-        "message": "「啾……<emoji=heart04>　舔啾……<emoji=heart04>　嗯唔……<emoji=heart04>　啾啵……<emoji=heart04>　嗯哈……<emoji=heart04>　老二，硬了……<emoji=heart04>」"
+        "message": "「嗯呼……<emoji=heart04>　越来越硬，翘起来了……<emoji=heart04>　好厉害……<emoji=heart04>　啾啵……<emoji=heart04>　呸咯……<emoji=heart04>」"
     },
     {
         "name": "ヨミ",
-        "message": "「呼唔……<emoji=heart04>　那我就开始口交了……<emoji=heart04>」"
-    },
-    {
-        "message": "再这样下去不行，试图制止她，但她已经陷入了疯狂，除了阴茎什么都看不见――"
+        "message": "「啾……<emoji=heart04>　咧咯啾……<emoji=heart04>　嗯唔……<emoji=heart04>　啾啵……<emoji=heart04>　嗯哈啊……<emoji=heart04>　肉棒，变得好精神……<emoji=heart04>」"
     },
     {
         "name": "ヨミ",
-        "message": "「开始了<emoji=heart04>　啊唔――<emoji=heart04><emoji=heart04>」"
+        "message": "「呼呜……<emoji=heart04>　那我就开始侍奉口交了哦……<emoji=heart04>」"
+    },
+    {
+        "message": "我试图阻止她继续下去，但她似乎已经沉迷其中，眼中除了肉棒没有别的了――"
     },
     {
         "name": "ヨミ",
-        "message": "「啾啵啵<emoji=heart04>　嗯唔……<emoji=heart04>　啾啵<emoji=heart04>　啾啵……<emoji=heart04>　舔啾<emoji=heart04>　啾啵……舔啾啾<emoji=heart04>　啾呜呜……啾啵<emoji=heart04>　啾啾啾<emoji=heart04>　啾啵啵……<emoji=heart04>」"
+        "message": "「要来了<emoji=heart04>　啊唔——<emoji=heart04><emoji=heart04>」"
     },
     {
         "name": "ヨミ",
-        "message": "「啾啵<emoji=heart04>　啊哈……<emoji=heart04>　老二，好硬好棒……<emoji=heart04>　嗯唔<emoji=heart04>　啾啵啵<emoji=heart04>　啾呜呜……舔啾<emoji=heart04>　啾啵<emoji=heart04>　啾啾啾<emoji=heart04>」"
+        "message": "「啾噗噗<emoji=heart04>　嗯唔……<emoji=heart04>　啾啵<emoji=heart04>　啾噗……<emoji=heart04>　咧咯啾<emoji=heart04>　啾噗……咧噜咧噜<emoji=heart04>　啾噜噜……啾啵<emoji=heart04>　啾咧咯<emoji=heart04>　啾噗噗……<emoji=heart04>」"
     },
     {
         "name": "ヨミ",
-        "message": "「嗯呼……<emoji=heart04>　前面流出了液体……<emoji=heart04>　感觉很舒服吧，真高兴……<emoji=heart04>　啾啵……<emoji=heart04>　啾呜呜<emoji=heart04>　舔啾<emoji=heart04>」"
+        "message": "「啾啵<emoji=heart04>　哈啊啊……<emoji=heart04>　肉棒，好健硕，好厉害……<emoji=heart04>　嗯唔<emoji=heart04>　啾噗噗<emoji=heart04>　啾噜噜……咧咯啾<emoji=heart04>　啾啵<emoji=heart04>　啾咧噜……<emoji=heart04>」"
     },
     {
         "name": "ヨミ",
-        "message": "「啊哈……<emoji=heart04>　嘴里满是浓烈的雄性气息，让我迷失了……<emoji=heart04>　啊唔……<emoji=heart04>　啾啾……<emoji=heart04>　啾呜呜<emoji=heart04>　嗯呼……<emoji=heart04>」"
+        "message": "「嗯呼……<emoji=heart04>　从龟头流出了汁液……<emoji=heart04>　你能感到舒服，我很开心……<emoji=heart04>　啾啵……<emoji=heart04>　啾噜噜<emoji=heart04>　咧咯啾……<emoji=heart04>」"
     },
     {
         "name": "ヨミ",
-        "message": "「我要用真空口交了<emoji=heart04>　会长的美味汁液，再多给我一点……<emoji=heart04>　嗯唔……<emoji=heart04>　啾呜呜呜<emoji=heart04>　咕啵<emoji=heart04>　啾呜呜呜<emoji=heart04>　啾啵……<emoji=heart04>」"
+        "message": "「呼啊啊……<emoji=heart04>　浓烈的雄性费洛蒙在我的嘴里扩散开来，让我沉醉其中……<emoji=heart04>　啊呜……<emoji=heart04>　啾啾……<emoji=heart04>　啾噜噜<emoji=heart04>　嗯呼……<emoji=heart04>」"
     },
     {
         "name": "ヨミ",
-        "message": "「嗯嗯<emoji=heart04>　会长的味道，真美味……<emoji=heart04>　啾呜呜呜<emoji=heart04>　啾呜呜<emoji=heart04>　舔啾啾<emoji=heart04>　啾啾啾<emoji=heart04>　嗯唔<emoji=heart04>　啾呜呜呜<emoji=heart04>」"
+        "message": "「我要开始吸了哦<emoji=heart04>　请让我多喝点会长舒服的汁液……<emoji=heart04>　嗯呜……<emoji=heart04>　啾噗噗噗<emoji=heart04>　啾啵<emoji=heart04>　啾噜噜噜<emoji=heart04>　啾啵……<emoji=heart04>」"
     },
     {
         "name": "ヨミ",
-        "message": "「喜欢……<emoji=heart04>　更多……<emoji=heart04>　咕嘟咕嘟<emoji=heart04>　咕嘟咕嘟<emoji=heart04>　嗯哼<emoji=heart04>　咕嘟咕嘟<emoji=heart04>　咕嘟<emoji=heart04>　咕嘟咕嘟<emoji=heart04>　咕嘟咕嘟咕嘟<emoji=heart04>」"
+        "message": "「嗯嗯<emoji=heart04>　会长的味道，好美味……<emoji=heart04>　啾噗噗噗<emoji=heart04>　啾噜啵<emoji=heart04>　咧咯咧咯<emoji=heart04>　咧咯啾<emoji=heart04>　啾啵啾啵<emoji=heart04>　嗯呜<emoji=heart04>　啾噜噜噜……<emoji=heart04>」"
     },
     {
-        "message": "黄泉的吸吮让我兴奋起来――"
+        "name": "ヨミ",
+        "message": "「喜欢……<emoji=heart04>　我还要……<emoji=heart04>　啾啵啾啵<emoji=heart04>　啾啵啾啵<emoji=heart04>　嗯呼<emoji=heart04>　啾噗噗噗<emoji=heart04>　啾啵<emoji=heart04>　啾噜噜噜……<emoji=heart04>　啾啵啾啵啾啵<emoji=heart04>」"
     },
     {
-        "message": "就在这时"
+        "message": "优咪的吸吮太舒服了，我也兴奋起来――"
+    },
+    {
+        "message": "就在这时。"
     },
     {
         "name": "女子生徒",
-        "message": "「打扰了，我是吹奏乐部的，……啊，会长♪」"
+        "message": "「打扰了，我是管弦乐部的……啊，是会长♪」"
     },
     {
         "name": "ヨミ",
@@ -184,277 +184,277 @@
     },
     {
         "name": "女子生徒",
-        "message": "「前几天在俱乐部委员会拿到的文件，我已经填写好了，来送过来的，现在方便吗？」"
+        "message": "「我把之前在社团委员会收到的文件填好了，想拿来给您，现在方便吗？」"
     },
     {
-        "message": "那个什么都不知道的女孩走近会长的座位"
+        "message": "那个什么都不知道的女孩，走到了会长席前。"
     },
     {
-        "message": "我迅速地想要阻止在桌子下面做口交的黄泉，用手按住她的头――"
-    },
-    {
-        "name": "ヨミ",
-        "message": "「嗯……！？　嗯嗯……<emoji=heart04>」"
+        "message": "我情急之下，想要阻止在桌子下给我口交的优咪，于是按住了她的头――"
     },
     {
         "name": "ヨミ",
-        "message": "「咕嘟咕嘟……<emoji=heart04>　咕嘟<emoji=heart04>　舔舔<emoji=heart04>」"
-    },
-    {
-        "name": "女子生徒",
-        "message": "「咦？　会长……脸好红啊，没事吧？　是不是——」"
+        "message": "「嗯唔……！？　嗯嗯……<emoji=heart04>」"
     },
     {
         "name": "ヨミ",
-        "message": "「……！　咕嘟……<emoji=heart04>　咕嘟<emoji=heart04>　咕嘟、咕嘟……<emoji=heart04>」"
+        "message": "「啾噗噗……<emoji=heart04>　啾啪……<emoji=heart04>　咧咯啾……<emoji=heart04>」"
     },
     {
         "name": "女子生徒",
-        "message": "「身体不舒服吗？　如果方便的话，我可以陪你去保健室」"
+        "message": "「咦？　会长……你的脸好像很红呢，没事吧？　难道说——」"
     },
     {
         "name": "ヨミ",
-        "message": "「呼啊……<emoji=heart04>　啪嗒……<emoji=heart04>　舔舔<emoji=heart04>　咕嘟、咕嘟……<emoji=heart04>　咕嘟咕嘟<emoji=heart04>」"
+        "message": "「……！　啾哔……<emoji=heart04>　啾啪……<emoji=heart04>　啾噗，啾噗……<emoji=heart04>　」"
     },
     {
         "name": "女子生徒",
-        "message": "「工作累了所以在休息？　原来如此。不要勉强自己哦」"
-    },
-    {
-        "name": "女子生徒",
-        "message": "「文件放在桌子上可以吗？　明白了。那我就先走了，请你稍后确认一下」"
+        "message": "「是身体不舒服吗？　如果不嫌弃的话，我可以陪你去保健室……」"
     },
     {
         "name": "ヨミ",
-        "message": "「啊啊……<emoji=heart04>　咕嘟咕嘟<emoji=heart04>　咕嘟咕嘟<emoji=heart04>　咕嘟<emoji=heart04>　咕嘟咕嘟<emoji=heart04>」"
+        "message": "「呼呜……<emoji=heart04>　哔啾……<emoji=heart04>　咧咯……<emoji=heart04>　啾啵，啾啵……<emoji=heart04>　啾噜噜噜……<emoji=heart04>」"
     },
     {
         "name": "女子生徒",
-        "message": "「咦？　好像从哪里传来了水声……？」"
+        "message": "「——是因为工作太累了所以正在休息？　原来是这样。请不要勉强自己哦」"
+    },
+    {
+        "name": "女子生徒",
+        "message": "「——把文件放在桌上就可以了吗？　我明白了。那么，之后就麻烦你确认了」"
     },
     {
         "name": "ヨミ",
-        "message": "「咕嘟咕嘟<emoji=heart04>　咕嘟咕嘟<emoji=heart04>　舔舔<emoji=heart04>　咕嘟咕嘟咕嘟<emoji=heart04>　嗯哼……<emoji=heart04>」"
+        "message": "「哈啊啊……<emoji=heart04>　啾噗噗噗<emoji=heart04>　啾啪啾啪<emoji=heart04>　啾噜<emoji=heart04>　啾噜噜噜……<emoji=heart04>」"
     },
     {
         "name": "女子生徒",
-        "message": "「――最近、天花板的管道漏水了，正在等待修理？　原来是这样啊」"
-    },
-    {
-        "name": "女子生徒",
-        "message": "「那我就不打扰你休息了，我先走了！」"
-    },
-    {
-        "name": "女子生徒",
-        "message": "「失礼了～。会长，工作别太辛苦了，加油哦♪」"
+        "message": "「咦？　怎么感觉，好像从哪里传来了水声……？」"
     },
     {
         "name": "ヨミ",
-        "message": "「嗯……<emoji=heart04>　咕噜咕噜咕噜<emoji=heart04>　啾啾啾啾啾啾<emoji=heart04>　咕噜咕噜咕噜<emoji=heart04>　咕噜咕噜咕噜<emoji=heart04>　咕噜咕噜咕噜<emoji=heart04>　啾啾<emoji=heart04>　啾巴<emoji=heart04>」　"
+        "message": "「啾啵啾啵<emoji=heart04>　啾噗啾噗<emoji=heart04>　咧咯啾<emoji=heart04>　啾呒啾呒啾呒<emoji=heart04>　嗯呼呜……<emoji=heart04>」"
     },
     {
-        "message": "发现危机已经过去，黄泉再次开始了吸吮口交。"
+        "name": "女子生徒",
+        "message": "「——最近，天花板的水管好像漏水了，正在等修理？　原来是这样啊」"
+    },
+    {
+        "name": "女子生徒",
+        "message": "「那打扰你们休息也不太好，我差不多也该走了！」"
+    },
+    {
+        "name": "女子生徒",
+        "message": "「打扰了～会长，工作的时候要注意别太勉强自己哦♪」"
+    },
+    {
+        "name": "ヨミ",
+        "message": "「嗯……<emoji=heart04>　啾噜噜噜噜<emoji=heart04>　啾噗啾噗啾噗<emoji=heart04>　啾啵啾啵啾啵<emoji=heart04>　啾啪啾啪啾啪<emoji=heart04>　咧咯啾<emoji=heart04>　啾啪……<emoji=heart04>」　"
+    },
+    {
+        "message": "一明白行为暴露的危机已经过去，优咪立马又重新开始真空口交。"
     },
     {
         "name": "クロト",
-        "message": "「原来黄泉不仅是嗅觉控，还因为可能被发现而兴奋的变态啊」"
+        "message": "「其实优咪你，不光有恋味癖，还是那种觉得可能会被人发现而感到兴奋的变态啊」"
     },
     {
         "name": "ヨミ",
-        "message": "「啊嗯<emoji=heart04>　不、不是这样的……<emoji=heart04>」"
+        "message": "「才没有<emoji=heart04>　不，不是这样的……<emoji=heart04>」"
     },
     {
         "name": "ヨミ",
-        "message": "「啾巴<emoji=heart04>　那个……作为女仆，不能中断服务……！」"
+        "message": "「啾啵<emoji=heart04>　那个是因为……我身为女仆，不能中断侍奉……！」"
     },
     {
         "name": "ヨミ",
-        "message": "「还有……我是嗅觉控，所以感觉到那个孩子不会发现我的气味……」"
+        "message": "「而，而且……我是个气味癖，所以应该说是我感觉到一种她不会发现的气味吧……」"
     },
     {
-        "message": "黄泉试图掩饰，不愿意承认。"
+        "message": "优咪含糊其辞，一直不肯承认。"
     },
     {
         "name": "クロト",
-        "message": "「那没办法……黄泉，等一下！　口交，停止」"
+        "message": "「那就没办法了……优咪，等等！　口交，暂停」"
     },
     {
         "name": "ヨミ",
-        "message": "「啊嗯……！？」"
+        "message": "「咕呀……！？」"
     },
     {
         "name": "ヨミ",
-        "message": "「会、会长，怎么了……？」"
+        "message": "「会，会长，怎么了……？」"
     },
     {
         "name": "ヨミ",
-        "message": "「――不、不说实话的话，口交就没了？　真正的感觉是……那、那是……！」"
+        "message": "「——如，如果你不老实交代的话，口交就暂时中止？　你到底是不是……这，这个嘛……！」"
     },
     {
         "name": "ヨミ",
-        "message": "「……唔、唔～！　我、我说<emoji=heart04>　我会说的，所以别没收了～<emoji=heart04>」"
+        "message": "「……呜，呜呜～！　我，我说<emoji=heart04>　我说就是了，所以请不要中止～<emoji=heart04>」"
     },
     {
         "name": "ヨミ",
-        "message": "「其实……刚才差点被发现，兴奋得不得了……<emoji=heart04>」"
+        "message": "「其，其实……刚才快要暴露的时候，我非常兴奋……<emoji=heart04>」"
     },
     {
         "name": "ヨミ",
-        "message": "「还有……头被按住，强行被那个，强行被口交的感觉……<emoji=heart04>」"
+        "message": "「还，还有……脑袋被按住，那，那种被强行，被，被强迫口交的感觉……<emoji=heart04>」"
     },
     {
-        "message": "她那种不讨厌被强迫的态度，让我兴奋起来――"
-    },
-    {
-        "name": "ヨミ",
-        "message": "「――对这种变态女仆要惩罚？　啊嗯<emoji=heart04>　变态什么的……<emoji=heart04>」"
-    },
-    {
-        "message": "我用故意强硬的语气命令她。"
-    },
-    {
-        "message": "――作为惩罚，让她负责到底，进行性处理。　"
+        "message": "她那种不排斥被强硬对待的态度，让我感到兴奋不已――"
     },
     {
         "name": "ヨミ",
-        "message": "「……！　是、是的……<emoji=heart04>　主人……<emoji=heart04>」"
+        "message": "「——要惩罚我这个变态女仆吗？　呀嗯<emoji=heart04>　什，什么变态啦……<emoji=heart04>」"
+    },
+    {
+        "message": "我故意用强硬的语气对她下达命令。"
+    },
+    {
+        "message": "――作为惩罚，她必须负起责任，帮我处理性欲直到最后。　"
     },
     {
         "name": "ヨミ",
-        "message": "「天冈黄泉，诚心诚意，为阁下服务……<emoji=heart04>」"
+        "message": "「唔……！　好，好的……<emoji=heart04>　主人……<emoji=heart04>」"
     },
     {
         "name": "ヨミ",
-        "message": "「那么，我开始了<emoji=heart04>　嗯……啊姆<emoji=heart04>　唆吮唆吮唆吮<emoji=heart04><emoji=heart04>」"
+        "message": "「天之崎优咪，诚心诚意地为您的肉棒大人服务……<emoji=heart04>」"
     },
     {
         "name": "ヨミ",
-        "message": "「唆吮唆吮唆吮<emoji=heart04>　唆吮唆吮唆吮<emoji=heart04>　嗯唔<emoji=heart04>　唆吮唆吮<emoji=heart04>　唆吮唆吮唆吮<emoji=heart04>　唆吮唆吮唆吮唆吮唆吮<emoji=heart04>　唆吮唆吮唆吮<emoji=heart04>　唆吮唆吮唆吮<emoji=heart04>」"
+        "message": "「那么，我要开始了哦<emoji=heart04>　嗯……啊唔<emoji=heart04>　啾噗噗噗——<emoji=heart04><emoji=heart04>」"
     },
     {
         "name": "ヨミ",
-        "message": "「唆吮唆吮唆吮<emoji=heart04>　怎么样，主人<emoji=heart04>　嗯唔<emoji=heart04>　唆吮唆吮唆吮<emoji=heart04>　唆吮唆吮唆吮<emoji=heart04>」"
+        "message": "「啾噗啾噗啾噗<emoji=heart04>　啾噜噜噜<emoji=heart04>　嗯噗<emoji=heart04>　啾噗噗<emoji=heart04>　啾噗滋噜噜<emoji=heart04>　啾噗啾噗啾噗<emoji=heart04>　啾噗唔唔<emoji=heart04>　滋噜啾<emoji=heart04>」"
     },
     {
         "name": "ヨミ",
-        "message": "「唆吮唆吮<emoji=heart04>　嗯唔<emoji=heart04>　　我的嘴巴，舒服吗？　嗯唔嗯唔，唆吮唆吮唆吮<emoji=heart04>　唆吮唆吮唆吮，唆吮唆吮唆吮，嗯唔嗯唔<emoji=heart04>」"
+        "message": "「啾噗啾噗啾噗<emoji=heart04>　怎么样，主人<emoji=heart04>　嗯噗<emoji=heart04>　啾噜噜噜<emoji=heart04>　啾噗啾噗啾噗<emoji=heart04>　啾啪啾啪啾啪<emoji=heart04>」"
     },
     {
         "name": "ヨミ",
-        "message": "「再深一点？　是、是的<emoji=heart04>　明白了<emoji=heart04>　我会用您喜欢的深喉服侍您的<emoji=heart04>　啊啊……<emoji=heart04>」"
+        "message": "「啾噜噜，啾啪<emoji=heart04>　嗯噗啊<emoji=heart04>　我的嘴穴，舒服吗？　嗯噗噗，啾噗啾噗啾噗<emoji=heart04>　啾啪，啾噜，嗯噗噗<emoji=heart04>」"
     },
     {
         "name": "ヨミ",
-        "message": "「一、二、三……啾啾啾<emoji=heart04>」"
+        "message": "「——再深点吗？　好，好的<emoji=heart04>　我知道了<emoji=heart04>　就用主人喜欢的深喉来侍奉您吧<emoji=heart04>　哈啊啊……<emoji=heart04>」"
     },
     {
         "name": "ヨミ",
-        "message": "「啾啾啾啾啾<emoji=heart04>　咕噜咕噜咕噜咕噜<emoji=heart04>　咕噜咕噜咕噜咕噜！　嗯嗯嗯<emoji=heart04>」"
+        "message": "「一，二……啾噗噗噗<emoji=heart04>」"
     },
     {
         "name": "ヨミ",
-        "message": "「啾啾啾啾啾<emoji=heart04>　咕噜咕噜咕噜咕噜<emoji=heart04>　咕噜咕噜咕噜咕噜<emoji=heart04>　咕噜咕噜咕噜咕噜<emoji=heart04><emoji=heart04>」"
+        "message": "「啾噗啾噗啾噗啾噗<emoji=heart04>　啾啵啾啵啾啵啾啵<emoji=heart04>　啾噜噜噜噜！　嗯噗噗噗<emoji=heart04>」"
     },
     {
         "name": "ヨミ",
-        "message": "「啊啊啊<emoji=heart04>　阴茎大人，精液好多<emoji=heart04>　咕噜咕噜咕噜咕噜<emoji=heart04>」"
+        "message": "「啾啵啾啵啾啵啾啵<emoji=heart04>　啾啪啾啪啾啪啾啪<emoji=heart04>　哧溜哧溜哧溜哧溜<emoji=heart04>　啾噜噜噜噜噜<emoji=heart04><emoji=heart04>」"
     },
     {
         "name": "ヨミ",
-        "message": "「我也兴奋过头了，爱液溢出来了<emoji=heart04>　嗯哼<emoji=heart04>　啾啾啾啾啾<emoji=heart04>」"
+        "message": "「哈啊啊啊<emoji=heart04>　肉棒大人，流出了好多汁液呢<emoji=heart04>　啾啵啾啵啾啵啾啵<emoji=heart04>」"
     },
     {
         "name": "ヨミ",
-        "message": "「阴道痉挛，手指不安分地自慰，<emoji=heart04>　啾啾啾啾啾啾<emoji=heart04>　咕噜咕噜咕噜咕噜<emoji=heart04><emoji=heart04>」"
+        "message": "「我也太兴奋了，爱液都溢出来了<emoji=heart04>　嗯呼呜<emoji=heart04>　啾噗啾噗啾噗啾噗<emoji=heart04>」"
     },
     {
         "name": "ヨミ",
-        "message": "「嗯唔……<emoji=heart04>　――主人，我快要高潮了吗？」"
+        "message": "「小穴一紧一紧的，我正在用手指下流地自慰着呢<emoji=heart04>　啾啵啾啵啾啵啾啵<emoji=heart04>　啾噜噜噜噜噜<emoji=heart04><emoji=heart04>」"
     },
     {
         "name": "ヨミ",
-        "message": "「呼唔……<emoji=heart04>　射精……<emoji=heart04>　主人的精液……<emoji=heart04>　啾啾啾啾啾啾<emoji=heart04>」"
+        "message": "「嗯噗……<emoji=heart04>　——主人，您已经要高潮了吗？」"
     },
     {
         "name": "ヨミ",
-        "message": "「给我<emoji=heart04>　主人的浓厚费洛蒙精液，我要<emoji=heart04>　啾啾啾啾<emoji=heart04><emoji=heart04>」"
+        "message": "「呼呜呜……<emoji=heart04>　射精……<emoji=heart04>　主人的精液……<emoji=heart04>　啾啪啾啪啾啪啾啪<emoji=heart04>」"
     },
     {
         "name": "ヨミ",
-        "message": "「啾啾啾啾啾啾<emoji=heart04>　啾啾啾啾啾啾<emoji=heart04>　啾啾啾啾啾啾<emoji=heart04>　咕噜咕噜咕噜咕噜<emoji=heart04><emoji=heart04>」"
+        "message": "「射出来吧<emoji=heart04>　我想要主人那充满浓浓费洛蒙的精液<emoji=heart04>　啾噗噗噗——<emoji=heart04><emoji=heart04>」"
     },
     {
         "name": "ヨミ",
-        "message": "「嗯嗯<emoji=heart04>　我也快要高潮了<emoji=heart04>　啾啾啾啾啾啾<emoji=heart04>」"
+        "message": "「啾啵啾啵啾啵啾啵<emoji=heart04>　啾噗啾噗啾噗啾噗<emoji=heart04>　啾啪啾啪啾啪啾啪<emoji=heart04>　啾噜噜噜噜噜<emoji=heart04><emoji=heart04>」"
     },
     {
         "name": "ヨミ",
-        "message": "「在奉仕时不安分地高潮了<emoji=heart04>　啾啾啾啾啾啾<emoji=heart04>」　"
+        "message": "「嗯嗯<emoji=heart04>　我的小穴好像也要高潮了<emoji=heart04>　啾噗啾噗啾噗啾噗<emoji=heart04>」"
+    },
+    {
+        "name": "ヨミ",
+        "message": "「我会一边侍奉一边下流地高潮的<emoji=heart04>　啾啵啾啵啾啵啾啵<emoji=heart04>」　"
     },
     {
         "name": "クロト",
-        "message": "「黄泉，我要射了！全部喝下去！」"
+        "message": "「优咪，我要射了！　全部喝下去！」"
     },
     {
         "name": "ヨミ",
-        "message": "「是<emoji=heart04>　来吧<emoji=heart04>　我也要高潮了<emoji=heart04>」"
+        "message": "「好的<emoji=heart04>　请射进来吧<emoji=heart04>　我也要高潮了<emoji=heart04>」"
     },
     {
         "name": "ヨミ",
-        "message": "「啊啊啊啊啊<emoji=heart04><emoji=heart04>　高潮了，高潮了高潮了――」"
+        "message": "「嗯啊啊啊啊啊啊<emoji=heart04><emoji=heart04>　要去了，要去了要去了要去了——」"
     },
     {
         "name": "ヨミ",
-        "message": "「高潮了――嗯唔唔唔唔唔唔唔唔唔唔唔<emoji=heart04><emoji=heart04><emoji=heart04>」"
+        "message": "「去——嗯唔唔唔唔唔唔～～～～～～～～～<emoji=heart04><emoji=heart04><emoji=heart04>」"
     },
     {
         "name": "ヨミ",
-        "message": "「嗯唔<emoji=heart04>　嗯嗯……嗯嗯……<emoji=heart04>　咕咚<emoji=heart04>」"
+        "message": "「嗯噗呜<emoji=heart04>　嗯咕……嗯咕……<emoji=heart04>　咕嘟<emoji=heart04>」"
     },
     {
         "name": "ヨミ",
-        "message": "「啊啊<emoji=heart04>　嘴里全是主人的味道……<emoji=heart04>　嗯唔……嗯嗯<emoji=heart04>　咕噜咕噜咕噜<emoji=heart04>」"
+        "message": "「嗯啊啊<emoji=heart04>　嘴里充满了主人的味道……<emoji=heart04>　嗯唔……嗯咕<emoji=heart04>　啾噜噜噜……<emoji=heart04>」"
     },
     {
         "name": "ヨミ",
-        "message": "「――嗯唔<emoji=heart04>　哈啊……<emoji=heart04>　哈……<emoji=heart04>　哈……<emoji=heart04>　主人的射精，真是太棒了……<emoji=heart04>」"
+        "message": "「——嗯噗啊<emoji=heart04>　哈啊嗯……<emoji=heart04>　哈啊……<emoji=heart04>　哈啊……<emoji=heart04>　主人的射精，好厉害……<emoji=heart04>」"
     },
     {
         "name": "ヨミ",
-        "message": "「嗯嗯……咕咚<emoji=heart04>　嗯哈哈……<emoji=heart04>　主人的精液，真好喝……<emoji=heart04>　谢谢您……<emoji=heart04>」"
+        "message": "「嗯呣……咕嘟<emoji=heart04>　嗯哈啊……<emoji=heart04>　主人的精液，好好喝……<emoji=heart04>　非常感谢……<emoji=heart04>」"
     },
     {
         "name": "ヨミ",
-        "message": "「――嗯……<emoji=heart04>　嘿嘿……<emoji=heart04>　头被抚摸，很开心……<emoji=heart04>」"
+        "message": "「——嗯……<emoji=heart04>　哎嘿嘿……<emoji=heart04>　摸摸头，我好开心……<emoji=heart04>」"
     },
     {
         "name": "ヨミ",
-        "message": "「感觉好吗？我也闻着主人的气味，高潮了……<emoji=heart04>」"
+        "message": "「舒服吗？　我也一边闻着主人的气味，一边高潮了……<emoji=heart04>」"
     },
     {
         "name": "ヨミ",
-        "message": "「我，真的喜欢主人的精液的味道……<emoji=heart04>　被弄得很舒服，射得很多，感觉很幸福……<emoji=heart04>」"
+        "message": "「我，果然还是好喜欢，主人精液的气味……<emoji=heart04>　主人舒服地射了好多出来，让我觉得好幸福……<emoji=heart04>」"
     },
     {
         "name": "ヨミ",
-        "message": "「不过，对不起……。主人的精液，量太多了，洒出来了……。所以――」"
+        "message": "「但是，对不起……。主人的精液，量太多了，洒出来了……。所以——」"
     },
     {
         "name": "ヨミ",
-        "message": "「被别人发现的兴奋感让我兴奋的变态女仆，请您惩罚我吧……<emoji=heart04>」"
+        "message": "「请主人惩罚一下，一想到可能会被人发现就兴奋的变态女仆吧……<emoji=heart04>」"
     },
     {
-        "message": "听到这句话，我的阴茎再次勃起了。"
+        "message": "听到这句话，我的肉棒再次勃起了。"
     },
     {
         "name": "クロト",
-        "message": "「不管发生什么都不知道哦」"
+        "message": "「我可不管会变成什么样哦」"
     },
     {
         "name": "ヨミ",
-        "message": "「是<emoji=heart04>　主人……<emoji=heart04>」"
+        "message": "「好的<emoji=heart04>　主人……<emoji=heart04>」"
     },
     {
-        "message": "对高兴地摇着尾巴的恋人女仆，我再次命令她进行清洁口交。――"
+        "message": "我再次命令，开心地摇着尾巴的恋人女仆，做清理口交――"
     }
 ]

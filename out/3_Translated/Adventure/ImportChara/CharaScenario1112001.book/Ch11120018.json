@@ -1,54 +1,54 @@
 [
     {
         "name": "チナ",
-        "message": "「克拉————！！」"
+        "message": "「吃我一招————！！」"
     },
     {
         "name": "チナ",
-        "message": "「好，又是我赢了！这样就三连胜了！」"
+        "message": "「好耶，又是我赢了！　这样就三连胜了！」"
     },
     {
         "name": "クロト",
-        "message": "「这次以为能赢的……明明我更努力了，蒂娜却这么强。」"
+        "message": "「我还以为这次能赢呢……明明我玩的时间更长，千奈可真强啊」"
     },
     {
         "name": "チナ",
-        "message": "「哈哈，格斗游戏有很多技巧的。想知道的话我可以教你。」"
+        "message": "「哈哈，格斗游戏还是有很多技巧的。想知道的话我可以教你哦」"
     },
     {
         "name": "チナ",
-        "message": "「不过，十年前的游戏也一样，有趣的就是有趣。」"
+        "message": "「不过就算是10年前的游戏，有意思的游戏还是很有意思嘛。不知不觉就玩上瘾了」"
     },
     {
         "name": "クロト",
-        "message": "（十年前……）"
+        "message": "（10年前……）"
     },
     {
-        "message": "感受到胸口的刺痛，最新的游戏被当作旧游戏来对待。"
+        "message": "最新游戏被当成旧游戏这件事让我感到有些心痛，但我还是继续玩着游戏。"
     },
     {
-        "message": "不过……"
+        "message": "然而……"
     },
     {
         "name": "チナ",
-        "message": "「嗯？一直看着我干什么？」"
+        "message": "「嗯？　干嘛一直盯着我看啊？」"
     },
     {
-        "message": "无论战斗结果如何，蒂娜总有一天会回到德内布的世界。"
+        "message": "无论战斗的结果如何，千奈终究会回到天津四的世界。"
     },
     {
-        "message": "如果能见到德内布就好了，如果不能，我就再也见不到蒂娜了。"
+        "message": "如果能去见天津四的话倒还好，否则我就再也见不到千奈了。"
     },
     {
-        "message": "所以我──"
+        "message": "所以──"
     },
     {
         "name": "クロト",
-        "message": "「我喜欢你，蒂娜。」"
+        "message": "「我喜欢你，千奈」"
     },
     {
         "name": "チナ",
-        "message": "「哈？」"
+        "message": "「啊？」"
     },
     {
         "name": "チナ",
@@ -56,23 +56,23 @@
     },
     {
         "name": "チナ",
-        "message": "「哈啊啊啊！！？你，你知道自己在说什么吗！？」"
+        "message": "「什么鬼啊啊啊啊！！？　你知道自己在说什么吗！？」"
     },
     {
         "name": "チナ",
-        "message": "「我和你是不同世界的人。而且如果有必要，我还会和阿尔泰尔战斗。」"
+        "message": "「我和你是不同世界的人。而且如果有需要的话，我还会和牛郎星战斗的」"
     },
     {
         "name": "クロト",
-        "message": "「我知道。但我还是喜欢你。」"
+        "message": "「我知道。但我还是喜欢你」"
     },
     {
         "name": "チナ",
-        "message": "「……你，真的很傻。不过，这种地方倒是很像你。」"
+        "message": "「……你真是个傻瓜。虽然我觉得这也很有你的风格就是了」"
     },
     {
         "name": "チナ",
-        "message": "「我并不讨厌你。我也，那什么……不想离开。」"
+        "message": "「我也并不讨厌你。我也是，那个……不想和你分开」"
     },
     {
         "name": "チナ",
@@ -80,10 +80,10 @@
     },
     {
         "name": "チナ",
-        "message": "「好吧……随你吧。」"
+        "message": "「来吧……随你便吧」"
     },
     {
-        "message": "蒂娜在我的床上脱下衣服，紧张地看着我。"
+        "message": "千奈在我床上敞开了衣服，一脸紧张地看着我。"
     },
     {
         "name": "クロト",
@@ -91,64 +91,64 @@
     },
     {
         "name": "チナ",
-        "message": "「我不能说喜欢你。不能说出口。所以至少……」"
+        "message": "「我不能对你说出<rb=・・・・>我喜欢你这句话</rb>。<rb=・・・・・・・・・・>也不可能说得出口啊</rb>。所以至少……」"
     },
     {
         "name": "クロト",
-        "message": "「……明白了。」"
+        "message": "「……我明白了」"
     },
     {
-        "message": "我们虽然暂时成为同盟，但可能再次成为敌人。"
+        "message": "虽说我们现在暂时是合作关系，但也许还会再次成为敌人。"
     },
     {
-        "message": "所以不通过言语来确认彼此的感情，只是重叠身体。"
-    },
-    {
-        "name": "クロト",
-        "message": "「那我开始了。」"
-    },
-    {
-        "message": "伸手抚摸小巧可爱的胸部，轻轻爱抚。"
-    },
-    {
-        "name": "チナ",
-        "message": "「嗯……哈……这样的小胸，摸着开心吗……？」"
+        "message": "所以我不再用言语来确认彼此的心意，只是一味地用身体交合。"
     },
     {
         "name": "クロト",
-        "message": "「当然。因为是蒂娜的胸。」"
+        "message": "「那我要摸了哦」"
+    },
+    {
+        "message": "我把手伸向那小巧可爱的胸部，轻轻地爱抚起来。"
     },
     {
         "name": "チナ",
-        "message": "「……傻瓜……嗯啊……哈，哈……嗯……」"
-    },
-    {
-        "message": "每次用力握住，小小的乳房变形，蒂娜发出声音并颤抖。"
-    },
-    {
-        "message": "看向秘处，那里渗出了透明的蜜液。"
-    },
-    {
-        "name": "チナ",
-        "message": "「唔……别这样一直看着……真丢脸。魔王也……啊──」"
-    },
-    {
-        "message": "蒂娜注意到阴茎勃起，瞪大眼睛盯着我的下体。"
-    },
-    {
-        "name": "チナ",
-        "message": "「魔王的，真大……。这不是一直都这样吧？」"
+        "message": "「嗯……哈啊……摸这么小的胸部，你会开心吗……？」"
     },
     {
         "name": "クロト",
-        "message": "「是啊，因为是蒂娜，所以才变得这么大。」"
+        "message": "「当然了。因为这是千奈的胸部嘛」"
     },
     {
         "name": "チナ",
-        "message": "「这、这样啊……果然是个怪人……」"
+        "message": "「……笨蛋……嗯啊……哈啊，哈……嗯嗯……」"
     },
     {
-        "message": "蒂娜脸红了，我把阴茎贴在她的下体，再次问道。"
+        "message": "每当我手指用力，小小的乳房就会软绵绵地改变形状，千奈一边发出呻吟一边颤抖着。"
+    },
+    {
+        "message": "我将视线转向她的私处，那里已经开始渗出透明的蜜液了。"
+    },
+    {
+        "name": "チナ",
+        "message": "「唔……别盯着看啦……很害羞的。就算是魔王……啊——」"
+    },
+    {
+        "message": "千奈注意到我那根勃起的肉棒，瞪大眼睛凝视着我的胯部。"
+    },
+    {
+        "name": "チナ",
+        "message": "「魔王的，好大……这根东西，不是……一直都这么大吧？」"
+    },
+    {
+        "name": "クロト",
+        "message": "「嗯，因为是在千奈的面前，所以才变得这么大哦」"
+    },
+    {
+        "name": "チナ",
+        "message": "「这，这样啊……你这家伙，果然很奇怪……」"
+    },
+    {
+        "message": "我将肉棒抵在满脸通红的千奈的胯间，再次问道。"
     },
     {
         "name": "クロト",
@@ -156,345 +156,345 @@
     },
     {
         "name": "チナ",
-        "message": "「别让我说那么多次……不是让你随便来吗。」"
+        "message": "「别让我重复好几遍啊……我不是说了随你便吗」"
     },
     {
-        "message": "即使在这种时候，蒂娜也没改变她强硬的语气，感受到她的独特之处。"
+        "message": "即使在这种时候也不改强硬口吻的千奈，让我感受到了她的风格。"
     },
     {
-        "message": "然后用龟头撑开阴道口──"
+        "message": "然后我用龟头撑开她的穴口──"
     },
     {
         "name": "チナ",
-        "message": "「呜～～～～～～～～～……！」"
+        "message": "「咕呜呜～～～～～……！」"
     },
     {
-        "message": "用力把阴茎插进小小的身体，蒂娜的脸因为疼痛而扭曲了。"
+        "message": "我用力将肉棒塞进她娇小的身体里，千奈的脸因疼痛而扭曲。"
     },
     {
         "name": "クロト",
-        "message": "「还好吗？」"
+        "message": "「没事吧？」"
     },
     {
         "name": "チナ",
-        "message": "「呼……呼……星骑士可是，这种程度没问题的……哈……不过你也别露出那么痛苦的表情……」"
+        "message": "「呼……呼……我可是星骑士，这点小事不算什么……哈啊……不过你好像也一脸难受的样子啊……？」"
     },
     {
         "name": "クロト",
-        "message": "「不是痛苦，而是蒂娜里面太紧了，感觉很好。」"
+        "message": "「不，我不是难受，是你的里面太紧了，很舒服」"
     },
     {
         "name": "チナ",
-        "message": "「这、这样啊……那还好。」"
+        "message": "「是，是吗……那就好」"
     },
     {
-        "message": "因为蒂娜的身体很小，阴道壁紧紧地夹住阴茎，光是连接在一起就能感受到快感。"
+        "message": "可能是因为千奈的身材娇小，她的肉壁紧紧地缠住了我的肉棒，光是这样结合在一起，快感就涌了上来。"
     },
     {
-        "message": "再加上蒂娜的体温、爱液的湿润感、粘膜的柔软，阴茎变得更加坚硬。"
-    },
-    {
-        "name": "チナ",
-        "message": "「嗯……！？　你的，动了一下……嗯……在我里面变大了……」"
+        "message": "再加上千奈的体温，湿润的蜜穴，以及柔软的粘膜，我的肉棒变得更硬了。"
     },
     {
         "name": "チナ",
-        "message": "「呼……哈……如果那么舒服，就不用忍了。」"
+        "message": "「嗯嗯……！？　你的那个，在跳动……嗯……在我里面变大了……」"
     },
     {
         "name": "チナ",
-        "message": "「嗯，哈……哈啊……我没事，随便动吧……」"
-    },
-    {
-        "message": "蒂娜的话让我点了点头，边观察她的反应，边慢慢地前后动起腰。"
+        "message": "「呼……哈啊……既然这么舒服的话，就不要忍耐了哦……」"
     },
     {
         "name": "チナ",
-        "message": "「唔……嗯……哈，哈……嗯，哈……哈啊……」"
+        "message": "「嗯，哈啊……哈啊啊……我没事的，你就，随心所欲地动吧……」"
+    },
+    {
+        "message": "我点了点头，一边观察着她的反应，一边开始慢慢地前后摆动腰部。"
     },
     {
         "name": "チナ",
-        "message": "「呼，哈……在我的里面，动着……？　哈……哈……热乎乎的，大大的……这就是你的，阴茎啊……」"
+        "message": "「唔……嗯……哈啊，哈啊……嗯，哈……哈啊啊……」"
     },
     {
         "name": "チナ",
-        "message": "「嗯……你的阴茎，把我里面撑开了……哈，啊……被你的形状填满了……」"
+        "message": "「呼，哈啊……在我的里面，动起来了……？　哈啊……哈……又热，又大……这就是你的，肉棒啊……」"
     },
     {
         "name": "チナ",
-        "message": "「哈……呼……哈……这就是做爱……啊……哈啊……」"
-    },
-    {
-        "message": "用阴茎轻轻地动，摩擦着彼此的性器。"
+        "message": "「嗯嗯……你的肉棒，把我的里面，撑开了……哈，啊啊……被变成你的形状了……」"
     },
     {
         "name": "チナ",
-        "message": "「呼……唔……哈……哈……你的鸡巴和，我的那里摩擦着……哈啊……」"
+        "message": "「哈啊……呼……哈啊……这就是做爱……啊……哈……哈啊啊……」"
+    },
+    {
+        "message": "我轻轻地抽插着肉棒，让彼此的性器相互摩擦，以便让她适应。"
     },
     {
         "name": "チナ",
-        "message": "「嗯哈啊……你的鸡巴，好热……哈……啊啊……啊，哈……嗯……」"
+        "message": "「呼……唔……哈啊……哈啊……你的肉棒，和我的那里摩擦着……哈啊啊……」"
     },
     {
-        "message": "爱液湿润的粘膜和鸡巴每次摩擦，都会带来甜美的快感。"
+        "name": "チナ",
+        "message": "「嗯哈啊啊……你的肉棒，好热……哈……呼啊啊啊……啊，哈……嗯嗯……」"
     },
     {
-        "message": "通过直接与蒂娜连接，感受到的温暖，让人感到无法言喻的感动。"
+        "message": "每当被爱液浸湿的粘膜和肉棒摩擦在一起，就会有一阵甜美的快感流过。"
+    },
+    {
+        "message": "而与千奈直接相连所感受到的温暖，也让我产生了难以言喻的感动。"
     },
     {
         "name": "クロト",
-        "message": "「嗯……蒂娜里面也很热……」"
+        "message": "「唔……你的里面也好热啊……」"
     },
     {
         "name": "チナ",
-        "message": "「是吗？　哈，哈……肚子里，感觉到你的……嗯啊……这种感觉，还是第一次……」"
+        "message": "「是，是吗……？哈，哈啊……肚子里，能感觉到你的……嗯啊……这种感觉，我还是，第一次……」"
     },
     {
         "name": "チナ",
-        "message": "「哈啊……啊……那么大的东西，真的进到我里面了……嗯……」"
+        "message": "「哈啊……啊……那么大的东西，真的进到我的里面来了啊……嗯嗯……」"
     },
     {
-        "message": "插入鸡巴时，被阴道壁包裹，感受到蒂娜的体温。"
+        "message": "当肉棒插入时，被阴道壁包裹住的我感受到了千奈的体温。"
     },
     {
-        "message": "正如蒂娜所说，这是第一次的感觉，深深地连接在一起的实感。"
+        "message": "正如千奈所说，这是我第一次感受到这种感觉，确实有着深深结合在一起的实感。"
     },
     {
         "name": "チナ",
-        "message": "「嗯……哈……那里，感觉怪怪的……」"
+        "message": "「嗯……哈啊……那里，感觉好奇怪……」"
     },
     {
         "name": "クロト",
-        "message": "「还是很痛吗？」"
+        "message": "「果然会痛吗？」"
     },
     {
         "name": "チナ",
-        "message": "「不是痛，哈……是麻麻的？　不，是痒痒的感觉……」"
+        "message": "「与其说痛……哈啊……更像是刺痛？　不对，更像是痒痒的……」"
     },
     {
-        "message": "认为蒂娜感受到了快感，于是稍微加大前后的动作──"
-    },
-    {
-        "name": "チナ",
-        "message": "「嗯～～～<emoji=heart04>」"
+        "message": "我以为千奈感受到了快感，于是稍微加大了前后抽插的幅度──"
     },
     {
         "name": "チナ",
-        "message": "「鸡巴在里面摩擦……哈啊，啊……感觉到什么……嗯<emoji=heart04>　啊啊……啊……啊啊<emoji=heart04>」"
+        "message": "「嗯嗯～～～<emoji=heart04>」"
     },
     {
         "name": "チナ",
-        "message": "「这就是感觉好吗？　哈啊……啊……嗯……嗯～～～<emoji=heart04>」"
-    },
-    {
-        "message": "确认蒂娜确实感受到了快感，加快腰部的动作，让鸡巴摩擦阴道壁。"
+        "message": "「肉棒，在里面，摩擦……哈啊，啊啊……感觉，好舒服……嗯嗯<emoji=heart04>　呀啊啊……啊……呼呀啊啊<emoji=heart04>」"
     },
     {
         "name": "チナ",
-        "message": "「啊啊<emoji=heart04>　啊<emoji=heart04>　嗯<emoji=heart04>　你的鸡巴在里面摩擦……哈啊……呼……嗯……<emoji=heart04>」"
+        "message": "「这就是，舒服的感觉吗……？　哈啊啊……啊……嗯……嗯嗯～～<emoji=heart04>」"
+    },
+    {
+        "message": "知道千奈确实感受到了快感后，我放下心来，加快了腰部的摆动速度，用肉棒摩擦着阴道壁。"
     },
     {
         "name": "チナ",
-        "message": "「哈啊……哈……果然，你的，很大……啊<emoji=heart04>　你的鸡巴，让我的肚子满满的……」"
-    },
-    {
-        "message": "每次鸡巴和粘膜摩擦，蒂娜的身体都会颤抖，分泌的蜜液也越来越多。"
-    },
-    {
-        "message": "想要更深地与蒂娜连接，于是重叠了唇。"
+        "message": "「呀啊啊啊<emoji=heart04>　啊<emoji=heart04>　嗯嗯<emoji=heart04>　你的肉棒，在我的里面，摩擦着……哈啊……呼……嗯嗯……<emoji=heart04>」"
     },
     {
         "name": "チナ",
-        "message": "「嗯──！？　嗯……嗯吻……吻……<emoji=heart04>」"
+        "message": "「哈啊……哈……你的，果然，好大……呀啊<emoji=heart04>　你的肉棒，把我的肚子，填得满满的……」"
     },
     {
-        "message": "蒂娜睁大了眼睛，显得很惊讶，但没有拒绝，接受了我的亲吻。"
+        "message": "每当阴茎和粘膜摩擦，千奈的身体就会颤抖着做出反应，蜜液的量也越来越多。"
     },
     {
-        "name": "チナ",
-        "message": "「嗯……吸……嗯呼……<emoji=heart04>　吸、舔……嗯、嗯嗯……舔、舔……吸吮、舔……<emoji=heart04>」"
-    },
-    {
-        "message": "舌头纠缠在一起，混合着彼此的唾液，阴道壁也紧紧地收缩起来。"
+        "message": "而我也想要和千奈更加紧密地结合在一起，于是将嘴唇贴了上去。"
     },
     {
         "name": "チナ",
-        "message": "「吸吸……嗯呼……呼……嗯嗯<emoji=heart04>　嗯啊……吸吮、吸……舔舔<emoji=heart04>」"
+        "message": "「嗯嗯──！？　嗯……嗯啾……啾……<emoji=heart04>」"
+    },
+    {
+        "message": "千奈惊讶地睁大了眼睛，但并没有拒绝，而是接受了我。"
     },
     {
         "name": "チナ",
-        "message": "「嗯……吸吮、吸……呼啊……<emoji=heart04>　突然，你就亲过来了……嗯啊……吓了一跳……哈，嗯……<emoji=heart04>」"
+        "message": "「啾……啾噜……嗯呼……<emoji=heart04>　啾噜，咧咯……嗯，嗯嗯……嗯咧噜，咧咯……啾噗啾噜……<emoji=heart04>」"
     },
     {
-        "message": "唇分开后，唾液的丝线垂了下来。"
+        "message": "舌头交缠，互相混合着唾液，小穴内壁也紧紧地收缩了起来。"
     },
     {
-        "message": "嘴上虽然说得很生气，但兴奋地从秘处流出了蜜液。"
+        "name": "チナ",
+        "message": "「啾噜噜……嗯呼……呼……嗯嗯<emoji=heart04>　嗯呼啊……啾噗，啾噜…咧噜咧咯<emoji=heart04>」"
+    },
+    {
+        "name": "チナ",
+        "message": "「嗯嗯……啾噗啾噜……噗啊……<emoji=heart04>　突然就，亲上来……嗯啊……吓了我一跳……哈，嗯……<emoji=heart04>」"
+    },
+    {
+        "message": "嘴唇分开时，唾液拉出了一条丝线。"
+    },
+    {
+        "message": "虽然嘴上说着生气的话，但是她的私处却溢出了蜜汁，仿佛在表达自己的兴奋。"
     },
     {
         "name": "クロト",
-        "message": "「蒂娜的阴道，湿透了呢」"
+        "message": "「千奈的小穴，已经变得黏糊糊的了哦」"
     },
     {
         "name": "チナ",
-        "message": "「～～<emoji=heart04>　别，别说阴道……嗯哈，哈……<emoji=heart04>」"
+        "message": "「～～呜<emoji=heart04>　都，都说了不要叫小穴……嗯哈，哈啊……<emoji=heart04>」"
     },
     {
-        "message": "里面已经软化了吗，动作也变得顺畅了。这样激烈地做也没问题了。"
+        "message": "可能是里面已经放松下来了，动作也变得顺畅起来。这样的话，激烈点应该也没问题了吧。"
     },
     {
         "message": "那么──"
     },
     {
         "name": "チナ",
-        "message": "「啊啊啊啊！？　嗯啊<emoji=heart04>　啊<emoji=heart04>　啊啊啊<emoji=heart04>　鸡巴，咚咚地，猛烈地……<emoji=heart04>　啊<emoji=heart04>　啊啊啊<emoji=heart04>」"
+        "message": "「呀啊啊啊！？　嗯啊<emoji=heart04>　啊<emoji=heart04>　咿啊啊<emoji=heart04>　肉棒，一下一下地，好猛……<emoji=heart04>　呼啊<emoji=heart04>　啊啊啊<emoji=heart04>」"
     },
     {
         "name": "チナ",
-        "message": "「啊啊啊<emoji=heart04>　啊<emoji=heart04>　嗯啊啊啊<emoji=heart04>　好，激烈……<emoji=heart04>　啊啊啊<emoji=heart04>　啊<emoji=heart04>　深处，都到了<emoji=heart04>」"
+        "message": "「呀啊啊<emoji=heart04>　啊啊<emoji=heart04>　嗯嗯啊啊啊<emoji=heart04>　好，激烈<emoji=heart04>　呼啊啊啊<emoji=heart04>　啊啊<emoji=heart04>　都顶到最深处了<emoji=heart04>」"
     },
     {
         "name": "チナ",
-        "message": "「嗯啊──哈──啊──啊啊啊<emoji=heart04>　阴道被咚咚地干了<emoji=heart04>　啊<emoji=heart04>　啊<emoji=heart04>　大鸡巴，把阴道，撑满了<emoji=heart04>」"
+        "message": "「嗯嗯啊──哈──啊──呀啊啊啊<emoji=heart04>　小穴被抽插着<emoji=heart04>　呀啊<emoji=heart04>　啊<emoji=heart04>　大大的肉棒，把小穴，填得满满的<emoji=heart04>」"
     },
     {
         "name": "チナ",
-        "message": "「啊啊啊<emoji=heart04>　啊<emoji=heart04>　啊<emoji=heart04>　嗯<emoji=heart04>　肚子，好热<emoji=heart04>　啊啊啊<emoji=heart04>　啊──啊──嗯啊啊啊<emoji=heart04>」"
+        "message": "「呼啊啊<emoji=heart04>　啊啊<emoji=heart04>　啊<emoji=heart04>　啊嗯<emoji=heart04>　肚子里，好热<emoji=heart04>　呀啊啊<emoji=heart04>　咿啊──啊──嗯嗯啊啊啊啊<emoji=heart04>」"
     },
     {
-        "message": "最初拒绝插入而紧绷的阴道内，已经完全被阴茎撑开了。"
+        "message": "一开始像是在拒绝插入一样紧致的阴道内，现在已经完全扩张成了肉棒的形状。"
     },
     {
-        "message": "不断涌出的爱液发出淫秽的声音，浸湿了床单。"
-    },
-    {
-        "name": "チナ",
-        "message": "「啊啊啊啊<emoji=heart04>　啊啊啊<emoji=heart04>　啊嗯<emoji=heart04>　鸡巴，顶到最里面了<emoji=heart04>　啊啊啊<emoji=heart04>　啊啊啊<emoji=heart04>　阴道，被弄得湿漉漉的<emoji=heart04>」"
+        "message": "不断溢出的爱液发出咕啾咕啾的淫荡声音，渗进了床单。"
     },
     {
         "name": "チナ",
-        "message": "「嗯啊──啊──啊──啊啊啊<emoji=heart04>　啊啊啊<emoji=heart04>　啊啊啊<emoji=heart04>　鸡巴，顶得好深，好舒服<emoji=heart04>」"
-    },
-    {
-        "message": "前后摆动着腰，又把手伸向了可爱的摇晃的乳房。"
+        "message": "「呼啊啊啊<emoji=heart04>　噫呀啊<emoji=heart04>　啊嗯<emoji=heart04>　肉棒，插到，深处了<emoji=heart04>　噫呀<emoji=heart04>　啊啊啊<emoji=heart04>　小穴，被搅得一塌糊涂<emoji=heart04>」"
     },
     {
         "name": "チナ",
-        "message": "「啊啊啊！？　你干什么──嗯嗯<emoji=heart04>　啊<emoji=heart04>　乳头，被手指捏来捏去<emoji=heart04>　啊啊啊<emoji=heart04>」"
+        "message": "「嗯啊──啊──啊──啊啊啊啊<emoji=heart04>　嗯呀啊<emoji=heart04>　啊啊啊<emoji=heart04>　肉棒，一顶，一顶地插进来，好舒服<emoji=heart04>」"
     },
     {
-        "message": "坚硬的乳头像是在宣告自己的存在一样被捏住。"
-    },
-    {
-        "name": "チナ",
-        "message": "「嗯～～～～～<emoji=heart04><emoji=heart04>」"
-    },
-    {
-        "message": "于是蒂娜全身颤抖，发出了无法成声的喘息。"
+        "message": "我一边前后摆腰，一边再次把手伸向可爱地摇晃的胸部。"
     },
     {
         "name": "チナ",
-        "message": "「乳房，从来没有过这种感觉……嗯嗯<emoji=heart04>　啊啊啊<emoji=heart04>　啊啊啊<emoji=heart04>　啊嗯<emoji=heart04>」"
+        "message": "「噫咿嗯！？　你干什──嗯嗯<emoji=heart04>　啊<emoji=heart04>　乳头，被手指，搓来搓去<emoji=heart04>　噫呀啊啊嗯<emoji=heart04>」"
+    },
+    {
+        "message": "我用力捏住仿佛在主张自己的存在一般变硬的乳头。"
     },
     {
         "name": "チナ",
-        "message": "「啊啊啊<emoji=heart04>　啊<emoji=heart04>　嗯嗯<emoji=heart04>　乳房和阴道，一起被弄<emoji=heart04>　哈啊哈啊<emoji=heart04>　好奇怪<emoji=heart04>」"
+        "message": "「嗯嗯～～～～<emoji=heart04><emoji=heart04>」"
     },
     {
-        "message": "每次捏乳头，本来就狭窄的阴道更加收紧，紧紧夹住了鸡巴。"
-    },
-    {
-        "message": "感觉到快感越来越强烈，射精的欲望也越来越强烈，加快了腰的动作。"
+        "message": "千奈的身体颤抖起来，发出不成声的喘息。"
     },
     {
         "name": "チナ",
-        "message": "「啊啊啊<emoji=heart04>　啊啊<emoji=heart04>　啊啊<emoji=heart04>　嗯嗯<emoji=heart04>　鸡巴，顶到了最里面<emoji=heart04>　阴道，好热<emoji=heart04>」"
-    },
-    {
-        "message": "然后龟头顶到了子宫口──"
+        "message": "「胸部，从来没有，这么舒服过……嗯嗯<emoji=heart04>　呼啊啊啊<emoji=heart04>　哈啊啊啊<emoji=heart04>　啊啊嗯<emoji=heart04>」"
     },
     {
         "name": "チナ",
-        "message": "「啊啊啊啊啊啊啊<emoji=heart04><emoji=heart04><emoji=heart04>」"
+        "message": "「嗯哈啊<emoji=heart04>　啊<emoji=heart04>　嗯嗯<emoji=heart04>　胸部和小穴，一起被弄<emoji=heart04>　哈啊哈啊<emoji=heart04>　要变奇怪了<emoji=heart04>」"
+    },
+    {
+        "message": "每次挑逗乳头，本就狭窄的小穴就会进一步收缩，紧紧地挤压着阴茎。"
+    },
+    {
+        "message": "随着快感逐渐增强，我感到射精欲望也不断高涨，同时加快了腰部的动作。"
     },
     {
         "name": "チナ",
-        "message": "「这是什么啊？　鸡巴，顶到了我最里面……嗯嗯<emoji=heart04>　啊<emoji=heart04>　嗯嗯<emoji=heart04>　每次鸡巴顶到，脑袋都变得一片空白<emoji=heart04>」"
+        "message": "「咿啊啊啊<emoji=heart04>　呼啊<emoji=heart04>　啊啊<emoji=heart04>　嗯嗯<emoji=heart04>　肉棒，插到，最深处了<emoji=heart04>　小穴，好热<emoji=heart04>」"
+    },
+    {
+        "message": "龟头抵到了子宫口──"
     },
     {
         "name": "チナ",
-        "message": "「啊<emoji=heart04>　嗯嗯<emoji=heart04>　嗯～<emoji=heart04>　啊，不行<emoji=heart04>　肚子里面，好紧<emoji=heart04>　啊<emoji=heart04>　啊<emoji=heart04>　好像要来了<emoji=heart04>」"
+        "message": "「呼啊啊啊啊啊啊啊啊<emoji=heart04><emoji=heart04><emoji=heart04>」"
+    },
+    {
+        "name": "チナ",
+        "message": "「这是，怎么回事……？　肉棒，在我的深处……嗯嗯嗯<emoji=heart04>　嗯啊<emoji=heart04>　嗯嗯<emoji=heart04>　每次被肉棒顶到，脑袋就一片空白了<emoji=heart04>」"
+    },
+    {
+        "name": "チナ",
+        "message": "「咿<emoji=heart04>　嗯嗯<emoji=heart04>　嗯～<emoji=heart04>　啊，这个，不行了<emoji=heart04>　肚子里，感觉要绷紧了<emoji=heart04>　哈<emoji=heart04>　啊<emoji=heart04>　有什么，要来了<emoji=heart04>」"
     },
     {
         "name": "クロト",
-        "message": "「……我也，快要射了……！」"
+        "message": "「唔……我也，快要射了……！」"
     },
     {
         "name": "チナ",
-        "message": "「──！　这就是高潮，吗……啊，啊啊<emoji=heart04>　我，要高潮了……<emoji=heart04>」"
+        "message": "「──！　这就是，高潮吗……咿啊，哈啊啊<emoji=heart04>　我也要，高潮了啊……<emoji=heart04>」"
     },
     {
         "name": "チナ",
-        "message": "「好啊……射出来……啊啊，啊<emoji=heart04>　啊嗯<emoji=heart04>　在我的里面，射出来……呼啊，啊，啊啊<emoji=heart04>」"
+        "message": "「可以哦……射出来吧……哈啊啊，啊<emoji=heart04>　啊嗯<emoji=heart04>　在我的里面，把你……射出来吧……呼哈啊，哈，啊啊啊<emoji=heart04>」"
     },
     {
-        "message": "最后冲刺，下半身用力撞击，腰部动了起来。"
-    },
-    {
-        "name": "チナ",
-        "message": "「嗯啊──啊──啊──啊啊啊<emoji=heart04>　太激烈了，啊<emoji=heart04>　阴道，要坏了<emoji=heart04>　啊啊啊<emoji=heart04>　阴茎，顶到最里面，好几次<emoji=heart04>　啊，啊啊嗯<emoji=heart04>」"
+        "message": "我开始最后冲刺，用力地用下半身撞击她。"
     },
     {
         "name": "チナ",
-        "message": "「啊<emoji=heart04>　啊<emoji=heart04>　啊嗯<emoji=heart04>　肚子深处，紧紧的，要高潮了<emoji=heart04>　啊<emoji=heart04>　阴道高潮了<emoji=heart04>　高潮了<emoji=heart04>」"
+        "message": "「嗯嗯啊啊──啊──啊──啊啊啊啊啊<emoji=heart04>　好激烈<emoji=heart04>　小穴要坏掉了<emoji=heart04>　呼啊啊啊<emoji=heart04>　肉棒不停地顶到深处<emoji=heart04>　呀啊，啊啊啊嗯<emoji=heart04>」"
     },
     {
         "name": "チナ",
-        "message": "「啊啊<emoji=heart04>　啊<emoji=heart04>　嗯啊<emoji=heart04>　啊──啊──啊──要去了<emoji=heart04><emoji=heart04>」"
+        "message": "「呼啊<emoji=heart04>　啊<emoji=heart04>　啊啊嗯<emoji=heart04>　肚子深处缩紧了，要去了<emoji=heart04>　啊啊<emoji=heart04>　小穴要去了<emoji=heart04>　去了呜<emoji=heart04>」"
     },
     {
         "name": "チナ",
-        "message": "「啊啊啊～～～～～～～～<emoji=heart04><emoji=heart04><emoji=heart04>」"
+        "message": "「呀啊啊<emoji=heart04>　啊<emoji=heart04>　嗯啊啊<emoji=heart04>　啊──啊──啊──要去了呜呜呜<emoji=heart04><emoji=heart04>」"
     },
     {
         "name": "チナ",
-        "message": "「嗯……嗯嗯<emoji=heart04>　热，啊……<emoji=heart04>　哈，哈……嗯<emoji=heart04>　哈啊<emoji=heart04>　嗯<emoji=heart04>　嗯～<emoji=heart04>」"
-    },
-    {
-        "message": "蒂娜边抽搐边接受射精。"
-    },
-    {
-        "message": "随着高潮，阴道紧紧地缠绕，在强烈的快感中继续射精。"
+        "message": "「呀啊啊啊啊～～～～～～～～<emoji=heart04><emoji=heart04><emoji=heart04>」"
     },
     {
         "name": "チナ",
-        "message": "「在我的里面，阴茎，在跳动……哈啊<emoji=heart04>　呼啊……哈……嗯……<emoji=heart04>」"
+        "message": "「嗯……嗯嗯嗯<emoji=heart04>　好，烫……<emoji=heart04>　哈啊，哈……嗯嗯<emoji=heart04>　哈啊啊<emoji=heart04>　嗯<emoji=heart04>　嗯～<emoji=heart04>」"
+    },
+    {
+        "message": "千奈一边颤抖着身体，一边接受着我的射精。"
+    },
+    {
+        "message": "随着高潮的来临，阴道紧紧地缠了上来，我在强烈的快感中持续着射精。"
     },
     {
         "name": "チナ",
-        "message": "「嗯嗯<emoji=heart04>　热的，还在出来……<emoji=heart04>　我的里面，要满出来了……<emoji=heart04>　嗯哈<emoji=heart04>」"
+        "message": "「肉棒在我的里面，咕嘟咕嘟地……哈啊啊<emoji=heart04>　呼哈啊……哈啊……嗯……<emoji=heart04>」"
     },
     {
         "name": "チナ",
-        "message": "「哈……哈啊……哈，哈……」"
-    },
-    {
-        "message": "拔出阴茎，阴道口流出白色的精液。"
-    },
-    {
-        "message": "这是我和蒂娜连接的证据。"
+        "message": "「嗯嗯嗯……<emoji=heart04>　好烫的，还在，射出来……<emoji=heart04>　我的里面，被填满了……<emoji=heart04>　嗯哈啊……<emoji=heart04>」"
     },
     {
         "name": "チナ",
-        "message": "「哈，哈……真的，做到了最后……」"
+        "message": "「哈啊……哈啊啊……哈啊，哈啊……」"
+    },
+    {
+        "message": "当我拔出肉棒，白色的精液便从穴口缓缓流出。"
+    },
+    {
+        "message": "这是我和千奈结合的证明。"
     },
     {
         "name": "チナ",
-        "message": "「我，为了守护德内布，连死都不怕……不，现在也这么想」"
+        "message": "「哈啊，哈啊……真的做到了最后啊……」"
     },
     {
         "name": "チナ",
-        "message": "「所以，我从来没想过会和谁做爱……没想到，会和你做……」"
+        "message": "「我以前觉得为了守护天津四，就算死也无所谓……不，我现在也还是这么想的」"
+    },
+    {
+        "name": "チナ",
+        "message": "「所以一直觉得不会和谁做爱……结果没想到偏偏是跟你……」"
     },
     {
         "name": "クロト",
@@ -502,16 +502,16 @@
     },
     {
         "name": "チナ",
-        "message": "「……没有。没有后悔。」"
+        "message": "「……不，没后悔」"
     },
     {
         "name": "チナ",
-        "message": "「即使与德内布和阿尔泰尔分别……我也不会忘记你的」"
+        "message": "「就算和天津四与牛郎星分别……我也不会忘记你的」"
     },
     {
-        "message": "说完，蒂娜寂寞地笑了。"
+        "message": "千奈寂寞地笑了笑。"
     },
     {
-        "message": "蒂娜回到德内布后，总有一天我会去见她，心中如此决定。"
+        "message": "即使千奈回到了天津四，我也在心里暗下决心，总有一天要去见她。"
     }
 ]

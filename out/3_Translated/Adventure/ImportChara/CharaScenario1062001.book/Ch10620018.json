@@ -1,6 +1,6 @@
 [
     {
-        "message": "茱艾莉和克洛托心意相通后，过了几个星期的一天――"
+        "message": "自与茱莉心意相通以来，又过了几周后的某一天――"
     },
     {
         "name": "ジュエリー",
@@ -15,46 +15,46 @@
         "message": "「……嗯」"
     },
     {
-        "message": "事先没有联系，茱艾莉突然来到家里。而且，穿着修女服。"
+        "message": "茱莉没有事先联络就突然来到了我家。而且，还穿着修女服。"
     },
     {
         "name": "クロト",
-        "message": "「……那个，有什么事吗……？」"
+        "message": "「……那个，请问有什么事……？」"
     },
     {
         "name": "ジュエリー",
-        "message": "「嗯？　啊，啊啊。嗯……有事，有事啊。这是一个非常困难的问题，但既然来了这里，必须告诉你。」"
+        "message": "「嗯？啊，啊啊。对了……找你有事，有事啊。虽然这个问题非常难以回答，但既然我来到了这里，就必须告诉你才行」"
     },
     {
         "name": "クロト",
-        "message": "「……如果有难以启齿的事情，不说也没关系哦？」"
+        "message": "「……如果难以启齿的话，不说也没关系哦？」"
     },
     {
         "name": "ジュエリー",
-        "message": "「……不，让我说吧。实际上，今天的目的就是告诉你……」"
+        "message": "「……不，请让我告诉你。不如说告诉你这件事就是我今天的目的……」"
     },
     {
-        "message": "茱艾莉忙碌地在客厅走来走去，时不时地看向这里。过了一会儿，她停下脚步――"
-    },
-    {
-        "name": "ジュエリー",
-        "message": "「……啊，那个，嗯……突然的事情，非常抱歉」"
+        "message": "茱莉一边忙碌地在客厅里走来走去，一边时不时地瞥向这边。最后她停下了脚步――"
     },
     {
         "name": "ジュエリー",
-        "message": "「能听我忏悔吗？」"
+        "message": "「……啊，那个，怎么说呢……这么突然真的很抱歉」"
+    },
+    {
+        "name": "ジュエリー",
+        "message": "「你能听我忏悔一下吗？」"
     },
     {
         "name": "クロト",
-        "message": "「忏悔……？　茱艾莉的？」"
+        "message": "「忏悔……？　你吗？」"
     },
     {
         "name": "ジュエリー",
-        "message": "「啊，没错。就是忏悔。我有事情瞒着你。是的，有事情没有告诉你。」"
+        "message": "「嗯，没错。我要忏悔。我有事情瞒着你。没错，我一直对你有所隐瞒」"
     },
     {
         "name": "ジュエリー",
-        "message": "「……咳咳。我……那个……明确地说就是――」"
+        "message": "「……咳咳。我……那个……如果用简单明了的话来说——」"
     },
     {
         "name": "ジュエリー",
@@ -62,7 +62,7 @@
     },
     {
         "name": "クロト",
-        "message": "「原来如此！　……啊，什么！？」"
+        "message": "「原来如此！　……不是，诶诶！？」"
     },
     {
         "name": "ジュエリー",
@@ -70,449 +70,449 @@
     },
     {
         "name": "ジュエリー",
-        "message": "「嗯……<emoji=heart04>　喂，喂……<emoji=heart04>　我还在说话呢……嗯啊<emoji=heart04>」"
+        "message": "「嗯……<emoji=heart04>　喂，喂……<emoji=heart04>　我话还没说完呢……嗯啊啊<emoji=heart04>」"
     },
     {
         "name": "クロト",
-        "message": "「因为你说可以摸了啊……」"
+        "message": "「因为你都说可以摸了啊……」"
     },
     {
         "name": "ジュエリー",
-        "message": "「嗯……虽然是这样，但突然摸胸部，谁会想到啊，普通人……啊，啊嗯……<emoji=heart04>」"
+        "message": "「嗯……话是这么说……但一般都不会突然就摸别人的胸部吧……啊，啊嗯……<emoji=heart04>」"
     },
     {
         "name": "ジュエリー",
-        "message": "「我的胸部……摸了也不会觉得有趣吧……嗯<emoji=heart04>」"
+        "message": "「我的胸部……摸了也没什么好玩的吧……嗯<emoji=heart04>」"
     },
     {
         "name": "ジュエリー",
-        "message": "「哈啊……<emoji=heart04>　嗯嗯<emoji=heart04>　我的胸……和其他女性不同……很小吧？　啊啊……助手，这样摸……<emoji=heart04>」"
-    },
-    {
-        "name": "クロト",
-        "message": "「没关系。因为是茱艾莉的胸，所以想摸。」"
-    },
-    {
-        "name": "ジュエリー",
-        "message": "「嗯<emoji=heart04>　为什么你总是说我想听的话……啊，啊呀……<emoji=heart04>」"
-    },
-    {
-        "name": "ジュエリー",
-        "message": "「哈啊……<emoji=heart04>　助手……你果然很熟练啊……<emoji=heart04>　这样……<emoji=heart04>　只是轻轻碰一下……<emoji=heart04>」"
-    },
-    {
-        "name": "ジュエリー",
-        "message": "「啊……身体在颤抖……啊<emoji=heart04>　想要更多，想要被更多触摸……啊<emoji=heart04>　啊嗯<emoji=heart04>　啊啊……嗯<emoji=heart04>　呜啊<emoji=heart04>」"
+        "message": "「哈啊啊……<emoji=heart04>　嗯嗯<emoji=heart04>　我，我的胸……和其他女性不一样……很小对吧？　呼啊啊……助手，你那样摸的话……<emoji=heart04>」"
     },
     {
         "name": "クロト",
-        "message": "「茱艾莉可爱才是问题所在」"
+        "message": "「没关系啊。因为是茱莉的胸，所以我才想摸的」"
     },
     {
         "name": "ジュエリー",
-        "message": "「啊……啊<emoji=heart04>　你又这么说……啊<emoji=heart04>」"
-    },
-    {
-        "name": "クロト",
-        "message": "「还有其他想被触摸的地方吗？」"
+        "message": "「嗯<emoji=heart04>　怎么会……<emoji=heart04>　为什么你总是能说出我想听的话……啊，呀啊……<emoji=heart04>」"
     },
     {
         "name": "ジュエリー",
-        "message": "「啊……不要这么直接问我……啊<emoji=heart04>　嗯……呼<emoji=heart04>」"
-    },
-    {
-        "name": "クロト",
-        "message": "「因为我想让茱艾莉更舒服啊……」"
+        "message": "「哈啊啊……<emoji=heart04>　助手……你果然很熟练吧……<emoji=heart04>　只是……<emoji=heart04>　稍微摸一下……<emoji=heart04>」"
     },
     {
         "name": "ジュエリー",
-        "message": "「呜……太狡猾了。说这种让人心跳加速的话<emoji=heart04>　啊啊<emoji=heart04>」"
-    },
-    {
-        "name": "ジュエリー",
-        "message": "「我害羞的样子，看起来真像个傻瓜……啊<emoji=heart04>」"
-    },
-    {
-        "name": "ジュエリー",
-        "message": "「嗯……啊<emoji=heart04>　那么，那个……嗯，想要被触摸……」"
-    },
-    {
-        "name": "ジュエリー",
-        "message": "「呜呜……不要问我。你太恶作剧了<emoji=heart04>　所以……啊<emoji=heart04>」"
-    },
-    {
-        "name": "ジュエリー",
-        "message": "「……那个，小穴……想要被触摸……啊啊<emoji=heart04>　想要被你的手触摸<emoji=heart04>」"
-    },
-    {
-        "name": "ジュエリー",
-        "message": "「当然好啊！因为……我们接下来要做爱……啊<emoji=heart04>　啊啊<emoji=heart04>」"
-    },
-    {
-        "name": "ジュエリー",
-        "message": "「啊啊<emoji=heart04>　嗯<emoji=heart04>　已经湿了……被你发现了<emoji=heart04>」"
-    },
-    {
-        "name": "ジュエリー",
-        "message": "「啊啊<emoji=heart04>　嗯<emoji=heart04>　啊<emoji=heart04>　入口被轻轻摩擦的感觉，很舒服……啊嗯<emoji=heart04>」"
-    },
-    {
-        "name": "ジュエリー",
-        "message": "「嗯<emoji=heart04>　没问题……啊<emoji=heart04>　你觉得呢？我的小穴……啊<emoji=heart04>　不奇怪吧？」"
-    },
-    {
-        "name": "ジュエリー",
-        "message": "「嘿嘿<emoji=heart04>　不奇怪的话，那就好了……啊，啊啊<emoji=heart04>」"
-    },
-    {
-        "name": "ジュエリー",
-        "message": "「手指进入里面……啊啊<emoji=heart04>　啾啾啾的感觉<emoji=heart04>　嗯<emoji=heart04>　和刚才完全不同……啊，啊嗯<emoji=heart04>」"
-    },
-    {
-        "name": "ジュエリー",
-        "message": "「头脑一片空白……嗯<emoji=heart04>　你的手指啾啾啾地进入……啊啊<emoji=heart04>」"
-    },
-    {
-        "name": "ジュエリー",
-        "message": "「嗯<emoji=heart04>　果然是我的助手……<emoji=heart04>　啊啊<emoji=heart04>　啊啊……<emoji=heart04>　你真的很了解我呢……啊啊<emoji=heart04>」"
-    },
-    {
-        "name": "ジュエリー",
-        "message": "「你的想法是正确的……嗯嗯<emoji=heart04>　想要更多助手的抚摸了<emoji=heart04>　啊啊<emoji=heart04>　想要更多的刺激……<emoji=heart04>」"
-    },
-    {
-        "name": "ジュエリー",
-        "message": "「想要更多的你……<emoji=heart04>　呼<emoji=heart04>　想要把你的东西放进我的体内<emoji=heart04>」"
-    },
-    {
-        "name": "ジュエリー",
-        "message": "「啊<emoji=heart04>　喜欢被温柔对待<emoji=heart04>　把我当作女孩子对待……感觉像是恋人<emoji=heart04>　啊<emoji=heart04>」"
-    },
-    {
-        "name": "ジュエリー",
-        "message": "「啊啊<emoji=heart04>　啊，自己做和被助手触摸完全不同<emoji=heart04>　被助手触摸的地方……全部都很舒服<emoji=heart04>」"
-    },
-    {
-        "name": "ジュエリー",
-        "message": "「啊啊<emoji=heart04>　啊<emoji=heart04>　啊……等一下，这样下去马上就要高潮了……<emoji=heart04>」"
-    },
-    {
-        "name": "ジュエリー",
-        "message": "「我一个人做不行，一起吧……和你一起高潮吧<emoji=heart04>　哈……啊啊嗯<emoji=heart04>」"
-    },
-    {
-        "name": "ジュエリー",
-        "message": "「你也一样，只顾着摸我，那……会很难受吧？ 哈啊……<emoji=heart04>"
-    },
-    {
-        "name": "ジュエリー",
-        "message": "「我、我明白……<emoji=heart04>　因为你的小鸡鸡，变大了，我看得很清楚<emoji=heart04>」"
-    },
-    {
-        "name": "ジュエリー",
-        "message": "「来、来吧……随时都可以<emoji=heart04>　呼……<emoji=heart04>　你也想快点舒服吧？」"
-    },
-    {
-        "name": "ジュエリー",
-        "message": "「我已经因为你，准备好了<emoji=heart04>」"
-    },
-    {
-        "name": "ジュエリー",
-        "message": "「还有……你看，我也想要你的小鸡鸡了<emoji=heart04>」"
-    },
-    {
-        "name": "ジュエリー",
-        "message": "「当然可以了……嗯<emoji=heart04>　其实，不要让我说这些<emoji=heart04>」"
-    },
-    {
-        "name": "ジュエリー",
-        "message": "「我比你想的更想要你。所以……<emoji=heart04>」"
-    },
-    {
-        "name": "ジュエリー",
-        "message": "「求你了，助手。把它插进我里面——啊<emoji=heart04>」"
-    },
-    {
-        "name": "ジュエリー",
-        "message": "「啊啊啊啊啊～～～<emoji=heart04><emoji=heart04>　啊……嗯嗯嗯、啊啊啊……<emoji=heart04>　你的……进来了……<emoji=heart04>」"
+        "message": "「啊……身体就颤抖起来了……<emoji=heart04>　想让你……再多摸摸我……<emoji=heart04>　啊嗯<emoji=heart04>　哈啊啊……嗯<emoji=heart04>　呼啊啊……<emoji=heart04>」"
     },
     {
         "name": "クロト",
-        "message": "「还好吗？　不痛吗？」"
+        "message": "「都怪你太可爱了」"
     },
     {
         "name": "ジュエリー",
-        "message": "「哈啊<emoji=heart04>　呼……<emoji=heart04>　嗯……<emoji=heart04>　你在这样的时刻还关心我……<emoji=heart04>　真是个变态的绅士啊……<emoji=heart04>」"
-    },
-    {
-        "name": "ジュエリー",
-        "message": "「痛倒是没有……<emoji=heart04>　比起这个，最重要的是……你在我的体内……<emoji=heart04>　哈啊……<emoji=heart04>」"
-    },
-    {
-        "name": "ジュエリー",
-        "message": "「仅仅是这样，就能感到如此幸福，真是没想到……<emoji=heart04>」"
-    },
-    {
-        "name": "ジュエリー",
-        "message": "「嗯……<emoji=heart04>　所以，我是处女这件事，请不要太在意<emoji=heart04>　或者说，虽然这样请求有点难为情，但——」"
-    },
-    {
-        "name": "ジュエリー",
-        "message": "「想要你动起来……<emoji=heart04>　助手，你，想要更深地感受你……哈啊啊<emoji=heart04>」"
-    },
-    {
-        "name": "ジュエリー",
-        "message": "「想要你更强烈地让我明白我是你的……嗯嗯<emoji=heart04>」"
+        "message": "「啊……<emoji=heart04>　你又说这种话了……<emoji=heart04>」"
     },
     {
         "name": "クロト",
-        "message": "「……如果痛的话，一定要告诉我」"
+        "message": "「还有其他想让我摸的地方吗？」"
     },
     {
         "name": "ジュエリー",
-        "message": "「嗯<emoji=heart04>　所以我说没事了……<emoji=heart04>　让我更近地感受你的存在……啊<emoji=heart04>」"
+        "message": "「笨……这种事情，你别这么一本正经地问啊……<emoji=heart04>　嗯……呼呜……<emoji=heart04>」"
+    },
+    {
+        "name": "クロト",
+        "message": "「因为，我希望茱莉你能更舒服啊……」"
     },
     {
         "name": "ジュエリー",
-        "message": "「——哈啊啊啊啊～～～<emoji=heart04><emoji=heart04>　啊……啊嗯<emoji=heart04>　嗯啊<emoji=heart04>　对……就是这样……<emoji=heart04>　啊嗯<emoji=heart04>」"
+        "message": "「啊呜……好狡猾哦。居然……说出这么让人小鹿乱撞的话<emoji=heart04>　哈啊啊……<emoji=heart04>」"
     },
     {
         "name": "ジュエリー",
-        "message": "「你也……啊<emoji=heart04>　不要只顾着我……呼啊<emoji=heart04>　想要你也感到快乐……<emoji=heart04>　哈啊嗯<emoji=heart04>」"
+        "message": "「这样不是显得害羞的我像个笨蛋一样吗……啊啊<emoji=heart04>」"
     },
     {
         "name": "ジュエリー",
-        "message": "「嗯<emoji=heart04>　呵呵，果然你也……啊嗯<emoji=heart04>　忍耐着呢……啊<emoji=heart04>　明白了……<emoji=heart04>」"
+        "message": "「嗯……哈啊……<emoji=heart04>　那么，那个……希望你摸，摸我的……」"
     },
     {
         "name": "ジュエリー",
-        "message": "「因为……嗯啊<emoji=heart04>　我请求你动起来的时候……阴道里跳了一下……啊嗯<emoji=heart04>　高兴地动了……哈啊嗯<emoji=heart04>」"
+        "message": "「呜呜呜……别让我重复啊……你真坏心眼……所，所以……」"
     },
     {
         "name": "ジュエリー",
-        "message": "「你真的喜欢我……哈啊<emoji=heart04>　传达过来了……啊嗯<emoji=heart04>」"
+        "message": "「……小，小穴……希望你摸我的小穴……哈啊啊……<emoji=heart04>　希望你用你的手，来摸……<emoji=heart04>」"
     },
     {
         "name": "ジュエリー",
-        "message": "「这……最让我高兴……嗯嗯<emoji=heart04>　能感受到你在追求我……呼啊<emoji=heart04>」"
+        "message": "「当，当然可以啊！因为……接下来，我们要……做爱了嘛……啊<emoji=heart04>　哈啊啊嗯……<emoji=heart04>」"
     },
     {
         "name": "ジュエリー",
-        "message": "「嗯<emoji=heart04>　还有……呵呵<emoji=heart04>　你认真地寻找我敏感的地方……啊嗯<emoji=heart04>」"
+        "message": "「呼啊啊<emoji=heart04>　嗯……<emoji=heart04>　已经湿了……被你，发现了呢<emoji=heart04>」"
     },
     {
         "name": "ジュエリー",
-        "message": "「嗯啊……<emoji=heart04>　注意到这种事是理所当然的……啊<emoji=heart04>　我可是侦探啊……嗯啊<emoji=heart04>」"
+        "message": "「呼啊啊……<emoji=heart04>　对……啊<emoji=heart04>　入口，被温柔地摩擦着，好舒服……啊嗯<emoji=heart04>」"
     },
     {
         "name": "ジュエリー",
-        "message": "「看着我的反应，小心翼翼地在阴道里……啊嗯<emoji=heart04>　摩擦的事情我全都知道……啊，那里<emoji=heart04>　啊啊嗯<emoji=heart04>」"
+        "message": "「嗯<emoji=heart04>　没事……<emoji=heart04>　你呢……怎么样？　我的小穴……不奇怪吗……？」"
     },
     {
         "name": "ジュエリー",
-        "message": "「嗯<emoji=heart04>　呵呵……说着说着……啊嗯<emoji=heart04>　被发现了……啊啊嗯<emoji=heart04>」"
+        "message": "「诶嘿嘿……<emoji=heart04>　不奇怪的话，那就太好了……啊，嗯啊啊<emoji=heart04>」"
     },
     {
         "name": "ジュエリー",
-        "message": "「就是这样……嗯啊<emoji=heart04>　那里……浅的地方……啊啊啊<emoji=heart04>　啊啊，那里感觉好……啊嗯<emoji=heart04>」"
+        "message": "「手指，进到里面……哈啊啊<emoji=heart04>　在里面搅来搅去的<emoji=heart04>　嗯嗯……和刚才的感觉完全不一样……啊，啊嗯<emoji=heart04>」"
     },
     {
         "name": "ジュエリー",
-        "message": "「啊……啊啊嗯<emoji=heart04>　嗯唔……啊啊嗯<emoji=heart04>　你也挺厉害的……啊<emoji=heart04>　有侦探的素质……啊嗯<emoji=heart04>」"
+        "message": "「脑子，麻麻的……嗯呜呜<emoji=heart04>　你的手指，在咕啾咕啾地进进出出……哈啊啊<emoji=heart04>」"
     },
     {
         "name": "ジュエリー",
-        "message": "「不过，我也……<emoji=heart04>　想看你喘气的样子……<emoji=heart04>　所以，更多——<emoji=heart04>」"
+        "message": "「嗯<emoji=heart04>　不愧是我的助手……<emoji=heart04>　呼啊啊<emoji=heart04>　啊啊啊……<emoji=heart04>　你很懂我嘛……哈啊啊嗯<emoji=heart04>」"
     },
     {
         "name": "ジュエリー",
-        "message": "「啊啊啊啊～～～<emoji=heart04><emoji=heart04><emoji=heart04>　啊，啊，啊，啊嗯<emoji=heart04>　这样<emoji=heart04>　不用忍耐，没关系……啊，啊，啊，啊啊嗯<emoji=heart04>」"
+        "message": "「你的想法是对的……嗯嗯<emoji=heart04>　我想要更多的，助手的爱抚<emoji=heart04>　哈啊啊……<emoji=heart04>　想要更多刺激……<emoji=heart04>」"
     },
     {
         "name": "ジュエリー",
-        "message": "「在我的体内尽情地翻滚……啊啊嗯<emoji=heart04>　在阴道里，感觉到快乐……啊，啊，啊，嗯啊啊<emoji=heart04>」"
+        "message": "「想要更多地感受你……<emoji=heart04>　呼呜呜<emoji=heart04>　想要你把你的东西，插到我的里面来……<emoji=heart04>」"
     },
     {
         "name": "ジュエリー",
-        "message": "「喜欢的地方，摸<emoji=heart04>　挖<emoji=heart04>　啊，啊，啊，啊啊<emoji=heart04>」"
+        "message": "「啊<emoji=heart04>　我喜欢你对我这么温柔<emoji=heart04>　把我当做女孩子来对待……就像恋人一样<emoji=heart04>　啊嗯<emoji=heart04>」"
     },
     {
         "name": "ジュエリー",
-        "message": "「没问题<emoji=heart04>　我也习惯了，所以<emoji=heart04>　啊嗯，啊，啊，嗯啊啊<emoji=heart04>」"
+        "message": "「呼啊啊<emoji=heart04>　啊，和自己做的时候，完全不一样<emoji=heart04>　被助手摸到的地方……全都好舒服<emoji=heart04>」"
     },
     {
         "name": "ジュエリー",
-        "message": "「你的阴茎<emoji=heart04>　整个阴道都想感受到<emoji=heart04>　啊，啊，啊，啊啊<emoji=heart04>」"
+        "message": "「哈啊啊<emoji=heart04>　啊嗯<emoji=heart04>　啊……呀嗯<emoji=heart04>　等，等一下，这样子的话我马上就要高潮了……<emoji=heart04>」"
     },
     {
         "name": "ジュエリー",
-        "message": "「啊嗯，啊嗯，啊嗯<emoji=heart04>　阴茎，深深地插进去……啊<emoji=heart04>　我喜欢<emoji=heart04>　啊<emoji=heart04>　啊嗯<emoji=heart04>　……啊啊，啊，啊<emoji=heart04>　啊啊嗯<emoji=heart04>」"
+        "message": "「我不要只有我一个人，一起……我想和你一起高潮<emoji=heart04>　哈……呼啊啊嗯<emoji=heart04>」"
     },
     {
         "name": "ジュエリー",
-        "message": "「啊啊啊<emoji=heart04>　喜欢……<emoji=heart04>　喜欢啊<emoji=heart04>　啊、啊、啊<emoji=heart04>　从交往以来，越来越喜欢了……<emoji=heart04>」"
+        "message": "「你光是摸我……那个……也很难受吧？　哈啊啊……<emoji=heart04>"
     },
     {
         "name": "ジュエリー",
-        "message": "「想要传达给你……<emoji=heart04>　我在想<emoji=heart04>　嗯嗯<emoji=heart04>　我的喜欢，怎么才能传达给你……<emoji=heart04>　啊、啊、啊啊<emoji=heart04>」"
+        "message": "「我，我知道的……因为……你的肉棒变大了，我看得清清楚楚的<emoji=heart04>」"
     },
     {
         "name": "ジュエリー",
-        "message": "「喜欢你爱管闲事的地方<emoji=heart04>　嗯<emoji=heart04>　喜欢你照顾我的地方<emoji=heart04>　啊啊<emoji=heart04>　喜欢你对我说喜欢我的地方<emoji=heart04>　嗯啊<emoji=heart04>」"
+        "message": "「来，来吧……随时都可以……<emoji=heart04>　呼唔唔……<emoji=heart04>　你也想早点舒服起来吧？」"
     },
     {
         "name": "ジュエリー",
-        "message": "「用语言无法传达<emoji=heart04>　啊<emoji=heart04>　但现在能传达……啊啊<emoji=heart04>」"
+        "message": "「多亏了你，我已经准备万全了……<emoji=heart04>」"
     },
     {
         "name": "ジュエリー",
-        "message": "「我非常喜欢你……<emoji=heart04>　啊<emoji=heart04>　能传达给你……<emoji=heart04>　啊<emoji=heart04>　高兴<emoji=heart04>　啊、啊、啊啊啊<emoji=heart04>」"
+        "message": "「而且……呐？我也差不多……想让你的肉棒插进来了……<emoji=heart04>」"
     },
     {
         "name": "ジュエリー",
-        "message": "「这就是……啊、嗯啊<emoji=heart04>　性交<emoji=heart04>　啊、啊、啊、嗯啊啊<emoji=heart04>　这样每天都想做的感觉……<emoji=heart04>」"
+        "message": "「当然可以了……嗯<emoji=heart04>　话说，这种事情不要让我主动说出来啊……<emoji=heart04>」"
     },
     {
         "name": "ジュエリー",
-        "message": "「你也是这么想的吗？　啊、啊、啊啊<emoji=heart04>　鸡巴又变大了……<emoji=heart04>　啊啊啊<emoji=heart04>」"
+        "message": "「我比你想象的还要……想要你。所以……<emoji=heart04>」"
     },
     {
         "name": "ジュエリー",
-        "message": "「啊<emoji=heart04>　啊啊<emoji=heart04>　和我做爱很舒服吧<emoji=heart04>　鸡巴在说呢<emoji=heart04>　啊、啊、啊、嗯啊<emoji=heart04>」"
+        "message": "「求你了，助手。插到我里面来——啊<emoji=heart04>」"
     },
     {
         "name": "ジュエリー",
-        "message": "「呵呵<emoji=heart04>　我也，我也<emoji=heart04>　啊<emoji=heart04>　和你做爱这么舒服……<emoji=heart04>」"
+        "message": "「呼啊啊啊啊啊啊～～～<emoji=heart04><emoji=heart04>　啊……嗯嗯嗯，哈啊啊……<emoji=heart04>　你的……进来了……<emoji=heart04>」"
+    },
+    {
+        "name": "クロト",
+        "message": "「没事吧……？　不疼吗？」"
     },
     {
         "name": "ジュエリー",
-        "message": "「世纪的大发现啊<emoji=heart04>　啊、啊、啊<emoji=heart04>　啊啊啊<emoji=heart04>」"
+        "message": "「哈啊<emoji=heart04>　呼……<emoji=heart04>　嗯……<emoji=heart04>　你连这种时候都……这么关心我吗<emoji=heart04>　真是的，总在奇怪的地方像个绅士呢……<emoji=heart04>」"
     },
     {
         "name": "ジュエリー",
-        "message": "「啊、啊、啊……嗯啊啊<emoji=heart04>　只是在一起就很幸福了<emoji=heart04>　啊、啊啊啊<emoji=heart04>」"
+        "message": "「痛倒是，不痛……<emoji=heart04>　比起那个，更重要的是……你在我里面……<emoji=heart04>　哈啊啊……<emoji=heart04>」"
     },
     {
         "name": "ジュエリー",
-        "message": "「这样……每天都做爱的话，会怎么样……<emoji=heart04>　啊啊啊<emoji=heart04>」"
+        "message": "「光是这样，就让我觉得这么幸福，真是想都没想过啊……<emoji=heart04>」"
     },
     {
         "name": "ジュエリー",
-        "message": "「光是想到就不行了<emoji=heart04>　小穴紧紧的……<emoji=heart04>　啊啊啊<emoji=heart04>」"
+        "message": "「嗯……<emoji=heart04>　所以你不用太在意我是个处女这件事了<emoji=heart04>　倒不如说，那个……虽然提出这种要求可能有点不知羞耻——」"
     },
     {
         "name": "ジュエリー",
-        "message": "「小穴感觉好舒服<emoji=heart04>　啊啊啊<emoji=heart04>　因为你，脑子里全是你<emoji=heart04>　啊、啊、啊啊啊嗯<emoji=heart04>」"
+        "message": "「我希望你能动起来……<emoji=heart04>　我想更深地……感受我的助手，感受你<emoji=heart04>　哈啊啊啊<emoji=heart04>」"
     },
     {
         "name": "ジュエリー",
-        "message": "「啊<emoji=heart04>　啊啊、啊啊嗯<emoji=heart04>　感觉好舒服<emoji=heart04>　被鸡巴插进来<emoji=heart04>　啊嗯、啊嗯<emoji=heart04>　什么都想不了<emoji=heart04>　啊啊啊嗯<emoji=heart04>」"
+        "message": "「我更想清楚地感受到……嗯嗯<emoji=heart04>　我是属于你的……<emoji=heart04>」"
+    },
+    {
+        "name": "クロト",
+        "message": "「……痛的话，一定要说出来哦」"
     },
     {
         "name": "ジュエリー",
-        "message": "「奇怪<emoji=heart04>　啊啊啊<emoji=heart04>　没想到会有这样的反应<emoji=heart04>　啊、啊啊啊<emoji=heart04>　啊啊啊，感觉好舒服<emoji=heart04>」"
+        "message": "「嗯<emoji=heart04>　都说了，我没事的啦……<emoji=heart04>　让我更……更近距离地感受你的存在吧……啊<emoji=heart04>」"
     },
     {
         "name": "ジュエリー",
-        "message": "「――啊<emoji=heart04>　不、不行……<emoji=heart04>　现在，耳边被说喜欢的话<emoji=heart04>　啊<emoji=heart04>　我会变得奇怪的――<emoji=heart04>」"
+        "message": "「——哈啊啊啊啊啊啊～～～<emoji=heart04><emoji=heart04>　啊……啊嗯<emoji=heart04>　嗯啊啊……<emoji=heart04>　对……就是那里……<emoji=heart04>　啊嗯<emoji=heart04>」"
     },
     {
         "name": "ジュエリー",
-        "message": "「啊啊<emoji=heart04>　笨蛋<emoji=heart04>　已经结束了<emoji=heart04>　啊、啊、啊啊啊<emoji=heart04>　……小穴，变成笨蛋了<emoji=heart04>　嗯嗯嗯<emoji=heart04>」"
+        "message": "「你也是……啊<emoji=heart04>　不要只顾着关心我……呼啊啊<emoji=heart04>　我希望……<emoji=heart04>　你也能舒服起来……哈啊啊嗯<emoji=heart04>」"
     },
     {
         "name": "ジュエリー",
-        "message": "「想要精液，停不下来<emoji=heart04>　小穴，在试图挤出<emoji=heart04>　啊、啊、啊、啊啊啊<emoji=heart04>」"
+        "message": "「嗯<emoji=heart04>　呵呵，果然你也……啊嗯<emoji=heart04>　一直在忍耐着呢……啊<emoji=heart04>　我能感觉到哦……<emoji=heart04>」"
     },
     {
         "name": "ジュエリー",
-        "message": "「可以吗？嗯嗯<emoji=heart04>　请求<emoji=heart04>　从一开始就什么都不想<emoji=heart04>　啊啊<emoji=heart04>　小穴最深处……<emoji=heart04>　射精<emoji=heart04>　啊啊<emoji=heart04>」"
+        "message": "「因为……嗯啊啊<emoji=heart04>　我一求你动起来……它就在小穴里一跳……啊嗯<emoji=heart04>　很高兴地动起来了……哈啊嗯<emoji=heart04>」"
     },
     {
         "name": "ジュエリー",
-        "message": "「你的基因，在我的体内<emoji=heart04>　啊、啊、啊<emoji=heart04>　因为喜欢<emoji=heart04>　啊啊啊<emoji=heart04>　请求――<emoji=heart04>」"
+        "message": "「你真的喜欢我……哈啊啊<emoji=heart04>　仿佛能，传达过来呢……啊嗯<emoji=heart04>」"
     },
     {
         "name": "ジュエリー",
-        "message": "「在我的阴道里，射满精液吧<emoji=heart04><emoji=heart04>　啊、啊、啊……啊啊啊啊啊啊啊啊啊啊啊<emoji=heart04><emoji=heart04>」"
+        "message": "「这让我……比什么都开心……嗯嗯<emoji=heart04>　能让我切实感受到……你正在渴求着我……呼啊啊<emoji=heart04>」"
     },
     {
         "name": "ジュエリー",
-        "message": "「我要高潮了，高潮了，高潮了<emoji=heart04><emoji=heart04><emoji=heart04>　啊啊啊啊啊啊啊啊啊啊啊啊啊啊<emoji=heart04><emoji=heart04><emoji=heart04>」"
+        "message": "「嗯<emoji=heart04>　而且……呵呵<emoji=heart04>　还很努力地在寻找……能让我有感觉的地方……啊嗯<emoji=heart04>」"
     },
     {
         "name": "ジュエリー",
-        "message": "「啊啊啊啊……<emoji=heart04>　哈啊<emoji=heart04>　子宫里面……<emoji=heart04>　精液，注入进来了<emoji=heart04>　哈啊啊……<emoji=heart04>」"
+        "message": "「嗯啊啊……<emoji=heart04>　你肯定会，注意到的吧……啊<emoji=heart04>　我可是侦探哦……哈啊嗯<emoji=heart04>」"
     },
     {
         "name": "ジュエリー",
-        "message": "「嗯……哈啊<emoji=heart04>　太厉害了<emoji=heart04>　这就是做爱啊……<emoji=heart04>　呼呼<emoji=heart04>　这种事情……我以前不知道<emoji=heart04>」"
+        "message": "「我早就看出来了……啊嗯<emoji=heart04>　你是观察着我的反应……在小穴里摸索着摩擦……啊，那里<emoji=heart04>　哈啊啊嗯<emoji=heart04>」"
     },
     {
         "name": "ジュエリー",
-        "message": "「哈……嗯<emoji=heart04>　哈啊……还远远不够……呼呼……喘不过气来<emoji=heart04>」"
+        "message": "「嗯<emoji=heart04>　呵呵……话才刚说完……啊啊嗯<emoji=heart04>　好像就被发现了呢……呼啊啊<emoji=heart04>」"
     },
     {
         "name": "ジュエリー",
-        "message": "「没想到，做爱居然这么厉害……<emoji=heart04>　嗯……<emoji=heart04>　光看书是绝对无法理解这种冲击的<emoji=heart04>」"
+        "message": "「对……嗯啊啊<emoji=heart04>　就是那里……浅的地方……呼啊啊啊啊啊<emoji=heart04>　啊啊啊，那里好舒服……啊啊嗯<emoji=heart04>」"
     },
     {
         "name": "ジュエリー",
-        "message": "「哈啊……<emoji=heart04>　不过……嗯，是啊<emoji=heart04>　和你做爱这种事……只有我这个女朋友才能体验到，这也是理所当然的<emoji=heart04>」"
+        "message": "「啊……呼啊啊<emoji=heart04>　嗯唔唔……哈啊啊嗯<emoji=heart04>　看来你……啊啊<emoji=heart04>　也有……当侦探的天赋呢……啊嗯<emoji=heart04>」"
     },
     {
         "name": "ジュエリー",
-        "message": "「呵呵……<emoji=heart04>　在做爱的过程中……你的喜欢我这种感觉，强烈地传达过来了<emoji=heart04>」"
+        "message": "「但是，我也……<emoji=heart04>　想看你娇喘的样子啊……<emoji=heart04>　所以，再激烈一点——<emoji=heart04>」"
     },
     {
         "name": "ジュエリー",
-        "message": "「如果能感受到这种幸福的感觉，那么，世上的情侣变成猴子也就可以理解了<emoji=heart04>」"
+        "message": "「呼啊啊啊啊啊啊～～～<emoji=heart04><emoji=heart04><emoji=heart04>　啊，啊，啊，啊嗯<emoji=heart04>　对<emoji=heart04>　不用忍耐，也没关系的……啊，啊，啊，呼啊啊啊嗯<emoji=heart04>」"
     },
     {
         "name": "ジュエリー",
-        "message": "「嗯……好了，总算冷静下来了。心脏还在怦怦跳，不过，这种事在你身边是常有的<emoji=heart04>」"
+        "message": "「在我的体内尽情地撒野吧……哈啊啊嗯<emoji=heart04>　在我的小穴里，变得舒服起来吧……啊，啊，啊，嗯啊啊啊嗯<emoji=heart04>」"
     },
     {
         "name": "ジュエリー",
-        "message": "「……没办法啊，我这么喜欢你。我也不是一直都能保持冷静的」"
+        "message": "「喜欢怎么摸，就怎么摸吧<emoji=heart04>　狠狠地插进来吧<emoji=heart04>　啊，啊，啊，呼啊啊啊<emoji=heart04>」"
     },
     {
         "name": "ジュエリー",
-        "message": "「嗯呵呵<emoji=heart04>　……啊，对了。做爱的时候说的话，还记得吗？」"
+        "message": "「没事的<emoji=heart04>　我也已经习惯了哦<emoji=heart04>　啊嗯，啊，啊，嗯啊啊啊嗯<emoji=heart04>」"
     },
     {
         "name": "ジュエリー",
-        "message": "「就是你说了很多我喜欢的地方的时候。其中……特别重要的东西」"
+        "message": "「我想用整个小穴<emoji=heart04>　去感受你的肉棒<emoji=heart04>　啊，啊，啊，呼啊啊啊嗯<emoji=heart04>」"
     },
     {
         "name": "ジュエリー",
-        "message": "「那就是啊……呵呵呵<emoji=heart04>　直截了当地说，就是——」"
+        "message": "「啊嗯，啊嗯，啊啊嗯<emoji=heart04>　肉棒，插到最里面了……啊<emoji=heart04>　好喜欢这样<emoji=heart04>　啊啊<emoji=heart04>　啊嗯<emoji=heart04>　……呼哇啊啊，啊，啊<emoji=heart04>　啊啊啊嗯<emoji=heart04>」"
     },
     {
         "name": "ジュエリー",
-        "message": "「你明确地说你很喜欢我」"
+        "message": "「哈啊啊<emoji=heart04>　喜欢……<emoji=heart04>　好喜欢你<emoji=heart04>　啊，啊，啊<emoji=heart04>　开始交往后，我越来越喜欢你了……<emoji=heart04>」"
     },
     {
         "name": "ジュエリー",
-        "message": "「用语言——用行动，明确地传达你的喜欢。这种地方……我非常喜欢<emoji=heart04>」"
+        "message": "「我一直在想……<emoji=heart04>　要怎么做才能让你感受到我的喜欢呢<emoji=heart04>　嗯嗯<emoji=heart04>　要怎么做，才能让你感受到……我的喜欢呢……<emoji=heart04>　啊，啊，呼啊啊<emoji=heart04>」"
     },
     {
         "name": "ジュエリー",
-        "message": "「呵呵<emoji=heart04>　怎么样？我的话让你心动了吗？」"
+        "message": "「我喜欢你爱管闲事的性格<emoji=heart04>　嗯<emoji=heart04>　喜欢你很会照顾人的性格<emoji=heart04>　哈啊啊<emoji=heart04>　喜欢你对我说喜欢我<emoji=heart04>　嗯啊啊<emoji=heart04>」"
     },
     {
         "name": "ジュエリー",
-        "message": "「为什么知道的呢？那是因为啊……明明刚刚射精完，你的小鸡鸡又有反应了<emoji=heart04>」"
+        "message": "「言语无法完全表达出来<emoji=heart04>　啊嗯<emoji=heart04>　但是<emoji=heart04>　现在的话，能够传达给你……哈啊啊<emoji=heart04>」"
     },
     {
         "name": "ジュエリー",
-        "message": "「没关系的，让你忍着什么的，我才不会说呢？所以――」"
+        "message": "「我最喜欢你了……<emoji=heart04>　啊<emoji=heart04>　能够传达给你了……<emoji=heart04>　啊嗯<emoji=heart04>　好开心<emoji=heart04>　啊，啊，呼啊啊啊嗯<emoji=heart04>」"
     },
     {
         "name": "ジュエリー",
-        "message": "「今天我们就尽情地做爱，直到彼此都满足为止……<emoji=heart04>」"
+        "message": "「这就是……啊嗯，嗯啊啊<emoji=heart04>　做爱<emoji=heart04>　啊，啊，啊，嗯啊啊啊<emoji=heart04>　这样的事，真想每天，都做啊……<emoji=heart04>」"
     },
     {
-        "message": "之后，我一次又一次地用行动向茱艾莉表达了我的爱。――"
+        "name": "ジュエリー",
+        "message": "「你也是，这么想的吗？　啊，啊，啊啊嗯<emoji=heart04>　肉棒也，又变大了……<emoji=heart04>　哈啊啊啊嗯<emoji=heart04>」"
+    },
+    {
+        "name": "ジュエリー",
+        "message": "「啊嗯<emoji=heart04>　呼啊啊啊<emoji=heart04>　说和我做爱很舒服呢<emoji=heart04>　肉棒这么说着哦<emoji=heart04>　啊，啊，啊，嗯啊啊<emoji=heart04>」"
+    },
+    {
+        "name": "ジュエリー",
+        "message": "「呵呵<emoji=heart04>　我也是，我也是哦……<emoji=heart04>　啊嗯<emoji=heart04>　和你做爱，竟然这么舒服……<emoji=heart04>」"
+    },
+    {
+        "name": "ジュエリー",
+        "message": "「这是世纪大发现啊<emoji=heart04>　啊，啊，啊<emoji=heart04>　呼啊啊啊嗯<emoji=heart04>」"
+    },
+    {
+        "name": "ジュエリー",
+        "message": "「啊，啊，啊……嗯啊啊啊<emoji=heart04>　明明只是在一起，就很幸福了<emoji=heart04>　啊嗯，呼啊啊啊嗯<emoji=heart04>」"
+    },
+    {
+        "name": "ジュエリー",
+        "message": "「这样……要是每天都做爱的话，会……变成什么样呢<emoji=heart04>　哈啊啊嗯<emoji=heart04>」"
+    },
+    {
+        "name": "ジュエリー",
+        "message": "「光是想想，就受不了了<emoji=heart04>　小穴……都一紧一紧的了<emoji=heart04>　哈呼嗯<emoji=heart04>」"
+    },
+    {
+        "name": "ジュエリー",
+        "message": "「小穴变得好舒服<emoji=heart04>　呼啊啊<emoji=heart04>　脑袋里，都只有你的事了<emoji=heart04>　啊，啊，嗯啊啊啊嗯<emoji=heart04>」"
+    },
+    {
+        "name": "ジュエリー",
+        "message": "「啊<emoji=heart04>　哈啊，啊啊啊嗯<emoji=heart04>　好舒服<emoji=heart04>　被肉棒插得<emoji=heart04>　啊嗯，啊啊嗯<emoji=heart04>　什么都没法思考了<emoji=heart04>　哈啊啊嗯<emoji=heart04>」"
+    },
+    {
+        "name": "ジュエリー",
+        "message": "「好奇怪啊<emoji=heart04>　嗯啊啊<emoji=heart04>　这种反应，我根本没想象过啊<emoji=heart04>　啊，呼啊啊<emoji=heart04>　啊啊啊啊，好舒服<emoji=heart04>」"
+    },
+    {
+        "name": "ジュエリー",
+        "message": "「――啊<emoji=heart04>　不，不行……<emoji=heart04>　要是，你在我耳边说喜欢的话<emoji=heart04>　啊嗯<emoji=heart04>　我会疯掉的――<emoji=heart04>」"
+    },
+    {
+        "name": "ジュエリー",
+        "message": "「呼啊啊<emoji=heart04>　笨蛋<emoji=heart04>　已经不行了啦<emoji=heart04>　啊，啊，呼啊啊啊嗯<emoji=heart04>　……小穴，要变成笨蛋了啦<emoji=heart04>　嗯呼唔唔……<emoji=heart04>」"
+    },
+    {
+        "name": "ジュエリー",
+        "message": "「想要精子，根本停不下来了<emoji=heart04>　小穴，动个不停，想把精液全都榨出来<emoji=heart04>　啊，啊，啊，嗯啊啊啊嗯<emoji=heart04>」"
+    },
+    {
+        "name": "ジュエリー",
+        "message": "「可以吧？　嗯嗯嗯<emoji=heart04>　求你了……<emoji=heart04>　一开始就别想那么多<emoji=heart04>　哈啊啊<emoji=heart04>　在小穴最深处……<emoji=heart04>　把精子，射进来吧<emoji=heart04>　哈啊啊嗯<emoji=heart04>」"
+    },
+    {
+        "name": "ジュエリー",
+        "message": "「把你遗传因子，射在我里面吧<emoji=heart04>　啊，啊，啊<emoji=heart04>　因为我喜欢你……<emoji=heart04>　呼啊啊啊<emoji=heart04>　求求你了――<emoji=heart04>」"
+    },
+    {
+        "name": "ジュエリー",
+        "message": "「在小穴里，尽情播种吧<emoji=heart04><emoji=heart04>　啊，啊，啊……啊啊啊啊啊啊啊―――<emoji=heart04><emoji=heart04>」"
+    },
+    {
+        "name": "ジュエリー",
+        "message": "「去了去了去了唔唔唔唔唔唔唔唔～～～～～～<emoji=heart04><emoji=heart04><emoji=heart04>　……呼啊啊啊啊啊啊——————<emoji=heart04><emoji=heart04><emoji=heart04>」"
+    },
+    {
+        "name": "ジュエリー",
+        "message": "「啊啊啊啊啊……<emoji=heart04>　哈啊啊<emoji=heart04>　射在子宫里了<emoji=heart04>　精子，被注入了<emoji=heart04>　哈啊啊啊……<emoji=heart04>」"
+    },
+    {
+        "name": "ジュエリー",
+        "message": "「嗯……哈啊啊<emoji=heart04>　好厉害<emoji=heart04>　这就是做爱啊……<emoji=heart04>　呼唔唔<emoji=heart04>　我……从来都不知道……<emoji=heart04>」"
+    },
+    {
+        "name": "ジュエリー",
+        "message": "「哈啊……嗯<emoji=heart04>　哈啊啊……完全……呼唔唔……没法调整呼吸……<emoji=heart04>」"
+    },
+    {
+        "name": "ジュエリー",
+        "message": "「没想到，做爱竟然是这么厉害的事情……<emoji=heart04>　嗯……<emoji=heart04>　这种冲击，仅靠文献是绝对无法体会的……<emoji=heart04>」"
+    },
+    {
+        "name": "ジュエリー",
+        "message": "「哈啊啊……<emoji=heart04>　但是……不，也是啊<emoji=heart04>　和你做爱这种事……如果不是身为女朋友的我……是无法体验的，所以也是理所当然的吧……<emoji=heart04>」"
+    },
+    {
+        "name": "ジュエリー",
+        "message": "「呵呵……<emoji=heart04>　在行为的过程中……你对我的喜欢，非常强烈地传达过来了……<emoji=heart04>」"
+    },
+    {
+        "name": "ジュエリー",
+        "message": "「如果能变成这么幸福的心情的话，原来如此……我终于能理解为什么世上的情侣们会像猴子一样了……<emoji=heart04>」"
+    },
+    {
+        "name": "ジュエリー",
+        "message": "「嗯……好，终于平静下来了。虽然心脏还在砰砰直跳，但是这种感觉，在你身边的时候已经是家常便饭了呢<emoji=heart04>」"
+    },
+    {
+        "name": "ジュエリー",
+        "message": "「……没办法啊，我就是这么喜欢你。我也不可能总是保持冷静的嘛」"
+    },
+    {
+        "name": "ジュエリー",
+        "message": "「嗯呼呼<emoji=heart04>　……啊啊，对了。你还记得做爱的时候我说过的话吗？」"
+    },
+    {
+        "name": "ジュエリー",
+        "message": "「就是列举了你许多喜欢的地方的时候。其中……有一件特别重要的事情」"
+    },
+    {
+        "name": "ジュエリー",
+        "message": "「那就是……呼呼呼<emoji=heart04>　简单来说，就是——」"
+    },
+    {
+        "name": "ジュエリー",
+        "message": "「你能用语言明确地告诉我你喜欢我」"
+    },
+    {
+        "name": "ジュエリー",
+        "message": "「通过语言——通过形式，明确地告诉我你喜欢我。这一点……我非常喜欢<emoji=heart04>」"
+    },
+    {
+        "name": "ジュエリー",
+        "message": "「呼呼<emoji=heart04>　怎么样？　我的话有没有让你心动？」"
+    },
+    {
+        "name": "ジュエリー",
+        "message": "「你问我为什么知道？　那是因为……你明明才刚射了那么多，肉棒却又有反应了嘛<emoji=heart04>」"
+    },
+    {
+        "name": "ジュエリー",
+        "message": "「没事，我怎么可能叫你就这样忍着呢？　所以——」"
+    },
+    {
+        "name": "ジュエリー",
+        "message": "「今天我们就一直做爱，直到我们都满足为止吧……<emoji=heart04>」"
+    },
+    {
+        "message": "之后，我一次又一次地将对茱莉的爱化为实体传达给她――"
     }
 ]

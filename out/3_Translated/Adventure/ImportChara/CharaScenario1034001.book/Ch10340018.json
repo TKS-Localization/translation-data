@@ -1,290 +1,290 @@
 [
     {
         "name": "カティア",
-        "message": "「魔王大人～♪　陪我玩吧♪　汪汪♪」"
+        "message": "「魔王大人～♪　请和我一起玩汪♪　汪汪♪」"
     },
     {
         "name": "クロト",
-        "message": "「卡蒂娅说要看我学习，考试没问题吗？」"
+        "message": "「是卡蒂娅你主动说要我辅导你学习的吧。考试没问题吗？」"
     },
     {
         "name": "カティア",
-        "message": "「哎～，稍微放松一下没关系吧～。而且成绩不好的话，作为坏人会更有名气的。」"
+        "message": "「哎～稍微玩一下又不会怎样～。而且成绩不好才能增添作为坏人的气场嘛」"
     },
     {
-        "message": "卡蒂娅最近总是抱着我，让我摸她的头，她对我撒娇不停。"
+        "message": "又是抱着我又是要求我摸摸头的，卡蒂娅最近一直对我撒娇。"
     },
     {
-        "message": "虽然她对我依赖我很高兴，但我在人前提醒她控制一下，她却不听，有点困扰。"
-    },
-    {
-        "name": "カティア",
-        "message": "「魔王大人应该更有恶魔的气势！让世界看看魔王的样子吧！」"
-    },
-    {
-        "message": "如果你想要一个更坏的魔王大人，那我就真的变得更像魔王吧。"
-    },
-    {
-        "message": "要更像魔王，更像坏人，……"
-    },
-    {
-        "message": "深夜，寂静的住宅区。"
-    },
-    {
-        "message": "街灯照亮的只有我和卡蒂娅两人──不，是一个人和一只狗。"
+        "message": "虽然她仰慕我很让我开心，但我叫她在别人面前克制一点她也不听，所以有些伤脑筋。"
     },
     {
         "name": "カティア",
-        "message": "「那个……魔王大人？　就算是魔王大人，这也太过分了吧……」"
+        "message": "「魔王大人您才应该更有坏人的派头嘛！　让我们向世人展现一下何谓魔王吧！」"
+    },
+    {
+        "message": "既然她这么希望我当个坏魔王，那就试着真像魔王一点吧。"
+    },
+    {
+        "message": "为了表现得更像魔王，更像坏人……"
+    },
+    {
+        "message": "深夜，夜深人静的住宅区。"
+    },
+    {
+        "message": "路灯的灯光下，只有我和卡蒂娅两个人——不，是一人一狗。"
+    },
+    {
+        "name": "カティア",
+        "message": "「那个……魔王大人？　就算是魔王大人，这也做得太过火了吧……」"
     },
     {
         "name": "クロト",
-        "message": "「最近，卡蒂娅不听我的话，作为魔王，不听命令的部下必须受到惩罚。」"
+        "message": "「谁叫最近卡蒂娅都不听我的话嘛。作为魔王，不惩罚不听命令的部下怎么行」"
     },
     {
         "name": "カティア",
-        "message": "「这样啊……」"
+        "message": "「怎么这样……」"
     },
     {
         "name": "クロト",
-        "message": "「走吧，去散步。」"
+        "message": "「来，去散步咯」"
     },
     {
         "name": "カティア",
-        "message": "「唔～……这样太丢人了……」"
+        "message": "「呜呜～……这样好羞耻啊……」"
     },
     {
-        "message": "一丝不挂的姿态──准确地说，只戴着项圈和手套的卡蒂娅。"
+        "message": "卡蒂娅一丝不挂——准确地说，她身上只戴着项圈和手套。"
     },
     {
-        "message": "被迫像狗一样四肢着地，项圈上系着牵引绳。"
+        "message": "我让她像狗一样四肢着地，项圈上连着牵绳。"
     },
     {
         "name": "カティア",
-        "message": "「胸部也，那里也全露出来了……至少给我穿点东西吧……。这样子像狗一样……」"
+        "message": "「奶子和那里都露在外面……至，至少让我穿点什么吧……这样子就跟狗一样……」"
     },
     {
         "name": "クロト",
-        "message": "「说要做我的狗的是卡蒂娅吧。我是恶魔魔王，对部下也不会手软。」"
+        "message": "「是你自己说要当我的狗的吧。我可是邪恶的魔王，对部下是不会留情的哦」"
     },
     {
         "name": "カティア",
-        "message": "「虽然是这么说，但这样子……」"
+        "message": "「我的确是说过，但这种……呜呜……」"
     },
     {
-        "message": "卡蒂娅真的被当作狗对待，她可爱的脸因为屈辱而扭曲。"
+        "message": "卡蒂娅真的被我当成狗对待，那惹人怜爱的面容因屈辱而扭曲。"
     },
     {
-        "message": "但她似乎明白了抗议是没有用的，开始摇着屁股走路。"
-    },
-    {
-        "name": "カティア",
-        "message": "「唔，那里凉飕飕的……这样被别人看到就完蛋了……」"
-    },
-    {
-        "message": "可爱的屁股，漂亮的秘处，以及与小巧身材不相称的巨大胸部……这些都刺激着男人的本能。"
+        "message": "但她似乎也明白抗议也没用，只好摇着屁股走了起来。"
     },
     {
         "name": "カティア",
-        "message": "「心跳停不下来……拜托，不要有人来……」"
+        "message": "「呜呜，那里凉飕飕的……要是被其他人看到这副样子，我还不如死了算了……」"
     },
     {
-        "message": "卡蒂娅的脸因为羞耻而涨得通红，不安地环顾四周，犹豫地一步步前进。"
+        "message": "可爱的臀部，漂亮的裂缝，还有与娇小身躯不相称的巨乳……每一样都在刺激着男人的本能。"
     },
     {
         "name": "カティア",
-        "message": "「呼……哈……哈……」"
+        "message": "「心脏跳个不停……拜托了，不要有人来……」"
+    },
+    {
+        "message": "卡蒂娅羞得满脸通红，不安地环顾四周，迟疑地一步步前进。"
+    },
+    {
+        "name": "カティア",
+        "message": "「呼……哈啊……哈啊……」"
     },
     {
         "name": "クロト",
         "message": "「太慢了」"
     },
     {
-        "message": "为了催促她前进，拉动系在项圈上的绳子。"
+        "message": "我像催促她加快脚步一样，拉着系在项圈上的绳子。"
     },
     {
         "name": "カティア",
-        "message": "「嗯……不要拉……」"
+        "message": "「嗯嗯……别拉了……」"
     },
     {
-        "message": "这样握着绳子，感觉自己在支配卡蒂娅，一种难以言喻的快感涌上心头。"
+        "message": "像这样握着牵绳，就感觉自己支配着卡蒂娅，一种难以言喻的快感涌了上来。"
     },
     {
         "name": "クロト",
-        "message": "「你是狗，就得像狗一样叫」"
+        "message": "「既然是狗，那就得学狗叫才行」"
     },
     {
         "name": "カティア",
-        "message": "「哇……汪。汪汪」"
+        "message": "「汪……汪汪」"
     },
     {
         "name": "クロト",
-        "message": "「对，听话真乖」"
+        "message": "「没错。能好好听话，你真棒」"
     },
     {
         "name": "カティア",
         "message": "「呜～嗯……」"
     },
     {
-        "message": "平时总是开心地学狗叫，但现在声音中充满了羞辱。"
+        "message": "平时她总是开心地学狗叫，但现在声音中却带着耻辱。"
     },
     {
         "name": "カティア",
-        "message": "「那个……这个散步，要做到什么时候啊……？」"
+        "message": "「那个……这个散步，要持续到什么时候呢……？」"
     },
     {
         "name": "クロト",
-        "message": "「到新星学园为止。磨磨蹭蹭的，天都要亮了」"
+        "message": "「到我们走到新星学园为止。要是一直拖拖拉拉的，天可就要亮了」"
     },
     {
         "name": "カティア",
-        "message": "「啊，那、那样的话不可能啊！？会被别人发现的啊！？」"
+        "message": "「哎哎，这，这怎么可能办得到啊！？　会被谁发现的吧！？」"
     },
     {
         "name": "クロト",
-        "message": "「不听话的话，就得接受不同的惩罚了」"
+        "message": "「如果你不听话，那就要换成别的惩罚了」"
     },
     {
-        "message": "用勃起的阴茎对着卡蒂娅的脸。"
+        "message": "我把因母狗的痴态而勃起的肉棒，顶到了卡蒂娅眼前。"
     },
     {
         "name": "カティア",
         "message": "「啊──」"
     },
     {
-        "message": "像面对凶器一样，卡蒂娅一瞬间失去了语言能力，僵住了。"
+        "message": "仿佛是看到了凶器一样，卡蒂娅瞬间说不出话，僵在了原地。"
     },
     {
         "name": "カティア",
-        "message": "「啊，还是好好散步吧！现在插进来的话……不行，不行啊！！」"
+        "message": "「我，我还是会好好散步的！　现在把大○鸡插进来……不行，不行啊！」"
     },
     {
-        "message": "无视颤抖的卡蒂娅，用阴茎一下子贯穿了她的秘裂。"
-    },
-    {
-        "name": "カティア",
-        "message": "「啊啊啊啊啊啊啊啊啊啊啊啊啊啊<emoji=heart04>」"
+        "message": "无视颤抖的卡蒂娅，我用肉棒一口气贯穿了她裸露在外的蜜缝。"
     },
     {
         "name": "カティア",
-        "message": "「嗯……哈……魔王大人的阴茎，好大啊……」"
-    },
-    {
-        "message": "因为羞耻，卡蒂娅里面热得像要烧起来一样。"
-    },
-    {
-        "message": "用阴茎撑开被爱液润滑的阴道壁，深深地插入。"
+        "message": "「呜啊啊啊啊～～～～～～～～<emoji=heart04>」"
     },
     {
         "name": "カティア",
-        "message": "「啊……阴茎，一下一下插进来了……」"
+        "message": "「嗯……哈啊……魔王大人的大○鸡，好大啊……」"
+    },
+    {
+        "message": "或许是因为羞耻，卡蒂娅的里面热得仿佛要烫伤我。"
+    },
+    {
+        "message": "我撬开被蜜汁润湿的阴道壁，将肉棒深深插入。"
+    },
+    {
+        "name": "カティア",
+        "message": "「啊啊……大○鸡，噗滋噗滋地插进来了……」"
     },
     {
         "name": "クロト",
-        "message": "「散步还能湿成这样，卡蒂娅真是变态啊」"
+        "message": "「散步散到湿了，卡蒂娅真是个变态呢」"
     },
     {
         "name": "カティア",
-        "message": "「不、我不是变态……呜……哈……」"
+        "message": "「才不是……我才不是变态……呜……哈啊……」"
     },
     {
-        "message": "为了惩罚顶嘴的卡蒂娅，轻轻拉动绳子，同时动起阴茎。"
-    },
-    {
-        "name": "カティア",
-        "message": "「嗯……<emoji=heart04>　哈……哈……啊……啊嗯……<emoji=heart04>」"
+        "message": "为了教育顶嘴的卡蒂娅，我一边轻轻拉扯牵引绳一边活动肉棒。"
     },
     {
         "name": "カティア",
-        "message": "「阴茎拿出来……啊<emoji=heart04>　请停下来……呼……哈<emoji=heart04>」"
+        "message": "「嗯嗯……<emoji=heart04>　哈啊……哈……啊……啊嗯……<emoji=heart04>」"
     },
     {
         "name": "カティア",
-        "message": "「啊……阴茎好热，肚子暖暖的……哈啊……哈……嗯<emoji=heart04>」"
-    },
-    {
-        "message": "话语与之相反，卡蒂娅的声音和表情中透露出快乐。"
-    },
-    {
-        "message": "小个子的卡蒂娅的阴道很紧，阴茎被紧紧压迫，感到快感。"
+        "message": "「把肉棒拔出来……啊<emoji=heart04>　请住手……呼……哈啊<emoji=heart04>」"
     },
     {
         "name": "カティア",
-        "message": "「哈，哈……魔王大人的阴茎，平时明明很喜欢……啊<emoji=heart04>」"
+        "message": "「啊……肉棒好热，肚子好暖和……哈啊啊……哈啊……嗯<emoji=heart04>」"
+    },
+    {
+        "message": "和嘴上说的相反，卡蒂娅的声音和表情都透露出了快感。"
+    },
+    {
+        "message": "卡蒂娅的小穴很狭窄，肉棒被紧紧压迫的感觉非常有快感。"
     },
     {
         "name": "カティア",
-        "message": "「啊……啊……嗯<emoji=heart04>　这样……在外面做爱什么的，我不喜欢……哈，啊嗯<emoji=heart04>」"
+        "message": "「哈啊，哈啊……魔王大人的肉棒，我明明一直都喜欢的……呜……<emoji=heart04>」"
+    },
+    {
+        "name": "カティア",
+        "message": "「啊……啊……嗯<emoji=heart04>　我讨厌……在外面做爱……哈啊，啊嗯<emoji=heart04>」"
     },
     {
         "name": "クロト",
-        "message": "「不是做爱，是交配。卡蒂娅是狗嘛。」"
+        "message": "「不是做爱，是交配。因为卡蒂娅是狗嘛」"
     },
     {
         "name": "カティア",
-        "message": "「唔……那样……啊，啊啊<emoji=heart04>　交配不要啊<emoji=heart04>　哈哈……啊……嗯……<emoji=heart04>」"
+        "message": "「呜……怎么这样……啊，啊啊<emoji=heart04>　不要交配啊<emoji=heart04>　哈啊哈啊……啊……嗯……<emoji=heart04>」"
     },
     {
         "name": "カティア",
-        "message": "「嗯嗯<emoji=heart04>　阴茎，在里面摩擦<emoji=heart04>　哈……啊啊……啊嗯<emoji=heart04>」"
+        "message": "「嗯嗯<emoji=heart04>　肉棒在里面摩擦着<emoji=heart04>　哈啊……啊啊……啊嗯<emoji=heart04>」"
     },
     {
-        "message": "即使不愿意，快感却无法抵抗，爱液溢出，阴道高兴地紧紧包住阴茎。"
-    },
-    {
-        "name": "カティア",
-        "message": "「哈……哈……嗯<emoji=heart04>　不行，声音要出来了……啊<emoji=heart04>」"
+        "message": "就算再怎么不情愿也无法抵抗快感，爱液不断溢出，小穴开心地勒紧了肉棒。"
     },
     {
         "name": "カティア",
-        "message": "「啊，啊嗯<emoji=heart04>　阴茎太粗了……阴道要撑开了<emoji=heart04>　嗯……哈……啊啊<emoji=heart04>」"
-    },
-    {
-        "message": "小小的身体不相称的大胸部摇晃着喘息的卡蒂娅。"
-    },
-    {
-        "message": "阴道壁的肉褶也缠绕着阴茎，脸和性格都很幼稚，但确实是女人的身体。"
+        "message": "「哈啊……哈啊……嗯<emoji=heart04>　不行，要叫出来了……<emoji=heart04>」"
     },
     {
         "name": "カティア",
-        "message": "「哈，啊……阴道好热<emoji=heart04>　啊……哈……啊嗯<emoji=heart04>」"
+        "message": "「啊，啊嗯<emoji=heart04>　肉棒好粗……小穴都要被撑开了<emoji=heart04>　嗯……哈啊……呜啊啊<emoji=heart04>」"
+    },
+    {
+        "message": "卡蒂娅摇晃着与她娇小的身体不相称的硕大奶子喘息着。"
+    },
+    {
+        "message": "肉壁的褶皱也缠上了肉棒，明明长相和性格都很幼小，身体却已经完全是女人了。"
+    },
+    {
+        "name": "カティア",
+        "message": "「哈啊，啊……小穴好热<emoji=heart04>　啊……哈……啊啊嗯<emoji=heart04>」"
     },
     {
         "name": "クロト",
-        "message": "「交配感觉怎么样？」"
+        "message": "「交配舒服吗？」"
     },
     {
         "name": "カティア",
-        "message": "「嗯……啊哈……哈<emoji=heart04>　不是交配，是做爱啊……」"
+        "message": "「嗯……啊哈啊……哈啊<emoji=heart04>　才不是交尾呢……这是做爱……」"
     },
     {
-        "message": "为了制止反驳的卡蒂娅，拉紧了绳子。"
-    },
-    {
-        "name": "カティア",
-        "message": "「嗯呜……啊」"
+        "message": "我拉了一下绳子，以惩戒反驳我的卡蒂娅。"
     },
     {
         "name": "カティア",
-        "message": "「哈，呼……咳，好难受……不要拉项圈……」"
+        "message": "「嗯咕……」"
+    },
+    {
+        "name": "カティア",
+        "message": "「哈啊，呼……好，好难受……请不要拉项圈啊……」"
     },
     {
         "name": "クロト",
-        "message": "「因为卡蒂娅顶嘴，所以是惩罚。」"
+        "message": "「谁叫你要顶嘴，这是惩罚」"
     },
     {
         "name": "カティア",
-        "message": "「那样……嗯呜……哈啊……」"
+        "message": "「怎么这样……嗯咕……哈啊啊……」"
     },
     {
-        "message": "虽然被绳子拉着，但阴道却像很高兴一样紧紧收缩。"
+        "message": "明明项圈被拉扯着，但小穴却好像很享受似的收缩了起来。"
     },
     {
-        "message": "进一步，轻轻拉着同时插入。"
+        "message": "我一边轻轻拉扯绳子，一边继续抽插。"
     },
     {
         "name": "カティア",
-        "message": "「嗯嗯<emoji=heart04>　哈，嗯嗯嗯<emoji=heart04>」"
+        "message": "「嗯——<emoji=heart04>　哈，嗯——<emoji=heart04>」"
     },
     {
         "name": "クロト",
@@ -292,302 +292,302 @@
     },
     {
         "name": "カティア",
-        "message": "「母，狗……嗯啊……哈……<emoji=heart04>　我，是母狗……啊，啊嗯<emoji=heart04>」"
+        "message": "「母，狗……嗯啊……哈啊……<emoji=heart04>　我是，母狗……啊啊，啊嗯<emoji=heart04>」"
     },
     {
-        "message": "在阴茎的插入中，卡蒂娅的脸上混杂着悔恨和快感，喘息着。"
+        "message": "被肉棒抽插着的卡蒂娅，一边喘着粗气，一边露出不甘与快感交织的表情。"
     },
     {
-        "message": "你是母狗，我要把这句话刻在你的身体上，在卡蒂娅的体内反复前后插入阴茎。"
-    },
-    {
-        "name": "カティア",
-        "message": "「啊啊啊<emoji=heart04>　嗯，啊……哈啊，哈啊，啊嗯<emoji=heart04>」"
+        "message": "我仿佛要把她是条母狗的事实刻进她身体里一样，在卡蒂娅的体内反复抽插。"
     },
     {
         "name": "カティア",
-        "message": "「啊，啊，啊……哈啊──哇啊<emoji=heart04>　魔王大人的鸡巴，感觉好舒服<emoji=heart04>」"
+        "message": "「呼啊啊啊<emoji=heart04>　嗯，啊……哈啊，哈啊，啊嗯<emoji=heart04>」"
     },
     {
         "name": "カティア",
-        "message": "「感觉好舒服，可是不行……哈啊，啊，啊啊<emoji=heart04>　真的，变成母狗了<emoji=heart04>」"
+        "message": "「啊，啊，啊……哈啊——呜啊啊<emoji=heart04>　被魔王大人的肉棒，插得好舒服<emoji=heart04>」"
     },
     {
         "name": "カティア",
-        "message": "「啊啊啊，哈啊，嗯<emoji=heart04>　不行，身体，动不了<emoji=heart04>　哈……啊，啊──嗯啊啊～<emoji=heart04>」"
-    },
-    {
-        "message": "像发情的野兽一样，卡蒂娅主动摇摆腰部，贪求快感。"
+        "message": "「明明不可以，这么舒服的……哈啊，啊，啊啊啊<emoji=heart04>　真的要变成，母狗了<emoji=heart04>」"
     },
     {
         "name": "カティア",
-        "message": "「啊<emoji=heart04>　肚子里，鸡巴在跳动<emoji=heart04>　硬硬的鸡巴，插进来，阴道好热<emoji=heart04>」"
+        "message": "「呼啊啊啊，哈啊，哈嗯<emoji=heart04>　不行，身体，自己动起来了<emoji=heart04>　哈……啊，啊——嗯啊啊啊～<emoji=heart04>」"
+    },
+    {
+        "message": "卡蒂娅就像发情的野兽一样，主动扭腰渴求快感。"
     },
     {
         "name": "カティア",
-        "message": "「啊，啊，嗯<emoji=heart04>　哈啊……鸡巴，好深<emoji=heart04>　嗯，啊，哈啊<emoji=heart04>」"
-    },
-    {
-        "message": "小小的身体摇摆着屁股，可爱又淫荡的姿态，更加燃起了情欲。"
-    },
-    {
-        "message": "阴茎顶出去，卡蒂娅的屁股撞上来，下半身感受到柔软的肉体触感。"
+        "message": "「啊<emoji=heart04>　肉棒，在肚子里一跳一跳的<emoji=heart04>　被硬硬的肉棒插来插去，小穴好热<emoji=heart04>」"
     },
     {
         "name": "カティア",
-        "message": "「嗯，哈……交配中……交配中感觉好舒服<emoji=heart04>　哈啊，哈啊……啊，啊啊<emoji=heart04>」"
+        "message": "「啊，啊，啊嗯<emoji=heart04>　哈啊哈……肉棒，好深<emoji=heart04>　嗯，啊，哈啊啊<emoji=heart04>」"
+    },
+    {
+        "message": "她娇小的身躯摇晃着屁股，这可爱又淫荡的样子让我心中的情欲愈发高涨。"
+    },
+    {
+        "message": "我一挺出肉棒就碰到了卡蒂娅的屁股，下半身感受到了柔软的肉感。"
     },
     {
         "name": "カティア",
-        "message": "「啊，啊，啊，啊──嗯～<emoji=heart04>　像狗一样交配，阴道感觉好舒服<emoji=heart04>」"
+        "message": "「嗯，哈啊……明明是在交尾……却因为交尾而变得好舒服<emoji=heart04>　哈啊，哈啊……啊，啊啊啊<emoji=heart04>」"
+    },
+    {
+        "name": "カティア",
+        "message": "「啊，啊，啊，啊──嗯～<emoji=heart04>　像狗一样的交尾，让小穴好舒服<emoji=heart04>」"
     },
     {
         "name": "クロト",
-        "message": "「卡蒂娅果然是母狗。母狗应该怎么叫？」"
+        "message": "「卡蒂娅果然是母狗啊。母狗是怎么叫的来着？」"
     },
     {
         "name": "カティア",
-        "message": "「哇……哇……」"
+        "message": "「汪……汪……」"
     },
     {
         "name": "カティア",
         "message": "「汪<emoji=heart04>　汪汪<emoji=heart04>」"
     },
     {
-        "message": "犹豫在快感中消融，小狗的叫声在深夜的住宅区回荡。"
+        "message": "迟疑被快乐所融化，深夜的住宅区里回响着小狗的叫声。"
     },
     {
         "name": "カティア",
-        "message": "「汪<emoji=heart04>　汪<emoji=heart04>　汪<emoji=heart04>　哈，哈……汪……呜～～嗯<emoji=heart04>」"
+        "message": "「汪<emoji=heart04>　汪<emoji=heart04>　汪<emoji=heart04>　哈，哈……汪呼……咕～～嗯<emoji=heart04>」"
     },
     {
         "name": "カティア",
-        "message": "「哈，哈，哈<emoji=heart04>　喵～<emoji=heart04>　喵喵<emoji=heart04>　喵～嗯<emoji=heart04>」"
+        "message": "「哈，哈，哈<emoji=heart04>　汪<emoji=heart04>　汪汪<emoji=heart04>　汪～嗯<emoji=heart04>」"
     },
     {
-        "message": "我强奸了变成母狗的卡蒂娅，支配女人的快感让我兴奋不已。"
+        "message": "侵犯变成母狗的卡蒂娅，支配女人的快感让我更加兴奋。"
     },
     {
-        "message": "就像真的变成了恶魔之王一样，征服卡蒂娅的快感让我无法自拔。"
+        "message": "简直就像真的变成了邪恶的魔王一样，征服卡蒂娅这件事让我开心得不得了。"
     },
     {
         "name": "カティア",
-        "message": "「汪<emoji=heart04>　汪<emoji=heart04>　啊、啊、啊──汪、汪哦～～～<emoji=heart04>」"
+        "message": "「汪<emoji=heart04>　汪<emoji=heart04>　啊，啊，啊——汪，汪哦哦～～～嗯<emoji=heart04>」"
     },
     {
         "name": "クロト",
-        "message": "「做得好。这是奖励。」"
+        "message": "「做得很好。这是奖励」"
     },
     {
-        "message": "从后面绕过手，紧紧握住她那对巨大的乳房。"
-    },
-    {
-        "name": "カティア",
-        "message": "「嗯～～～～～～<emoji=heart04>」"
+        "message": "我从后方伸手，紧紧抓住了她那对大奶子。"
     },
     {
         "name": "カティア",
-        "message": "「汪<emoji=heart04>　汪汪<emoji=heart04>　嗯、啊……乳房……啊……哈、啊嗯<emoji=heart04>」"
-    },
-    {
-        "message": "享受着乳房的丰满，用手掌包住乳房揉捏。"
+        "message": "「呜～～～～～～嗯<emoji=heart04>」"
     },
     {
         "name": "カティア",
-        "message": "「啊啊、哈……啊、啊啊<emoji=heart04>　乳房被揉捏着，阴道被插入，感觉好棒<emoji=heart04>　呼、哈──啊啊<emoji=heart04>」"
+        "message": "「汪<emoji=heart04>　汪汪<emoji=heart04>　嗯，啊……奶子……啊……哈啊，啊啊嗯<emoji=heart04>」"
+    },
+    {
+        "message": "我用手掌包裹住奶子尽情地揉搓，享受着它的分量。"
     },
     {
         "name": "カティア",
-        "message": "「呼、嗯──嗯<emoji=heart04>　啊、乳头也……嗯啊<emoji=heart04>　啊、啊──啊啊<emoji=heart04>」"
-    },
-    {
-        "message": "感受着乳房的柔软，阴茎被热乎乎的阴道壁包裹，享受着极乐的快感。"
+        "message": "「呼啊啊，哈……啊，啊啊<emoji=heart04>　奶子被揉来揉去，小穴还被插，好舒服<emoji=heart04>　呼，哈啊——嗯啊啊啊<emoji=heart04>」"
     },
     {
         "name": "カティア",
-        "message": "「哈、哈哈、啊啊<emoji=heart04>　汪汪<emoji=heart04>　汪啊<emoji=heart04>」"
+        "message": "「呼，嗯——嗯嗯<emoji=heart04>　啊，连乳头也……嗯啊啊<emoji=heart04>　啊，啊——呀啊啊啊<emoji=heart04>」"
+    },
+    {
+        "message": "一边感受着胸部的柔软，一边让肉棒被又热又软的肉壁包裹着，品味着无上的快乐。"
     },
     {
         "name": "カティア",
-        "message": "「乌～汪<emoji=heart04>　汪汪<emoji=heart04>　从后面，像狗一样被深深插入，感觉好棒<emoji=heart04>　母狗交尾，感觉好棒啊<emoji=heart04>」"
-    },
-    {
-        "message": "母狗的喘息让兴奋加剧，我更加沉迷于调教卡蒂娅。"
+        "message": "「哈，哈啊哈，啊啊<emoji=heart04>　呀嗯呀嗯<emoji=heart04>　呀嗯<emoji=heart04>」"
     },
     {
         "name": "カティア",
-        "message": "「啊、啊、啊、啊──啊啊<emoji=heart04>　阴茎好激烈<emoji=heart04>　啊、啊、阴茎好大，肚子都满了<emoji=heart04>」"
+        "message": "「呜呜～汪<emoji=heart04>　汪汪<emoji=heart04>　从后面像狗一样被插着好舒服<emoji=heart04>　母狗交尾，好舒服哦<emoji=heart04>」"
+    },
+    {
+        "message": "母狗的娇喘让我的兴奋更加高涨，我更加专注地调教着卡蒂娅。"
     },
     {
         "name": "カティア",
-        "message": "「啊<emoji=heart04>　啊<emoji=heart04>　阴茎，顶到里面了<emoji=heart04>　嗯、子宫，被顶到了……哈啊啊<emoji=heart04>」"
-    },
-    {
-        "message": "卡蒂娅的里面充满了大量的爱液，阴道壁痉挛着紧紧夹住。"
+        "message": "「啊，啊，啊，啊——啊啊啊<emoji=heart04>　肉棒好激烈<emoji=heart04>　啊，啊，肉棒好大，把肚子都填满了<emoji=heart04>」"
     },
     {
         "name": "カティア",
-        "message": "「呼哈、哈、嗯<emoji=heart04>　啊<emoji=heart04>　啊<emoji=heart04>　啊<emoji=heart04>　阴茎的顶端，被啪啪地顶着<emoji=heart04>　呼啊、哈、啊啊<emoji=heart04>」"
+        "message": "「啊<emoji=heart04>　啊<emoji=heart04>　肉棒，顶到，深处了<emoji=heart04>　嗯，碰到了，子宫……哈啊啊啊嗯<emoji=heart04>」"
+    },
+    {
+        "message": "卡蒂娅的体内因为大量的爱液而变得黏糊糊的，肉壁一边痉挛着一边紧紧地缠绕上来。"
     },
     {
         "name": "カティア",
-        "message": "「啊<emoji=heart04> 哈<emoji=heart04> 哈恩<emoji=heart04> 顶到里面，头会变得一片空白<emoji=heart04> 嗯，啊——啊<emoji=heart04>」"
-    },
-    {
-        "message": "每次顶到子宫口，卡蒂娅的身体都会颤抖。"
-    },
-    {
-        "message": "于是，我拉紧绳子的同时顶向深处。"
+        "message": "「呼哈，哈啊，嗯嗯<emoji=heart04>　啊<emoji=heart04>　啊<emoji=heart04>　啊<emoji=heart04>　用肉棒的前端，咚咚地敲着<emoji=heart04>　呼啊，哈，啊啊<emoji=heart04>」"
     },
     {
         "name": "カティア",
-        "message": "「嗯～～～～～～<emoji=heart04><emoji=heart04>」"
+        "message": "「啊<emoji=heart04>　哈<emoji=heart04>　哈嗯<emoji=heart04>　顶到，里面，脑袋就变得一片空白了<emoji=heart04>　嗯，呼——唔啊啊啊<emoji=heart04>」"
+    },
+    {
+        "message": "每当肚子深处的深处——子宫口被顶到，卡蒂娅的身体都会剧烈地颤抖起来。"
+    },
+    {
+        "message": "既然如此，我便一边拉着牵绳一边顶向深处。"
     },
     {
         "name": "カティア",
-        "message": "「咳哈……刚才的，太棒了<emoji=heart04> 嗯啊……啊咳……<emoji=heart04>」"
+        "message": "「嗯嗯～～～～～～<emoji=heart04><emoji=heart04>」"
     },
     {
         "name": "カティア",
-        "message": "「啊<emoji=heart04> 啊<emoji=heart04> 拉着项圈，顶到深处，太过分了<emoji=heart04> 感觉太好<emoji=heart04>」"
+        "message": "「哈啊……刚才的，好厉害<emoji=heart04>　嗯啊……啊呜……<emoji=heart04>」"
     },
     {
         "name": "カティア",
-        "message": "「啊，啊<emoji=heart04> 为什么<emoji=heart04> 明明很痛苦，却感觉很好<emoji=heart04>」"
+        "message": "「呜<emoji=heart04>　啊<emoji=heart04>　一边拉着项圈，一边往深处顶，不行啦<emoji=heart04>　太舒服了<emoji=heart04>」"
     },
     {
         "name": "カティア",
-        "message": "「哈……啊，啊<emoji=heart04> 嗯咕……啊……嗯——<emoji=heart04>」"
-    },
-    {
-        "message": "卡蒂娅的身体弓起，绷紧的绳子勒住项圈。"
-    },
-    {
-        "message": "然而阴道却痛得紧紧缠住阴茎，卡蒂娅的快感也变得更强烈了。"
+        "message": "「啊，啊……<emoji=heart04>　为什么<emoji=heart04>　明明好难受，却好舒服<emoji=heart04>」"
     },
     {
         "name": "カティア",
-        "message": "「啊——哈啊……！ 哈哈哈……啊<emoji=heart04> 啊<emoji=heart04> 啊<emoji=heart04>」"
+        "message": "「哈……啊，呜……<emoji=heart04>　嗯呜……呜啊……嗯嗯——<emoji=heart04>」"
     },
     {
-        "message": "放松绳子后，她喘着粗气，试图吸入更多的氧气。"
+        "message": "卡蒂娅的身体向后仰去，牵绳也因此绷紧，勒住了她的项圈。"
     },
     {
-        "message": "然而卡蒂娅的表情已经被快感融化，彻底变成了一只母狗。"
-    },
-    {
-        "name": "カティア",
-        "message": "「哈<emoji=heart04> 啊<emoji=heart04> 我喜欢阴茎<emoji=heart04> 母狗交配感觉很好<emoji=heart04>」"
+        "message": "然而，阴道却紧紧缠住肉棒到发痛的程度，卡蒂娅的快感似乎也变得更加强烈。"
     },
     {
         "name": "カティア",
-        "message": "「嗯～～～<emoji=heart04> 里面，里面<emoji=heart04> 子宫，孩子的房间，被顶得很深<emoji=heart04>」"
+        "message": "「啊——哈啊……！　哈啊哈啊哈啊……啊<emoji=heart04>　啊<emoji=heart04>　啊<emoji=heart04>」"
+    },
+    {
+        "message": "我松开牵绳，卡蒂娅便喘着粗气，渴求着氧气。"
+    },
+    {
+        "message": "但是卡蒂娅的表情却已经沉溺于欢愉之中，完全就是一条发情的母狗。"
     },
     {
         "name": "カティア",
-        "message": "「啊啊<emoji=heart04> 啊<emoji=heart04> 啊<emoji=heart04> 阴茎太棒了<emoji=heart04> 大阴茎，阴道要被弄坏了<emoji=heart04>」"
+        "message": "「哈啊<emoji=heart04>　啊啊<emoji=heart04>　好喜欢肉棒<emoji=heart04>　和母狗交配好舒服啊<emoji=heart04>」"
+    },
+    {
+        "name": "カティア",
+        "message": "「嗯～～～<emoji=heart04>　好深，好深啊<emoji=heart04>　子宫，宝宝的房间，被不停地顶着<emoji=heart04>」"
+    },
+    {
+        "name": "カティア",
+        "message": "「呼啊啊啊<emoji=heart04>　啊<emoji=heart04>　啊<emoji=heart04>　肉棒好厉害<emoji=heart04>　大肉棒，要把小穴插坏了啦<emoji=heart04>」"
     },
     {
         "name": "クロト",
-        "message": "「嗯……要给母狗授精了」"
+        "message": "「唔……我要给母狗播种了」"
     },
     {
         "name": "カティア",
-        "message": "「啊——授精……授精<emoji=heart04> 喷——<emoji=heart04> 精液射进子宫，被授精了<emoji=heart04>」"
+        "message": "「啊——播种……播种<emoji=heart04>　咻地一下<emoji=heart04>　把精液射在子宫里，让我被播种吧<emoji=heart04>」"
     },
     {
         "name": "カティア",
-        "message": "「汪<emoji=heart04> 汪汪，汪<emoji=heart04> 母狗阴道被授精了<emoji=heart04> 汪汪<emoji=heart04> 汪<emoji=heart04>」"
+        "message": "「汪<emoji=heart04>　汪汪，汪<emoji=heart04>　要给母狗小穴，播种了<emoji=heart04>　呀嗯呀嗯<emoji=heart04>　呀咿咿嗯<emoji=heart04>」"
     },
     {
         "name": "カティア",
-        "message": "「汪汪<emoji=heart04>　射出来<emoji=heart04>　射出来<emoji=heart04>　卡蒂娅的子宫，请用魔王的精液装满<emoji=heart04>」"
+        "message": "「汪汪<emoji=heart04>　射出来吧<emoji=heart04>　射出来吧<emoji=heart04>　用魔王大人的精液，把母狗卡蒂娅的子宫，灌得满满的吧<emoji=heart04>」"
     },
     {
-        "message": "对公狗卖弄风骚的声音，卡蒂娅沉迷于交尾。"
+        "message": "卡蒂娅发出讨好雄性的叫声，全心全意地沉浸在交配中。"
     },
     {
-        "message": "现在脑子里只有被种马，可耻地摇晃着腰。"
-    },
-    {
-        "name": "カティア",
-        "message": "「哈啊、啊──嗯哼<emoji=heart04>　又、被牵引<emoji=heart04>　牵引<emoji=heart04>　嗯～～<emoji=heart04>」"
+        "message": "她满脑子只剩下要被播种的念头，下流地扭动着腰。"
     },
     {
         "name": "カティア",
-        "message": "「被项圈牵引<emoji=heart04>　明明很痛苦，阴道却感觉很好<emoji=heart04>」"
+        "message": "「哈啊，啊——嗯唔<emoji=heart04>　牵绳，又被拉住了<emoji=heart04>　唔，呜……嗯～<emoji=heart04>」"
     },
     {
         "name": "カティア",
-        "message": "「汪汪<emoji=heart04>　种马<emoji=heart04>　种马<emoji=heart04>　用魔王的阴茎<emoji=heart04>　在卡蒂娅的阴道里<emoji=heart04>　种马<emoji=heart04>」"
+        "message": "「牵绳被拉住了<emoji=heart04>　明明应该很难受，小穴却一紧，感觉好舒服<emoji=heart04>」"
     },
     {
         "name": "カティア",
-        "message": "「汪<emoji=heart04>　汪<emoji=heart04>　汪<emoji=heart04>　阴道高潮了<emoji=heart04>　汪汪<emoji=heart04>　汪汪<emoji=heart04>」"
-    },
-    {
-        "message": "然后再次用力拉着牵引绳，将欲望射入卡蒂娅的深处。"
+        "message": "「汪汪<emoji=heart04>　播种<emoji=heart04>　播种<emoji=heart04>　用魔王大人的大肉棒<emoji=heart04>　在卡蒂娅的母狗小穴里<emoji=heart04>　播种吧<emoji=heart04>」"
     },
     {
         "name": "カティア",
-        "message": "「汪汪～～～～～～～～～～～～<emoji=heart04><emoji=heart04><emoji=heart04>」"
+        "message": "「汪<emoji=heart04>　汪<emoji=heart04>　汪<emoji=heart04>　母狗小穴要高潮了<emoji=heart04>　汪汪<emoji=heart04>　汪呜呜——<emoji=heart04>」"
+    },
+    {
+        "message": "我再一次用力拉扯牵绳，将欲望射在了卡蒂娅的深处。"
     },
     {
         "name": "カティア",
-        "message": "「汪<emoji=heart04>　汪<emoji=heart04>　汪汪<emoji=heart04>　肚子好热<emoji=heart04>　阴茎跳动，精液射出来<emoji=heart04>　被种马了<emoji=heart04>」"
+        "message": "「汪哦哦哦～～～～～～～～～嗯<emoji=heart04><emoji=heart04><emoji=heart04>」"
     },
     {
         "name": "カティア",
-        "message": "「呼……嗯嗯<emoji=heart04>　被项圈勒紧，射出精液<emoji=heart04>　阴道高潮了<emoji=heart04>」"
-    },
-    {
-        "message": "被卡蒂娅的阴道紧紧夹住，注入最后一滴。"
+        "message": "「汪<emoji=heart04>　汪<emoji=heart04>　汪呜呜<emoji=heart04>　肚子好热<emoji=heart04>　大肉棒在不断射精，把精液，射出来了<emoji=heart04>　被魔王大人，播种了<emoji=heart04>」"
     },
     {
         "name": "カティア",
-        "message": "「哈啊、啊……嗯嗯<emoji=heart04>　喜欢交尾<emoji=heart04>　魔王的精液，大量涌入<emoji=heart04>」"
+        "message": "「呼……嗯嗯嗯<emoji=heart04>　一边被牵绳勒紧，一边被射精了<emoji=heart04>　母狗小穴高潮了<emoji=heart04>」"
+    },
+    {
+        "message": "卡蒂娅的小穴因为喜悦而紧紧收缩，我则在她的紧缩中将最后一滴也注入进去。"
     },
     {
         "name": "カティア",
-        "message": "「汪<emoji=heart04>　汪汪<emoji=heart04>　汪汪<emoji=heart04>　啊、啊、啊──嗯～～<emoji=heart04>」"
+        "message": "「哈啊，啊啊……咕嗯<emoji=heart04>　好喜欢母狗交尾<emoji=heart04>　魔王大人的精子，射了好多进来……<emoji=heart04>」"
     },
     {
         "name": "カティア",
-        "message": "「汪汪……<emoji=heart04>　啊……阴道里，精液流出来了<emoji=heart04>」"
-    },
-    {
-        "message": "仿佛在说浪费了似的，阴道紧缩，试图留住精液在腹中。"
-    },
-    {
-        "message": "但是无法阻止溢出，黏稠的精液淫靡地滴落下来。"
+        "message": "「汪<emoji=heart04>　汪汪<emoji=heart04>　汪呜呜<emoji=heart04>　啊，啊，啊——呜～～嗯<emoji=heart04>」"
     },
     {
         "name": "カティア",
-        "message": "「哈啊、哈啊……哈啊……<emoji=heart04>　魔王的精液让我的肚子满满的……<emoji=heart04>」"
+        "message": "「汪呼……<emoji=heart04>　啊……精液，从小穴里流出来了……<emoji=heart04>」"
+    },
+    {
+        "message": "她紧紧缩着小穴，像是在说太浪费了似的，试图把精液留在肚子里。"
+    },
+    {
+        "message": "但是这无法阻止精液溢出，黏糊糊的精液就这样下流地滴落下来。"
     },
     {
         "name": "カティア",
-        "message": "「啊啊……啊……像母狗一样交尾……被种上了<emoji=heart04>」"
+        "message": "「哈啊，哈啊……哈啊啊……<emoji=heart04>　肚子里，全是魔王大人的精液……<emoji=heart04>」"
     },
     {
-        "message": "喘着粗气，目光呆滞的卡蒂娅。"
+        "name": "カティア",
+        "message": "「呼啊啊……啊……作为母狗交配……被播种……了呢<emoji=heart04>」"
     },
     {
-        "message": "狗尾巴高兴地摇晃着，她的表情已经完全被快乐所染红，是一张被快乐充满的母狗的脸。"
+        "message": "卡蒂娅重复着粗重的呼吸，眼神恍惚，沉浸在快感之中。"
+    },
+    {
+        "message": "狗尾巴高兴地摇晃着，她的表情完全就是一只沉溺在欢愉中的母狗。"
     },
     {
         "name": "クロト",
-        "message": "「再不听话就让你抬起一条腿撒尿。或者……」"
+        "message": "「要是你再不听话，我就让你抬起一条腿尿尿哦。还是说……」"
     },
     {
         "name": "クロト",
-        "message": "「乖乖听话的话再带你出去散步——这样比较好吗？」"
+        "message": "「要是你乖一点的话就再带你出来散步——这样比较好？」"
     },
     {
         "name": "カティア",
-        "message": "「呜呜呜<emoji=heart04>」"
+        "message": "「呜～嗯<emoji=heart04>」"
     },
     {
-        "message": "克洛托这样告诉被惩罚和奖励颠倒的卡蒂娅，她便像是表示服从一样，用甜美的声音叫了一声。"
+        "message": "我告诉了奖励和惩罚颠倒过来的卡蒂娅，她就像是在表示服从一样，发出了甜美的叫声。"
     }
 ]

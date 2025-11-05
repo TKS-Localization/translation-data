@@ -1,462 +1,462 @@
 [
     {
-        "message": "某天放学后——因为陪阿尼玛学姐做实验，我分裂成了四个人（我自己都不知道在说什么了）。"
+        "message": "某天放学后——陪阿妮玛学姐做实验的结果，我分裂成了4个人（连我自己都快搞不懂自己在说什么了）。"
     },
     {
         "name": "セナリィ",
-        "message": "「会长分裂成四个人──真的增加了啊！？」"
+        "message": "「会长大人居然分裂成4个——真的增加了啊！？」"
     },
     {
         "name": "ネーゼマイン",
-        "message": "「哇～哦。真的耶。脸和声音都一模一样的会长有四个……啊哈哈哈♪　炼金术真厉害♪」"
+        "message": "「哇哦～真的耶。有4个长相和声音都一模一样的会长……啊哈哈哈♪　炼金术好厉害呀～♪」"
     },
     {
         "name": "セナリィ",
-        "message": "「这能恢复原状吗！？」"
+        "message": "「这玩意儿真的能恢复原状吗！？」"
     },
     {
         "name": "ネーゼマイン",
-        "message": "「他说要在明天之前完成解除药效的药。也就是说今天一天只能忍耐了吧♪」"
+        "message": "「阿妮玛学姐说过，她会在明天之前调出解除药效的药。也就是说，我们只能忍耐今天这一天了～♪」"
     },
     {
         "name": "ネーゼマイン",
-        "message": "「嘿嘿♪　嗯，塞纳莉。有件事想和你商量一下」"
+        "message": "「嘻嘻♪　欸～赛娜丽，我有件事想和你商量。」"
     },
     {
         "name": "セナリィ",
-        "message": "「什么事？　有种不好的预感……」"
+        "message": "「什么事？我有种不好的预感……」"
     },
     {
         "name": "ネーゼマイン",
-        "message": "「既然有这么多，会长，要一个也没关系吧～♪」"
+        "message": "「反正有这么多～♪会长，我可以要一个走吗～？」"
     },
     {
         "name": "セナリィ",
-        "message": "「什么！？那种事绝对不行！　一个人也好四个人也好，会长的恋人只有我一个！？」"
+        "message": "「哈！？那肯定不行啊！无论是一个还是四个，会长大人的恋人只有我一个而已！？」"
     },
     {
         "name": "ネーゼマイン",
-        "message": "「切～♪　真遗憾。最近会长总是和塞纳莉在一起，关系不好。想和你两个人一起玩呢～♪」"
+        "message": "「嘁～♪　好可惜。最近会长老是和赛娜丽黏在一起，都不陪我玩了。偶尔也想和你两个人一起玩呢～♪」"
     },
     {
         "name": "セナリィ",
-        "message": "「现在不是说这种轻松话的时候。药可能会提前完成。分裂体不能单独行动！」"
+        "message": "「现在可不是说悠闲话的时候。说不定药会提前完成啊。分裂体不可以分头行动！」"
     },
     {
         "name": "セナリィ",
-        "message": "「会长，明天早上之前我和你一起度过！　当然，四个人一起！」"
+        "message": "「会长大人，你得和我一起待到明天早上才行！　当然，是四个人一起！」"
     },
     {
-        "message": "确实，如果从这里再分裂的话，那就真的无法收拾了。有经验的塞纳莉陪伴的话，“我们”也能安心。"
+        "message": "的确，如果从现在开始继续分裂的话，那就真的没救了。有熟练的赛娜丽陪着的话，“我”们也能放心了。"
     },
     {
-        "message": "结果，我们四个人被塞纳莉带着，去了金色的鹅事务所过夜。"
+        "message": "结果在那之后，我们四个被赛娜丽带去了黄金哥鲁基斯的事务所过夜。"
     },
     {
-        "message": "然后——几小时后。"
+        "message": "然后——几个小时后。"
     },
     {
         "name": "セナリィ",
-        "message": "「怎、怎、怎么会变成这样～！？」"
+        "message": "「怎怎怎，怎么会变成这样～！？」"
     },
     {
         "name": "クロト１",
-        "message": "「因为塞纳莉，今天不是有约会的约定吗？」"
+        "message": "「可是赛娜丽，你今天不是和人约好要约会吗？」"
     },
     {
         "name": "セナリィ",
-        "message": "「啊，是的。是的……！？　吃完饭后，去酒店过夜的事也谈过了……！」"
+        "message": "「呃，嗯。是啊……！？我们还说好，吃完饭之后要住进酒店什么的呢……！」"
     },
     {
         "name": "クロト２",
-        "message": "「我们。为了这一天，一直在积攒……」"
+        "message": "「我们为了这一天，一直在攒钱……」"
     },
     {
         "name": "クロト３",
-        "message": "「最近忙得连恋人该做的事都做不了……」"
+        "message": "「最近，忙得连恋人的事都没怎么顾得上做……」"
     },
     {
         "name": "セナリィ",
-        "message": "「我也觉得很抱歉。所以我已经按照顺序告诉你们了吧……！？」"
+        "message": "「这我也觉得很抱歉啊。所以我不是说了要按顺序来嘛……！？」"
     },
     {
         "name": "セナリィ",
-        "message": "「为了满足你们的要求，我甚至换上了兔女郎装，所以至少一个人一个……」"
+        "message": "「我已经应大家的要求换上了兔女郎装，至少一次一个人……」"
     },
     {
         "name": "クロト４",
-        "message": "「不可能啊，塞纳莉。我们大家都很喜欢你啊」"
+        "message": "「不行啦赛娜丽。因为我们大家都最喜欢赛娜丽了啊」"
     },
     {
-        "message": "无论对方是自己，在不知道的地方，塞纳莉喘息着，被内射的事情会发生。"
+        "message": "虽然对象是自己，但一想到赛娜丽会在自己不知道的时候娇喘，被内射什么的。"
     },
     {
-        "message": "然后，等到自己的轮次，被其他人的精液弄脏的塞纳莉出来？那种事情无法忍受——或者会为了第一个出场而打架。"
+        "message": "然后等轮到自己的时候，看到赛娜丽被除了自己以外的精液玷污？　我肯定受不了啊——不如说，我们可能还会为了谁先上而大打出手。"
     },
     {
-        "message": "所以干脆四个人一起做。这就是我们的结论。"
-    },
-    {
-        "name": "セナリィ",
-        "message": "「独占欲太强了吧！？」"
-    },
-    {
-        "message": "但是塞纳莉，白天对涅泽玛茵展示的独占欲是一样的——我们同时这样告诉她。"
+        "message": "既然如此，干脆四个人一起上吧。这就是我们的结论。"
     },
     {
         "name": "セナリィ",
-        "message": "「唔唔……这样说的话……但是……被这样想着，作为恋人真是无上的幸福啊……<emoji=heart04>」"
+        "message": "「独，独占欲也太强了吧！？」"
+    },
+    {
+        "message": "不过赛娜丽的独占欲，和白天妮泽玛茵表现出来的没什么两样啊——我们不约而同地说道。"
     },
     {
         "name": "セナリィ",
-        "message": "「啊，啊啊……不行了……阴道和肛门还有……右手和左手……<emoji=heart04>」"
+        "message": "「呜呜……被你们这么一说……不，不过……能被你们这么爱着，也算是恋人之福了呢……<emoji=heart04>」"
     },
     {
         "name": "セナリィ",
-        "message": "「我，全身都……会长的阴茎的热量，感受到了……<emoji=heart04>」"
+        "message": "「呀，呀啊……不妙啊……小穴，后庭，右手，左手……<emoji=heart04>」"
+    },
+    {
+        "name": "セナリィ",
+        "message": "「我的身体……全身上下，都在感受会长大人的肉棒传来的热量……<emoji=heart04>」"
     },
     {
         "name": "クロト１",
-        "message": "「嘴上说什么的，塞纳莉也在期待吧？连爱抚都没有，阴道里流出了大量的爱液，连肛门的入口都湿透了吧？」"
+        "message": "「说来说去，赛娜丽你也很期待吧？　我明明都没爱抚，小穴却已经爱液泛滥，连后庭的入口都湿透了哦？」"
     },
     {
         "name": "セナリィ",
-        "message": "「那，那是……会长们，勃起的阴茎，摩擦着我……<emoji=heart04>」"
+        "message": "「那，那是因为……会长大人们用勃起的肉棒，蹭来蹭去的缘故……<emoji=heart04>」"
     },
     {
         "name": "セナリィ",
-        "message": "「兴奋的雄性气味也比平时的四倍……<emoji=heart04>　啊啊啊，这样子……阴道不兴奋才是不可能的……<emoji=heart04>」"
+        "message": "「兴奋的雄性气味也比平时浓了4倍……<emoji=heart04>　哈啊啊啊，这种时候……小穴没被挑起兴致才更不可能……<emoji=heart04>」"
     },
     {
         "name": "セナリィ",
-        "message": "「啊啊啊……<emoji=heart04>　四根阴茎，每一根都在跳动……明白了<emoji=heart04>　四个人一起，我来陪你们吧<emoji=heart04>！」"
+        "message": "「啊啊啊啊……<emoji=heart04>　四根肉棒，全都一跳一跳地搏动着……我，我知道了啦<emoji=heart04>　我这就同时对付你们四个！」"
     },
     {
-        "message": "得到了理解，在说话的过程中，塞纳莉的阴道和肛门因为爱液变得更加湿润，我们把阴茎插了进去。──"
-    },
-    {
-        "name": "セナリィ",
-        "message": "「唔唔唔──啊，啊啊啊～～～<emoji=heart04><emoji=heart04><emoji=heart04>」"
+        "message": "既然得到了同意，四根肉棒就趁着说话的功夫，纷纷挺进赛娜丽已经因为爱液而湿透的小穴和后庭──"
     },
     {
         "name": "セナリィ",
-        "message": "「啊<emoji=heart04>　啊，啊，啊啊……<emoji=heart04>　哈，呼，呼……啊，啊啊，不行了<emoji=heart04>　这，这，这不行了啊<emoji=heart04>」"
+        "message": "「呜呜呜呜——哦，哦，哦哦哦哦～～～<emoji=heart04><emoji=heart04><emoji=heart04>」"
     },
     {
         "name": "セナリィ",
-        "message": "「呼……呼……呼……以前的，啊，安娜尔比兹，什么的……不是普通的刺激……呼……<emoji=heart04>」"
+        "message": "「嘎<emoji=heart04>　嘎哈，啊，啊啊……<emoji=heart04>　哈啊，呼，呼呜呜……糟，糟了<emoji=heart04>　这下，真的，很不妙啊<emoji=heart04>」"
     },
     {
         "name": "セナリィ",
-        "message": "「阴道和屁股的洞里，啊……会长的，大鸡巴，深深地插到根部……哦……<emoji=heart04>」"
-    },
-    {
-        "message": "初次经历压迫感而喘息的塞纳莉，但我们感受到的触感也同样是前所未有的。"
-    },
-    {
-        "message": "分裂成多个我的我，不知为何正在共享『其他我的』感知……一根鸡巴，感受到塞纳莉身体的温暖，四个人份……！"
+        "message": "「呼呜<emoji=heart04>　呼呜呜<emoji=heart04>　呼呜呜……<emoji=heart04>　以前的，肛，肛门之吻……完全没法比的刺激……哈呼呜呜<emoji=heart04>」"
     },
     {
         "name": "セナリィ",
-        "message": "「呼，呼……哦，哦……<emoji=heart04>　感觉的共享，真，真的是……？」"
+        "message": "「小穴和后庭里，咿<emoji=heart04>　会，会长大人的，大肉棒，全都插进去了……哦呜呜……<emoji=heart04>」"
+    },
+    {
+        "message": "虽然从未经历过的压迫感让赛娜丽喘息不已——但我们感受到的，也是从未经历过的感触。"
+    },
+    {
+        "message": "不知为何，分裂成复数的我，也能共享“其他我”的感觉……仅仅一根阴茎，就能感受到四个人分量的，赛娜丽的身体的温暖……！"
     },
     {
         "name": "セナリィ",
-        "message": "「明明插在阴道里，却感觉也插在肛门里……？」"
+        "message": "「呼呜，呼呜……喔，喔哦……<emoji=heart04>　居然真的，可以，共享感觉吗……？」"
     },
     {
         "name": "セナリィ",
-        "message": "「我用手握着的会长也……哦哦……<emoji=heart04>　阴道和肛门的紧缩，为什么能感受到？……那，那样的事……<emoji=heart04>」"
+        "message": "「明明插进的是小穴，却又有种插进了后庭的感觉……？」"
     },
     {
         "name": "セナリィ",
-        "message": "「啊啊……呼呼唔唔<emoji=heart04>　不过，那样的话，嗯，太好了，啊……<emoji=heart04>」"
+        "message": "「就连我手握的会长大人也是……哦哦哦<emoji=heart04>　不知为何，能感受到小穴和后庭的紧缩……？　这，这种事……<emoji=heart04>」"
     },
     {
         "name": "セナリィ",
-        "message": "「石头剪刀布输了，变成手淫的两位会长大人……哦哦哦<emoji=heart04>　看起来非常遗憾，所以我一直在意……<emoji=heart04>」"
+        "message": "「哈啊啊……呼呜呜呜呜<emoji=heart04>　不过，那样的话，倒，倒是，挺好的呢……<emoji=heart04>」"
     },
     {
         "name": "セナリィ",
-        "message": "「不过如果是感官共享的话……<emoji=heart04>　哦呼<emoji=heart04>　大家都能感受到……我会全心全意地爱你们……哦呼<emoji=heart04>」"
+        "message": "「因为猜拳输掉，只能负责手交的两位会长大人……哦哦哦<emoji=heart04>　看上去非常遗憾，所以，我一直很在意呢……<emoji=heart04>」"
     },
     {
         "name": "セナリィ",
-        "message": "「来，来<emoji=heart04>　动起来……<emoji=heart04>　和恋人的阴道和肛门一起享受……我也会努力手淫的<emoji=heart04>」"
-    },
-    {
-        "message": "听到可爱的话，四个人都兴奋起来——于是塞纳莉和我们的5P性爱开始了。"
+        "message": "「但如果能共享感觉的话……<emoji=heart04>　哦呼呜<emoji=heart04>　就能平等无异地……爱着大家了呢……哦嚯呜<emoji=heart04>」"
     },
     {
         "name": "セナリィ",
-        "message": "「嗯嗯哦！？　哦，哦，哦哦<emoji=heart04>　哦哦<emoji=heart04>　哦<emoji=heart04>　哦，哦，哦<emoji=heart04>　哦哦<emoji=heart04>　哦，哦哦，哦哦～！？」"
+        "message": "「来，来吧<emoji=heart04>　请动起来吧……<emoji=heart04>　好好享受恋人的小穴和后庭……手交我也会努力的啦<emoji=heart04>」"
+    },
+    {
+        "message": "听到她这番惹人怜爱的话，四位会长都燃起了欲火——就这样，赛娜丽与我们的5P性爱开始了。"
     },
     {
         "name": "セナリィ",
-        "message": "「啊、啊嗨──啊啊、哈啊、呼呼唔<emoji=heart04>　哦哦<emoji=heart04>　呀、呀别<emoji=heart04>　呀别、这样啊<emoji=heart04>　哦、哦、哦、哦<emoji=heart04>」"
+        "message": "「嗯嗯哦！？　哦，哦哦，哦哦哦<emoji=heart04>　哦哦哦<emoji=heart04>　呜哦<emoji=heart04>　哦，哦哦，哦哦<emoji=heart04>　哦哦哦哦<emoji=heart04>　哦，哦哦哦，哦哦哦～！？」"
     },
     {
         "name": "セナリィ",
-        "message": "「阴道深处，被、被深深地<emoji=heart04>　不断地插入，而……哦哦哦<emoji=heart04>」"
+        "message": "「啊，啊咿——啊啊，哈啊啊，呼呜呜呜<emoji=heart04>　哦哦哦<emoji=heart04>　不，不妙啊<emoji=heart04>　这，太不妙了啊<emoji=heart04>　呜哦，哦，哦哦，哦<emoji=heart04>」"
     },
     {
         "name": "セナリィ",
-        "message": "「呼、呼、呼呼呼～！？　肛门也同时<emoji=heart04>　被粗大的阴茎，被挖掘，被插入，啊啊啊<emoji=heart04>　哦哦～<emoji=heart04>」"
+        "message": "「小穴深处，被，被用力刮蹭着<emoji=heart04>　滋滋地，被顶着……哦哦哦哦<emoji=heart04>」"
     },
     {
         "name": "セナリィ",
-        "message": "「啊啊，啊，啊啊～<emoji=heart04>　当然了<emoji=heart04>　手淫也，不会，不会停下来，啊啊啊<emoji=heart04>　哦，呼呼<emoji=heart04>」"
+        "message": "「呼呜，呼呜，呼呜呜呜～！？　菊穴也同时被<emoji=heart04>　粗大的肉棒，用力地，顶了回来啊啊啊<emoji=heart04>　哦哦哦～<emoji=heart04>」"
     },
     {
         "name": "セナリィ",
-        "message": "「最喜欢的会长的阴茎<emoji=heart04>　不停地，不停地<emoji=heart04>　不停地，揉搓着……如果不能让您感到愉悦的话──嗯嗯，哦哦<emoji=heart04>」"
+        "message": "「哈啊啊，啊啊，啊，啊啊呜呜～<emoji=heart04>　当，当然了<emoji=heart04>　撸管，也，也也，不会停下来的哦哦哦<emoji=heart04>　哦哦，呼呜呜<emoji=heart04>」"
     },
     {
         "name": "セナリィ",
-        "message": "「我，幸好<emoji=heart04>　是双手都能用的，幸好<emoji=heart04>　熟练于使用手枪<emoji=heart04>　左右同时的动作<emoji=heart04>　不停地，不停地<emoji=heart04>　嗯哦<emoji=heart04>」"
-    },
-    {
-        "message": "被前后两个洞穴不断地抽插，平时的冷静和威严都消失了，但塞纳莉仍然没有停止手淫奉仕。"
-    },
-    {
-        "message": "不仅如此，她还用力收紧下腹，对阴道和肛门进行有节奏的收缩。"
+        "message": "「最喜欢会长大人的肉棒了<emoji=heart04>　要好好地，撸啊撸啊<emoji=heart04>　撸啊撸啊……不让你舒服起来的话——嗯嗯，呼哦哦<emoji=heart04>」"
     },
     {
         "name": "セナリィ",
-        "message": "「会长，感觉怎么样？　我的全身，都请您尽情享用……哦，哦哦<emoji=heart04>　嗯嗯<emoji=heart04>　哦<emoji=heart04>　哦哦<emoji=heart04>　嗯哦<emoji=heart04>」"
+        "message": "「我，太好了<emoji=heart04>　我是左右开弓，真是太好了<emoji=heart04>　用枪的时候，已经习惯了<emoji=heart04>　左右同时的动作<emoji=heart04>　撸啊撸啊<emoji=heart04>　咻咻……嗯哦哦<emoji=heart04>」"
+    },
+    {
+        "message": "前后湿透的两个穴口遭受着活塞运动的冲击，尽管快感已经强烈到平时的英姿早已荡然无存，赛娜丽却依然没有停止撸管的侍奉。"
+    },
+    {
+        "message": "光是这样就已经够灵巧的了，她还在下腹发力，让女性器和菊穴的紧缩也变得富有节奏。"
     },
     {
         "name": "セナリィ",
-        "message": "「嗯啊，哈啊，呼呼，呼哈啊，啊，啊啊<emoji=heart04>　哦，哦，哦哦哦<emoji=heart04>　更多地，插入，请，求您了<emoji=heart04>　哦<emoji=heart04>」"
+        "message": "「会长大人，舒服，吗？　请尽情享受我全身，每一个角落……哦哦，哦哦哦<emoji=heart04>　嗯嗯呜<emoji=heart04>　哦<emoji=heart04>　哦呜呜<emoji=heart04>　嗯哦哦<emoji=heart04>」"
     },
     {
         "name": "セナリィ",
-        "message": "「不用客气<emoji=heart04>　四个人，都要感到愉悦──哦哦哦哦！？」"
+        "message": "「嗯嗯啊，哈啊啊，呼呜呜，呼哈啊啊，啊，啊啊呜<emoji=heart04>　哦，哦哦，哦哦哦哦<emoji=heart04>　请，请再多，插插我吧<emoji=heart04>　哦呜<emoji=heart04>」"
     },
     {
         "name": "セナリィ",
-        "message": "「呼呼，哦，哦<emoji=heart04>　啊<emoji=heart04>　啊哦<emoji=heart04>　嗯哦哦哦哦！　哦，哦，哦哦<emoji=heart04>　啊，我，我要高潮了<emoji=heart04>　感觉好棒，马上就要来了，唔──<emoji=heart04>」"
+        "message": "「不用客气的，哦哦哦<emoji=heart04>　让4个人，全都舒服起来吧——哦哦哦哦哦！？」"
     },
     {
         "name": "セナリィ",
-        "message": "「哦哦──嗯哦哦哦哦～～～<emoji=heart04><emoji=heart04>」"
+        "message": "「呼呜呜，哦哦，哦<emoji=heart04>　啊<emoji=heart04>　啊呜呜<emoji=heart04>　嗯哦哦哦哦哦！　哦，哦哦，哦哦哦<emoji=heart04>　啊，要，要去了<emoji=heart04>　舒服的，马上就要来了，呜——<emoji=heart04>」"
     },
     {
         "name": "セナリィ",
-        "message": "「啊、啊～～～<emoji=heart04> 哈啊、哈啊啊<emoji=heart04> 啊唔<emoji=heart04> 活塞，不停地动啊<emoji=heart04> 啊唔<emoji=heart04> 哦<emoji=heart04> 哦哦哦哦！？」"
+        "message": "「哦哦哦——嗯哦哦哦哦哦哦哦哦哦～～～<emoji=heart04><emoji=heart04>」"
     },
     {
         "name": "セナリィ",
-        "message": "「对我高潮的样子不理不睬，这样子的活塞，哦<emoji=heart04> 哈啊<emoji=heart04> 哈啊啊<emoji=heart04> 会长大人，太、太禽兽了啊啊啊──啊唔<emoji=heart04>」"
+        "message": "「啊，啊～～～<emoji=heart04>　哈啊，哈啊啊啊<emoji=heart04>　啊呜呜<emoji=heart04>　抽插，这么毫不停歇的话<emoji=heart04>　哦呜呜<emoji=heart04>　哦哦<emoji=heart04>　哦哦哦哦哦！？」"
     },
     {
         "name": "セナリィ",
-        "message": "「但、但是<emoji=heart04> 我、我没事的<emoji=heart04> 哦哦～<emoji=heart04> 哦哦<emoji=heart04> 哦哦哦<emoji=heart04> 今天有四个人陪我，啊<emoji=heart04>」"
+        "message": "「不顾还在高潮的我，这样的抽插，呜哦<emoji=heart04>　呼呜呜<emoji=heart04>　呼呜呜呜<emoji=heart04>　会长大人，太，太像野兽了——哦呜呜<emoji=heart04>」"
     },
     {
         "name": "セナリィ",
-        "message": "「觉、觉悟，哈<emoji=heart04> 哈啊<emoji=heart04> 我已经做好了，啊<emoji=heart04> 哦<emoji=heart04> 哦唔<emoji=heart04> 哦哦<emoji=heart04> 哦哦哦哦哦<emoji=heart04>」"
+        "message": "「但，但是哦<emoji=heart04>　我，还，还不要紧的<emoji=heart04>　哦哦哦～<emoji=heart04>　哦哦<emoji=heart04>　哦哦哦哦<emoji=heart04>　今天可是，有4个人，陪您呢，啊<emoji=heart04>」"
     },
     {
         "name": "セナリィ",
-        "message": "「啊──啊啊啊<emoji=heart04> 更、更快点<emoji=heart04> 做给我啊<emoji=heart04> 可以的，哦哦哦<emoji=heart04>」"
+        "message": "「我，我已经，呼呜<emoji=heart04>　呼呜呜<emoji=heart04>　做好，觉悟了，啊<emoji=heart04>　哦呜<emoji=heart04>　哦，哦呜<emoji=heart04>　哦哦呜<emoji=heart04>　哦哦哦哦呜<emoji=heart04>」"
     },
     {
         "name": "セナリィ",
-        "message": "「会长大人，更多地求我<emoji=heart04> 哦哦哦<emoji=heart04> 求你的恋人，求我吧──啊唔唔<emoji=heart04> 哦哦，哦哦<emoji=heart04> 哦哦～」"
-    },
-    {
-        "message": "塞纳莉的阴道和肛门都滑得过头，阴茎几乎要滑出来的感觉。"
-    },
-    {
-        "message": "尽管如此，还说可以更用力──无论她喘得多厉害，双手握住的阴茎的手淫动作都没有变。"
-    },
-    {
-        "message": "我们每个人的性欲都更加高涨了──！"
+        "message": "「啊——啊啊啊<emoji=heart04>　再，<emoji=heart04>　再快一点<emoji=heart04>　也没关系的，哦哦哦哦<emoji=heart04>」"
     },
     {
         "name": "セナリィ",
-        "message": "「啊──啊啊啊啊啊！？ 哦哦哦<emoji=heart04> 哦<emoji=heart04> 哦哦哦哦哦<emoji=heart04> 啊啊啊啊啊～～～<emoji=heart04><emoji=heart04><emoji=heart04>」"
+        "message": "「会长大人，请尽情渴求我吧<emoji=heart04>　哦哦哦<emoji=heart04>　渴求我这个，您的恋人——哦呜呜呜<emoji=heart04>　哦哦哦，哦哦<emoji=heart04>　哦哦哦～！」"
+    },
+    {
+        "message": "无论是小穴还是菊穴都太过湿滑，让赛娜丽甚至产生了肉棒快要滑出去的感觉。"
+    },
+    {
+        "message": "但她却说可以再用力一点——无论怎样娇喘，她那双手在撸动肉棒时的细致程度都没有丝毫改变。"
+    },
+    {
+        "message": "能感觉到我们所有人的性欲都变得更加高涨了——！"
     },
     {
         "name": "セナリィ",
-        "message": "「阴茎，硬得不行<emoji=heart04> 这样子太棒了<emoji=heart04> 哦哦哦<emoji=heart04> 我的阴道，弱的地方，全都──哦哦哦哦<emoji=heart04>」"
+        "message": "「啊——啊啊啊啊！？　噢噢噢噢<emoji=heart04>　噢<emoji=heart04>　噢噢噢噢噢噢噢<emoji=heart04>　啊啊啊啊啊啊啊啊啊啊啊～～～<emoji=heart04><emoji=heart04><emoji=heart04>」"
     },
     {
         "name": "セナリィ",
-        "message": "「啊、啊呜、啊、啊啊啊啊！？　从肛门那边被顶的阴茎<emoji=heart04>　哦<emoji=heart04>　阴道里的阴茎<emoji=heart04>　哦哦哦<emoji=heart04>」"
+        "message": "「大○鸡，硬邦邦的，好棒啊<emoji=heart04>　这样好爽啊<emoji=heart04>　噢呜呜呜<emoji=heart04>　我的小穴，总是被顶到敏感的地方——噢噢噢噢噢噢嗯<emoji=heart04>」"
     },
     {
         "name": "セナリィ",
-        "message": "「在我肚子里，阴茎的前端撞在一起──啊、啊、啊啊啊啊！？　啊啊啊啊<emoji=heart04><emoji=heart04>　啊、啊啊啊啊<emoji=heart04>」"
+        "message": "「啊，啊呜，啊，啊啊啊啊啊！？　从菊穴这边顶过来的大○鸡<emoji=heart04>　噢噢<emoji=heart04>　和小穴里的大○鸡<emoji=heart04>　噢噢噢呜<emoji=heart04>」"
     },
     {
         "name": "セナリィ",
-        "message": "「啊、啊啊啊啊<emoji=heart04>　哦哦哦<emoji=heart04>　哦哦哦<emoji=heart04>　哦哦哦<emoji=heart04>　啊、啊、啊啊啊<emoji=heart04>　啊、啊、啊啊啊啊、哦哦哦<emoji=heart04>」"
+        "message": "「在我的肚子里，大○鸡的前端在相互碰撞——啊，呃啊，啊啊，啊啊啊啊！？　哈咿咿咿咿<emoji=heart04><emoji=heart04>　啊，啊啊呜呜呜<emoji=heart04>」"
     },
     {
         "name": "セナリィ",
-        "message": "「又、又要高潮了<emoji=heart04>　阴道和肛门<emoji=heart04>　同时高潮、要去了──哦哦、哦哦哦～～～<emoji=heart04><emoji=heart04><emoji=heart04>」"
+        "message": "「好，好响啊啊<emoji=heart04>　噢呜呜呜<emoji=heart04>　噢噢噢噢<emoji=heart04>　噢噢噢噢<emoji=heart04>　啊，啊啊，啊啊啊啊<emoji=heart04>　啊，啊，啊啊呜呜，啊噢噢噢<emoji=heart04>」"
     },
     {
         "name": "セナリィ",
-        "message": "「哦哦哦哦～～～<emoji=heart04><emoji=heart04><emoji=heart04>　啊──啊～～～！？　啊、啊、啊啊啊、啊啊啊～～～<emoji=heart04><emoji=heart04>」"
-    },
-    {
-        "message": "穿着可爱的兔女郎装，全身像通了电流一样抽搐的塞纳莉。"
-    },
-    {
-        "message": "我们担心她高潮过度，但她似乎早已料到，阴道、肛门和双手的收缩力度都增加了。"
+        "message": "「我——我又要去惹<emoji=heart04>　小穴和菊穴都要<emoji=heart04>　同时高潮了——噢噢，噢噢噢噢～～～<emoji=heart04><emoji=heart04><emoji=heart04>」"
     },
     {
         "name": "セナリィ",
-        "message": "「不要停下来<emoji=heart04>　继续动，请<emoji=heart04>　嗯<emoji=heart04>　哦<emoji=heart04>　哦哦<emoji=heart04>　哦哦、哦、哦～～～<emoji=heart04>」"
+        "message": "「噢去呜呜呜——嗯噢噢噢噢～～～<emoji=heart04><emoji=heart04><emoji=heart04>　啊——啊～～～！？　啊，啊啊，啊啊啊啊，啊啊啊～～～<emoji=heart04><emoji=heart04>」"
+    },
+    {
+        "message": "赛娜丽依旧穿着可爱的兔女郎装，却像被电击了一般全身抽动。"
+    },
+    {
+        "message": "我们都担心她高潮过头，但她似乎看穿了我们的顾虑，小穴，菊穴和双手的夹持都变得更紧了。"
     },
     {
         "name": "セナリィ",
-        "message": "「男人们在做爱时停下来，是不喜欢的吧？　别管我，继续抽插──哦、哦、哦、哦哦<emoji=heart04>」"
+        "message": "「不要停<emoji=heart04>　请不要管我，继续动吧<emoji=heart04>　嗯呜<emoji=heart04>　嚯哦<emoji=heart04>　哦哦呜<emoji=heart04>　嚯哦，哦，哦哦……<emoji=heart04>」"
     },
     {
         "name": "セナリィ",
-        "message": "「难得的5P，啊<emoji=heart04>　难得的<emoji=heart04>　和兔女郎的我交合，啊<emoji=heart04>」"
+        "message": "「男士们都不希望，性交做到一半就停下了吧……？　请不要在意我，继续抽插吧——嚯哦，哦呜，哦，哦哦哦<emoji=heart04>」"
     },
     {
         "name": "セナリィ",
-        "message": "「最后不要停下来……请尽情享受──啪、啪<emoji=heart04><emoji=heart04>」"
+        "message": "「难得的5P哦<emoji=heart04>　难得的……嚯哦<emoji=heart04>　和兔女郎我交合的机会哦……哦哦呜呜<emoji=heart04>」"
+    },
+    {
+        "name": "セナリィ",
+        "message": "「请不要中途停下来……好好享受吧——蹦，蹦<emoji=heart04><emoji=heart04>」"
     },
     {
         "name": "クロト１",
-        "message": "「塞纳莉……！！」"
+        "message": "「赛娜丽……！！」"
     },
     {
         "name": "クロト２",
-        "message": "「这样子被兔子模仿的话……我们！！」"
+        "message": "「你这样模仿兔子……我们都！！」"
     },
     {
         "name": "セナリィ",
-        "message": "「更加<emoji=heart04>　兴奋吧，哦哦<emoji=heart04>　请吧<emoji=heart04>　哦，哦哦<emoji=heart04>　会长的鸡鸡，四根都很可爱呢……跳吧<emoji=heart04>　跳吧<emoji=heart04>」"
+        "message": "「请更加<emoji=heart04>　兴奋起来，哦哦<emoji=heart04>　蹦<emoji=heart04>　哦，哦哦<emoji=heart04>　会长大人的4根肉棒，全都好可爱……蹦<emoji=heart04>　蹦哦<emoji=heart04>」"
     },
     {
-        "message": "塞纳莉的兔子情趣。四个人全都尽心尽力地服务，虽然淫荡但充满爱意的性爱──"
+        "message": "赛娜丽的兔女郎色情装扮。她对四个人都无比用心，虽然行为下流，但充满着爱意──"
     },
     {
-        "message": "我们全员的阴茎都感到一阵寒颤，精液一点点地涌上来。"
-    },
-    {
-        "name": "セナリィ",
-        "message": "「啊，啊哈哈，啊啊啊<emoji=heart04>　鸡鸡，变硬了，要——哦，哦哦<emoji=heart04>　马上，要射了，对吧<emoji=heart04>」"
+        "message": "我们所有人的肉棒都为之一颤，能感觉到精液在肉棒内一点点向上爬升。"
     },
     {
         "name": "セナリィ",
-        "message": "「请多多在兔子身上播种吧<emoji=heart04>　跳<emoji=heart04>　跳<emoji=heart04>　跳——哦，哦哦哦，哦哦～！？」"
+        "message": "「啊，啊哈啊，啊啊啊<emoji=heart04>　肉棒，又变大了──嚯哦，哦哦哦<emoji=heart04>　马上，就要射出来了，对吧<emoji=heart04>」"
     },
     {
         "name": "セナリィ",
-        "message": "「哦，哦，哦，哦，哦，哦，哦哦<emoji=heart04>　啪啪，不行了<emoji=heart04>　不行了，不行了，啊，啊，啊唔～<emoji=heart04>」"
+        "message": "「请把精液全都灌进兔子的体内吧<emoji=heart04>　跳<emoji=heart04>　跳<emoji=heart04>　跳——哦，哦哦哦哦哦，哦哦哦～！？」"
     },
     {
         "name": "セナリィ",
-        "message": "「哦，求求你，求求你了<emoji=heart04>　哦哦<emoji=heart04>　哦哦<emoji=heart04>　说那句话吧<emoji=heart04>　说我是你的，哦哦<emoji=heart04>」"
+        "message": "「哦，哦哦，哦哦，哦，哦哦，哦，哦哦哦<emoji=heart04>　胀得好紧，糟糕了<emoji=heart04>　糟糕，糟糕了啊，哇，啊，啊呜呜呜～<emoji=heart04>」"
     },
     {
         "name": "セナリィ",
-        "message": "「呼，呼唔<emoji=heart04>　哦哦<emoji=heart04>　我，想从四位会长那里，听到爱的告白——哇啊啊——哦哦，哦哦，哦哦<emoji=heart04>」"
+        "message": "「求，求求你，求求你们了啦<emoji=heart04>　嚯哦嗯<emoji=heart04>　哦哦哦<emoji=heart04>　把那句话，那句话说出来啦<emoji=heart04>　说，哦哦哦<emoji=heart04>　说让我成为你的女人，那句话啦<emoji=heart04>」"
+    },
+    {
+        "name": "セナリィ",
+        "message": "「呼唔，呼唔唔唔<emoji=heart04>　哦哦哦<emoji=heart04>　我想被四位会长大人，进行爱的告白——哇啊啊啊——嚯哦哦，哦哦哦，哦哦<emoji=heart04>」"
     },
     {
         "name": "クロト１",
-        "message": "「塞纳莉……！」"
+        "message": "「赛娜丽……！」"
     },
     {
         "name": "クロト２",
-        "message": "「我的……不！」"
+        "message": "「成为……不！」"
     },
     {
         "name": "クロト３",
-        "message": "「我们的女孩——」"
+        "message": "「成为我们的女人——！」"
     },
     {
         "name": "クロト４",
-        "message": "「变成我们的吧！　尽情高潮吧！！」"
+        "message": "「吧！　尽情高潮吧！！」"
     },
     {
         "name": "セナリィ",
-        "message": "「嗯咿咿咿咿咿<emoji=heart04><emoji=heart04><emoji=heart04>　啊，啊，啊，啊～～～<emoji=heart04>　我要变成你的了<emoji=heart04>　我要变成你的了<emoji=heart04>　我一辈子都是会长的东西——哦哦哦～！？」"
+        "message": "「嗯呀呜呜呜呜呜呜<emoji=heart04><emoji=heart04><emoji=heart04>　啊，啊，啊，啊啊～～～<emoji=heart04>　我愿意<emoji=heart04>　我愿意<emoji=heart04>　我这一生，都是会长大人的东西──哦哦哦哦～！？」"
     },
     {
         "name": "セナリィ",
-        "message": "「哦哦哦哦哦哦哦哦哦哦<emoji=heart04><emoji=heart04>　哦哦，要高潮了<emoji=heart04>　大的射进来了<emoji=heart04>　高潮，高潮，高潮高潮高潮——<emoji=heart04><emoji=heart04>」"
+        "message": "「哦哦哦哦哦哦哦哦哦哦哦哦哦哦<emoji=heart04><emoji=heart04>　哦哦哦，丢了<emoji=heart04>　好大的高潮来了<emoji=heart04>　丢了丢了，丢了丢了丢了丢了──<emoji=heart04><emoji=heart04>」"
     },
     {
         "name": "セナリィ",
-        "message": "「高潮咿咿咿咿咿咿咿咿～～～～<emoji=heart04><emoji=heart04><emoji=heart04>」"
+        "message": "「丢了呜呜呜呜呜呜呜呜呜呜～～～～<emoji=heart04><emoji=heart04><emoji=heart04>」"
     },
     {
         "name": "セナリィ",
-        "message": "「哦哦哦哦哦哦哦哦哦哦哦<emoji=heart04><emoji=heart04>　哦哦哦哦哦哦<emoji=heart04>　哦哦哦哦哦哦哦～～～<emoji=heart04><emoji=heart04><emoji=heart04>」"
+        "message": "「哦哦哦哦哦哦哦哦哦～<emoji=heart04>　哦哦哦哦哦哦<emoji=heart04>　哦哦哦哦哦哦哦哦哦～～～……<emoji=heart04><emoji=heart04><emoji=heart04>」"
     },
     {
-        "message": "四个人同时射精——塞纳莉美丽的身体瞬间被弄脏。"
-    },
-    {
-        "name": "セナリィ",
-        "message": "「哦、哦哦<emoji=heart04>　哦哦哦～<emoji=heart04>　哦哦哦哦哦<emoji=heart04>　精液，太棒了……哦啊啊啊……啊，啊，啊啊啊──<emoji=heart04>」"
+        "message": "4人同时射精——赛娜丽美丽的身体瞬间被玷污。"
     },
     {
         "name": "セナリィ",
-        "message": "「阴道……啊啊<emoji=heart04>　啊嗯<emoji=heart04>　呼，呃<emoji=heart04>　然后，哦，脸也<emoji=heart04>」"
+        "message": "「哦，哦呜呜<emoji=heart04>　哦哦哦哦～<emoji=heart04>　哦哦哦呜呜哦哦哦<emoji=heart04>　精液，好厉害……哦啊啊啊啊……啊，啊，啊啊啊啊──<emoji=heart04>」"
     },
     {
         "name": "セナリィ",
-        "message": "「全身都被会长的精液浇到……哦，呃<emoji=heart04>　哈，啊啊啊……太，幸福了，啊啊啊<emoji=heart04><emoji=heart04>」"
-    },
-    {
-        "message": "阴茎麻痹般的大量射精四人份——终于结束了……"
+        "message": "「小穴……啊呜呜<emoji=heart04>　后庭……呼，呜呜……<emoji=heart04>　然后，连，连脸上都，哦哦……<emoji=heart04>」"
     },
     {
         "name": "セナリィ",
-        "message": "「嗯啊啊啊<emoji=heart04>　哈啊啊～<emoji=heart04>　哈啊啊啊～<emoji=heart04>　哈呼呼，呼呼呼～<emoji=heart04>」"
+        "message": "「全身上下，都被会长大人的精液，啊，浇满了……哦哦，呜呜……哈啊，啊啊啊……好，好幸福，哎哎哎……<emoji=heart04><emoji=heart04>」"
+    },
+    {
+        "message": "让肉棒都发麻的大量射精，四人份的——终于终于宣告结束……"
     },
     {
         "name": "セナリィ",
-        "message": "「这，这<emoji=heart04>　5P……太棒了，快感<emoji=heart04>　啊，还<emoji=heart04>　阴道高潮<emoji=heart04>　高潮<emoji=heart04>　唔唔──哦<emoji=heart04>」"
+        "message": "「嗯嗯啊啊啊啊啊……<emoji=heart04>　哈啊啊啊～……哈啊啊啊啊～……哈呼呜呜，呼呜呜呜～……<emoji=heart04>」"
     },
     {
         "name": "セナリィ",
-        "message": "「啊，啊咿<emoji=heart04>　高潮的冲击，屁股也<emoji=heart04>　哦，哦哦<emoji=heart04>　甜美的高潮，停不下来，哇，啊<emoji=heart04>　哈唔<emoji=heart04>」"
-    },
-    {
-        "message": "即使性交结束，塞纳莉的身体还在不停地抽搐。今天应该是真的不行了……我们这么想着准备抽身，但。"
+        "message": "「这，这……5P……快感太，强烈了，啊……呼，呜<emoji=heart04>　啊，小穴——又要去了<emoji=heart04>　高潮……呜呜呜——哦<emoji=heart04>」"
     },
     {
         "name": "セナリィ",
-        "message": "「啊，不，不行<emoji=heart04>　还，不行<emoji=heart04>　用手握住的会长们也<emoji=heart04>」"
+        "message": "「啊，啊咿……<emoji=heart04>　高潮的冲击，让菊穴也——哦，哦哦……<emoji=heart04>　甜蜜的高潮，停，停不下来，哇，啊……<emoji=heart04>　啊呜呜<emoji=heart04>」"
+    },
+    {
+        "message": "即使性交已经结束，赛娜丽的身体还在不停地抽动。今天再怎么说也撑不住了吧……我们几个如此想着，正准备把腰抽出来。"
     },
     {
         "name": "セナリィ",
-        "message": "「我的阴道或者屁股<emoji=heart04>　哪个都可以，想要<emoji=heart04>」"
+        "message": "「啊，不，不行……<emoji=heart04>　还没完呢……<emoji=heart04>　用小手给我撸管的会长们也……<emoji=heart04>」"
     },
     {
         "name": "セナリィ",
-        "message": "「没有区别<emoji=heart04>　想要爱<emoji=heart04>　四个恋人之间的优劣，我不想区分<emoji=heart04>」"
+        "message": "「我，我的小穴，或者菊穴……想让，你们，哪，哪个都行……呜<emoji=heart04>」"
     },
     {
         "name": "セナリィ",
-        "message": "「请<emoji=heart04>　换个位置<emoji=heart04>　满足为止<emoji=heart04>　抱住塞纳莉<emoji=heart04>」"
-    },
-    {
-        "message": "这样说的话，就停不下来了。我们所有人都会抱着塞纳莉直到满足为止。"
+        "message": "「我希望你们，平等地<emoji=heart04>　爱着我……<emoji=heart04>　不想给四个恋人，排什么优劣……<emoji=heart04>」"
     },
     {
         "name": "セナリィ",
-        "message": "「请随意，我亲爱的<emoji=heart04> 因为<emoji=heart04> 我爱你，会长大人——请来……<emoji=heart04>」"
+        "message": "「来吧……调，调换一下位置……尽情地……享用赛娜丽直到满意为止吧……蹦<emoji=heart04>」"
     },
     {
-        "message": "然后我们改变了位置，向塞纳莉倾泻了满腔的欲望。"
+        "message": "被她这么一说，就再也停不下来了。明明知道这样下去只会把她操到精疲力竭，我们所有人却还是欲罢不能。"
     },
     {
-        "message": "最终每个人射了5发——总共20发，注入了兔女郎塞纳莉的体内，让她喝下去，然后射在她身上。"
+        "name": "セナリィ",
+        "message": "「求之不得，呢<emoji=heart04>　因为<emoji=heart04>　我爱着你们，嘛<emoji=heart04>　会长大人——来吧……呜<emoji=heart04>」"
     },
     {
-        "message": "然后我们五个人都筋疲力尽地进入了泥一样的睡眠。──"
+        "message": "于是我们调换了位置，尽情向赛娜丽发泄我们的欲火。"
+    },
+    {
+        "message": "最终每人5发——一共20发全都灌进，喝进，浇在了兔女郎赛娜丽身上。"
+    },
+    {
+        "message": "于是精疲力尽的五个人全都陷入了泥一般的沉睡中──"
     }
 ]

@@ -1,9 +1,9 @@
 [
     {
-        "message": "……我喜欢阿尼玛学姐。"
+        "message": "……我喜欢阿妮玛学长。"
     },
     {
-        "message": "自从意识到这一点以来，已经过去了一段时间。然而，始终无法迈出最后一步，感到有些烦躁，某个放学后的事情──"
+        "message": "自从我意识到自己的感情后，已经过了好一段时间。但是，我一直无法迈出最后的一步，心里很不是滋味。就在某一天的放学后──"
     },
     {
         "name": "アニマ",
@@ -11,325 +11,325 @@
     },
     {
         "name": "アニマ",
-        "message": "「阿尼玛的召唤这么快就响应，真是谦逊的心态，会长」"
+        "message": "「真亏你能立刻回应阿妮玛们的邀请啊。你可真用心，会长」"
     },
     {
         "name": "クロト",
-        "message": "「哎！？　阿尼玛学姐有两个！？」"
+        "message": "「哎！？　有两个阿妮玛学长！？」"
     },
     {
         "name": "アニマ",
-        "message": "「嘿嘿，吓了一跳吧？　新发明了『分裂药』……并且成功进行了实验」"
+        "message": "「嘻嘻，吓到了吗？　我发明了一种新的“分裂药”……而且实验成功了」"
     },
     {
         "name": "アニマ",
-        "message": "「这样可爱的阿尼玛有两个并排，真是壮观吧？」"
+        "message": "「像这样两个可爱的阿妮玛站在一起，很壮观吧？」"
     },
     {
         "name": "アニマ",
-        "message": "「这样就可以把研究交给分裂体，本体的阿尼玛可以采取不同的行动！」"
+        "message": "「这样一来，阿妮玛就可以将研究交给分裂体，本体则可以自由行动了！」"
     },
     {
         "name": "アニマ",
-        "message": "「不过，像往常一样，有副作用。所以想借用你的力量，这就是召唤你的原因」"
+        "message": "「但是，按照惯例，这个药有副作用。所以我就把你叫来了，想借助你的力量」"
     },
     {
         "name": "アニマ",
-        "message": "「……总之，最低限的说明义务已经完成了──」"
+        "message": "「……总之，我已经履行了最低限度的说明义务──」"
     },
     {
         "name": "アニマ",
-        "message": "「抱歉，已经到极限了。阿尼玛的分裂体──阿尼玛乙！」"
+        "message": "「抱歉，我到极限了。阿妮玛的分裂体——阿妮玛乙！」"
     },
     {
         "name": "アニマ",
-        "message": "「嘿嘿……好的」"
+        "message": "「嘻嘻……好啊」"
     },
     {
-        "message": "我被带到购物部的深处，打开职员室的门，被推进房间里。"
+        "message": "我被带到小卖部的深处，工作人员室的门被打开，我被推进了室内。"
     },
     {
-        "message": "然而那里不是职员室，而是通过阿尼玛学姐的发明『异次元门』连接的地方──"
+        "message": "但那里并不是工作人员室，而是通过阿妮玛学姐的发明『异空间门』连接的另一个地方──"
     },
     {
-        "message": "阿尼玛学姐的房间……也可以说是研究室。"
+        "message": "阿妮玛学姐的房间……不，是研究室。"
     },
     {
         "name": "アニマ",
-        "message": "「对不起，会长。……虽然不是恋人，但总是让你做这种事<emoji=heart04>」"
+        "message": "「抱歉啊，会长……明明不是恋人，却总是让你做这种事<emoji=heart04>」"
     },
     {
         "name": "アニマ乙",
-        "message": "「像平时实验后一样，呼呼<emoji=heart04>　……帮忙处理阿尼玛的性欲」"
+        "message": "「就像平时做完实验后一样，呼呼<emoji=heart04>　……希望你帮忙处理阿妮玛的性欲」"
     },
     {
-        "message": "……是的，我和阿尼玛学姐不是恋人。"
+        "message": "……没错，我和阿妮玛学姐并不是恋人。"
     },
     {
-        "message": "虽然不是恋人，但由于各种经历和并非不好的好处感，已经多次亲密接触。"
-    },
-    {
-        "name": "アニマ",
-        "message": "「啊啊，依然很厉害啊……你的鸡鸡，简直不可思议地大而热……嗯哼<emoji=heart04>」"
-    },
-    {
-        "name": "アニマ乙",
-        "message": "「坚硬而强壮……啊啊，只是阴道接触，就感觉很舒服……啊嗯，感觉到了……<emoji=heart04>」"
-    },
-    {
-        "message": "看来，阿尼玛学姐本体戴着骷髅项圈，分裂体的阿尼玛学姐（乙）戴着蝴蝶结。"
+        "message": "虽然不是恋人，但因为各种缘由和并非不情愿的甜头，我们已经多次肌肤相亲了。"
     },
     {
         "name": "アニマ",
-        "message": "「哈啊<emoji=heart04>　……怎么样？　呼呼……你也觉得阿尼玛的极品阴道三明治很舒服吧？<emoji=heart04>　嗯嗯，哈，哈<emoji=heart04>」"
+        "message": "「啊啊，还是一样厉害呢……你的肉棒，变得又大又热，简直难以置信……嗯呼<emoji=heart04>」"
     },
     {
         "name": "アニマ乙",
-        "message": "「嗯唔、明白了<emoji=heart04>　阴茎又，咚咚地变大了……♪　嗯哈哈，嗯嗯……阴道三明治，说很好吃<emoji=heart04>　嗯呜呜呜<emoji=heart04>」"
+        "message": "「又硬又雄伟……呼啊啊，明明只是小穴在摩擦而已，却好舒服……啊嗯，好有感觉……<emoji=heart04>」"
+    },
+    {
+        "message": "看来阿妮玛学姐本人脖子上戴着骷髅颈环，而分裂体的阿妮玛学姐（乙）则是戴着蝴蝶结。"
     },
     {
         "name": "アニマ",
-        "message": "「啊啊，不行了。已经忍不住了。要动了……嗯嗯，啊啊啊<emoji=heart04>！」"
+        "message": "「哈啊啊<emoji=heart04>　……怎么样？　呼唔唔……被阿妮玛的极品小穴三明治夹着，舒服吗？<emoji=heart04>　嗯嗯，哈啊，哈啊<emoji=heart04>」"
     },
     {
         "name": "アニマ乙",
-        "message": "「嗯咳，哈……<emoji=heart04>　阿尼玛，突然动了……咕咚，啊啊啊<emoji=heart04>　阴道摩擦……嗯咳，啊啊啊<emoji=heart04>　啊呜呜呜<emoji=heart04>」"
+        "message": "「嗯呜呜，我感觉得到哦<emoji=heart04>　肉棒又一颤一颤地变大了……♪　嗯哈啊，嗯嗯……小穴三明治在说，它觉得很美味呢<emoji=heart04>　嗯呼唔唔唔<emoji=heart04>」"
     },
     {
         "name": "アニマ",
-        "message": "「啊嗯<emoji=heart04>　太棒了，太棒了！　啊啊……比平时更会长阴茎，感觉很好<emoji=heart04>　感觉很好……啊啊啊！」"
+        "message": "「啊啊，不行了。我已经忍不住了。要动了哦……嗯嗯，呼啊啊啊嗯<emoji=heart04>！」"
     },
     {
         "name": "アニマ乙",
-        "message": "「忘了吗……？　嗯嗯，哈……啊啊，阿尼玛们的精神和感觉是连接的，性欲变成了2倍，所以发情了吧？　……啊啊啊<emoji=heart04>」"
+        "message": "「嗯呜，哈啊……<emoji=heart04>　阿妮玛，突然动起来的话……呼呜，呼啊啊啊嗯<emoji=heart04>　小穴会摩擦到的……嗯呜，哈啊啊啊<emoji=heart04>　啊呼唔唔嗯<emoji=heart04>」"
     },
     {
         "name": "アニマ",
-        "message": "「2倍感觉好，这样的根本忍不住……<emoji=heart04>　啊啊，阴茎的巨大龟头，摩擦着阴蒂，感觉很好<emoji=heart04>　啊，啊，啊啊<emoji=heart04>」"
+        "message": "「哈啊嗯<emoji=heart04>　好厉害，好厉害！　哈啊啊……会长的肉棒，比平时还要舒服<emoji=heart04>　好舒服哦……噫啊啊嗯！」"
     },
     {
         "name": "アニマ乙",
-        "message": "「啊啊啊<emoji=heart04>　啊啊啊<emoji=heart04>　感觉2倍，这么舒服……啊啊啊<emoji=heart04>　腰跟着阿尼玛，不由自主地动起来<emoji=heart04>　啊啊，啊啊……感觉好<emoji=heart04>」"
+        "message": "「你忘了吗……？　嗯嗯，哈啊……呼啊啊，阿妮玛们的精神和感觉是连在一起的，性欲变成了两倍，所以才会发情的吧？　……嗯啊啊嗯<emoji=heart04>」"
     },
     {
         "name": "アニマ",
-        "message": "「啊啊啊<emoji=heart04>　哈，哈，啊啊<emoji=heart04>　嗯嗯<emoji=heart04>　好，好<emoji=heart04>　感觉2倍，越来越舒服<emoji=heart04>　嗯哈，阿尼玛！　这样继续——<emoji=heart04>」"
+        "message": "「两倍的舒服，这种感觉怎么可能忍得住……<emoji=heart04>　呼噫，肉棒的粗大冠状沟摩擦着阴蒂，好舒服哦<emoji=heart04>　啊，啊，呼啊啊<emoji=heart04>」"
     },
     {
         "name": "アニマ乙",
-        "message": "「啊，阿尼玛已经，忍不住了……！　会长<emoji=heart04><emoji=heart04>！　咻咻，咻，咻咻<emoji=heart04>」"
-    },
-    {
-        "message": "阿尼玛（乙）突然，给我深吻，舌头纠缠在一起。"
-    },
-    {
-        "name": "アニマ乙",
-        "message": "「咻咻，咻咻，啊哈<emoji=heart04>！　喜欢你，喜欢你<emoji=heart04>　啊啊<emoji=heart04>　喜欢喜欢，咻咻，咻咻<emoji=heart04>　咻，咻咻<emoji=heart04>　和你做爱，感觉好<emoji=heart04>」"
+        "message": "「呼啊啊嗯<emoji=heart04>　哈啊啊嗯<emoji=heart04>　敏感度两倍，竟然会这么舒服……嗯啊啊嗯<emoji=heart04>　腰会不由自主地配合阿妮玛，自己动起来的<emoji=heart04>　呼噫，呼噫噫……好舒服<emoji=heart04>」"
     },
     {
         "name": "アニマ",
-        "message": "「啊、阿尼玛乙！！　你、你突然在说什么啊！？　阿尼玛喜欢会长……这种话……嗯、啊、啊啊、啊啊啊<emoji=heart04>！」"
+        "message": "「呼咿咿嗯<emoji=heart04>　哈啊，哈啊，哈啊啊<emoji=heart04>　嗯嗯嗯<emoji=heart04>　好棒，好棒啊<emoji=heart04>　敏感度两倍，越来越舒服了<emoji=heart04>　嗯哈，阿妮玛！　就是这样，继续——<emoji=heart04>」"
     },
     {
         "name": "アニマ乙",
-        "message": "「嗯呼、是阿尼玛不好啊<emoji=heart04>　……嗯哈、啊、啊啊<emoji=heart04>　嗯嗯、阴道动起来，啊、阿尼玛的感觉高涨起来……啊啊啊<emoji=heart04><emoji=heart04>」"
+        "message": "「阿，阿妮玛已经忍不住了……！　会长<emoji=heart04><emoji=heart04>！　呣啾，啾，咕啾噜<emoji=heart04>」"
+    },
+    {
+        "message": "阿妮玛学姐（乙）突然和我深吻起来，舌头也缠了上来。"
     },
     {
         "name": "アニマ乙",
-        "message": "「啊、嗯、啊……<emoji=heart04>　咯咯……你也对会长的喜欢膨胀了……嗯！　快要爆炸了吧<emoji=heart04>？　啊、啊、嗯哈、啊啊啊<emoji=heart04><emoji=heart04>」"
+        "message": "「嗯啾，啾，噗哈啊<emoji=heart04>！　我喜欢你，好喜欢你<emoji=heart04>　哈啊啊<emoji=heart04>　好喜欢，好喜欢，嗯咕啾，啾噜<emoji=heart04>　啾噗，啾呣呣<emoji=heart04>　和你做爱，好舒服啊<emoji=heart04>」"
     },
     {
         "name": "アニマ",
-        "message": "「啊、啊……嗯<emoji=heart04>　啊、啊啊<emoji=heart04>　什么啊……嗯咕<emoji=heart04>　分裂不完全，阿尼玛……嗯呼呼<emoji=heart04>！」"
+        "message": "「什，阿妮玛乙！！　你，你突然在说什么啊！？　阿妮玛怎么可能会……喜，喜欢会长……嗯，哈啊，哈啊啊，哈啊啊啊<emoji=heart04>！」"
     },
     {
         "name": "アニマ乙",
-        "message": "「嗯呼<emoji=heart04>　啊啊<emoji=heart04>　嗯哈……装傻也没用啊<emoji=heart04>……嗯、啊……你也知道吧？　阿尼玛是什么存在」"
+        "message": "「嗯呼，这都要怪你哦<emoji=heart04>　……嗯哈，呼啊，哈啊啊<emoji=heart04>　嗯嗯嗯，因为你在抽插小穴，啊，让阿妮玛兴奋起来了……呼啊啊嗯<emoji=heart04><emoji=heart04>」"
     },
     {
         "name": "アニマ乙",
-        "message": "「阿尼玛们的精神是连接在一起的……<emoji=heart04>　嗯、啊……应该知道<emoji=heart04>」"
-    },
-    {
-        "name": "アニマ乙",
-        "message": "「会长<emoji=heart04><emoji=heart04><emoji=heart04>　喜欢……<emoji=heart04>　阿尼玛喜欢你，非常喜欢<emoji=heart04>　嗯哈……啊、啊、嗯、啊啊<emoji=heart04>」"
+        "message": "「哈啊，嗯，哈啊……<emoji=heart04>　嘿嘿嘿……你对会长的爱不也膨胀起来……嗯嗯！　快要爆发了吗<emoji=heart04>？　啊，啊，嗯哈，哈啊啊啊啊嗯<emoji=heart04><emoji=heart04>」"
     },
     {
         "name": "アニマ",
-        "message": "「啊、啊啊、阿尼玛里的感觉变大了<emoji=heart04>　嗯啊、别这样、好害羞<emoji=heart04><emoji=heart04>　那种话，不能说<emoji=heart04>　嗯呼、啊啊啊<emoji=heart04>」"
+        "message": "「哈啊，哈啊……嗯<emoji=heart04>　呼啊，呼啊啊嗯<emoji=heart04>　你，你在说什么……嗯唔<emoji=heart04>　分，分裂好像并不完全啊，阿妮玛才没有……嗯呼呜呜呜<emoji=heart04>！」"
     },
     {
         "name": "アニマ乙",
-        "message": "「不行<emoji=heart04>　阿尼玛是你的感觉本身，已经无法隐藏了<emoji=heart04>　喜欢、喜欢会长<emoji=heart04>　啊嗯<emoji=heart04>　和喜欢的人做爱，非常舒服<emoji=heart04>」"
+        "message": "「嗯呼呜<emoji=heart04>　哈啊啊啊<emoji=heart04>　嗯哈啊……装傻也没用的<emoji=heart04>……嗯唔，哈啊……其实你也明白的吧？　阿妮玛到底是什么样的存在」"
+    },
+    {
+        "name": "アニマ乙",
+        "message": "「阿妮玛们的精神是相连的……<emoji=heart04>　嗯，哈啊……你应该明白的<emoji=heart04>」"
+    },
+    {
+        "name": "アニマ乙",
+        "message": "「会长<emoji=heart04><emoji=heart04><emoji=heart04>　喜欢你……<emoji=heart04>　阿妮玛最喜欢你了<emoji=heart04>　嗯哈啊……哈啊，哈啊，嗯嗯，哈啊啊<emoji=heart04>」"
     },
     {
         "name": "アニマ",
-        "message": "「啊啊、别、别这样<emoji=heart04>！　对会长的感觉膨胀了，溢出来了<emoji=heart04>　嗯哈、啊啊<emoji=heart04>　嗯啊<emoji=heart04>　腰的动作变得快了……<emoji=heart04>！」"
+        "message": "「啊，呼啊啊，阿妮玛心里的感情越来越强烈了<emoji=heart04>　嗯啊啊，别说了，好难为情啊<emoji=heart04><emoji=heart04>　这种话，不能说出来的……<emoji=heart04>　嗯呼，哈啊啊啊<emoji=heart04>」"
     },
     {
         "name": "アニマ乙",
-        "message": "「啊，嗯<emoji=heart04>　哈，哈啊，哈啊嗯！　那，那，会长喜欢阿尼玛吗？　嗯嗯<emoji=heart04>！」"
+        "message": "「没办法了啦<emoji=heart04>　阿妮玛就是你的心意本身，已经藏不住了啦<emoji=heart04>　喜欢，我喜欢会长啊<emoji=heart04>　哈啊嗯<emoji=heart04>　和喜欢的人做爱，真的好舒服啊<emoji=heart04>」"
     },
     {
         "name": "アニマ",
-        "message": "「啊，啊嗯<emoji=heart04>　那要问的话……嗯啊嗯<emoji=heart04>！」"
+        "message": "「哈啊啊，别，别说了啦<emoji=heart04>！　对会长的感情越来越强烈，都要满出来了啦<emoji=heart04>　嗯哈，呼啊啊<emoji=heart04>　嗯啊啊<emoji=heart04>　腰的动作不受控制地变快了……<emoji=heart04>！」"
     },
     {
         "name": "アニマ乙",
-        "message": "「阿尼玛喜欢你<emoji=heart04>　一直隐藏着，但现在已经到极限了<emoji=heart04>　装作是实验的副作用，编造借口……只是和会长做爱，已经无法忍受了<emoji=heart04><emoji=heart04>」"
+        "message": "「噫唔，嗯呜<emoji=heart04>　哈啊，哈啊啊，哈啊啊嗯！　那，那个，会长喜欢阿妮玛吗？　嗯嗯唔<emoji=heart04>！」"
     },
     {
         "name": "アニマ",
-        "message": "「住，住手<emoji=heart04>　呜呜呜呜<emoji=heart04>　会长是出于善意，帮助阿尼玛们处理性欲的……却故意这样做……<emoji=heart04>　这怎么能被原谅呢」"
+        "message": "「啊，啊嗯<emoji=heart04>　这个问题……嗯啊啊嗯<emoji=heart04>！」"
     },
     {
         "name": "アニマ乙",
-        "message": "「也许是这样，但已经不行了<emoji=heart04>　哈啊啊<emoji=heart04>　无法忍受<emoji=heart04>　性欲处理已经不够了<emoji=heart04>　嗯呼<emoji=heart04>　阿尼玛想知道你的感受……嗯啊嗯<emoji=heart04>」"
+        "message": "「阿妮玛喜欢你<emoji=heart04>　虽然一直隐瞒到现在，但已经到极限了啦<emoji=heart04>　假装是实验的副作用，找了个借口……只是和会长做爱，我已经忍不住了啦<emoji=heart04><emoji=heart04>」"
+    },
+    {
+        "name": "アニマ",
+        "message": "「别，别说了啦<emoji=heart04>　呼唔唔唔嗯<emoji=heart04>　会长明明是出于好意，才来帮我们处理性欲的……你居然故意这么做……<emoji=heart04>　我怎么可能原谅你啊」"
     },
     {
         "name": "アニマ乙",
-        "message": "「其实很不安……哈啊……身体重叠在一起，只是顺其自然……嗯，呼……你，不喜欢阿尼玛吗……」"
+        "message": "「或许是这样没错，但已经不行了啦<emoji=heart04>　哈啊啊啊嗯<emoji=heart04>　忍不住了啦<emoji=heart04>　我不要只是处理性欲啦<emoji=heart04>　嗯呼唔<emoji=heart04>　阿妮玛想知道你的心意……嗯啊啊嗯<emoji=heart04>」"
+    },
+    {
+        "name": "アニマ乙",
+        "message": "「其实我好不安啊……哈啊啊……就算身体交合在一起，也只是顺势而为……嗯嗯，呼唔……你其实……并不喜欢阿妮玛吧……」"
     },
     {
         "name": "クロト",
-        "message": "「……我喜欢阿尼玛学姐……！」"
+        "message": "「……我喜欢阿妮玛学姐……！」"
     },
     {
         "name": "アニマ",
-        "message": "「嗯哈啊啊<emoji=heart04>　哈，哈……真，真的吗……？」"
+        "message": "「嗯哈啊啊啊<emoji=heart04>　哈啊，哈啊……真，真的吗……？」"
     },
     {
         "name": "アニマ",
-        "message": "「但那是……嗯嗯，哈<emoji=heart04>　喜欢做爱，喜欢感觉好……嗯啊，啊，哈啊<emoji=heart04>　……不是那样的吗？」"
+        "message": "「可是，那是……嗯嗯，哈啊<emoji=heart04>　喜欢做爱，或者喜欢舒服的感觉……嗯啊，啊，哈啊啊<emoji=heart04>　……不是那样的吗？」"
     },
     {
         "name": "クロト",
-        "message": "「我爱阿尼玛学姐……想和你成为恋人」"
+        "message": "「我爱着阿妮玛学姐……希望你能成为我的恋人」"
     },
     {
         "name": "アニマ",
-        "message": "「～～～<emoji=heart04><emoji=heart04><emoji=heart04>！　哈啊……说这种话，阿尼玛已经……<emoji=heart04>！」"
+        "message": "「～～～<emoji=heart04><emoji=heart04><emoji=heart04>！　哈啊啊……被，被你这么一说，阿妮玛已经……<emoji=heart04>！」"
     },
     {
-        "message": "阿尼玛学姐……这次，阿尼玛学姐本人，疯狂地和我接吻，纠缠着舌头。"
-    },
-    {
-        "name": "アニマ",
-        "message": "「嗯，咻咻<emoji=heart04>　咻咻<emoji=heart04>　嗯嗯，嗯呼，咻，咻咻，嗯咻，嗯嗯<emoji=heart04><emoji=heart04>　咻咻，咻咻，咻咻，嗯，咻，咻哈<emoji=heart04>」"
+        "message": "阿妮玛学姐……这次是作为本体的阿妮玛学姐，她主动吻了我，忘我地将舌头缠绕上来。"
     },
     {
         "name": "アニマ",
-        "message": "「阿尼玛也……喜欢你<emoji=heart04>　嗯呼……我最喜欢你了！」"
+        "message": "「嗯，咕啾噜<emoji=heart04>　啾啪<emoji=heart04>　嗯嗯，嗯呼，啾，啾噜，嗯啾，嗯嗯<emoji=heart04><emoji=heart04>　黏啾，啾啪，啾噜噜，嗯噗，嗯啾，噗哈啊<emoji=heart04>」"
     },
     {
         "name": "アニマ",
-        "message": "「啊哈哈<emoji=heart04>　这究竟是爱吗，我还不清楚。啊嗯嗯嗯<emoji=heart04>　可是……被你说爱我，喜欢的感觉，啊嗯嗯，溢出来停不住了<emoji=heart04>」"
+        "message": "「阿妮玛也……喜欢你<emoji=heart04>　嗯呼……最喜欢你了！」"
     },
     {
         "name": "アニマ",
-        "message": "「啊啊嗯，不是实验而是……呼嗯<emoji=heart04>　意识到是恋人之间的性爱，啊啊啊嗯<emoji=heart04>　已经停不下来了，感觉太好了<emoji=heart04>　……啊，啊，啊啊啊<emoji=heart04>」"
+        "message": "「啊哈啊啊<emoji=heart04>　虽然还不知道这算不算爱。哈呜呜呜嗯<emoji=heart04>　但是……被你表白后，喜欢的心情，哈呜呜，就满溢而出，停不下来了<emoji=heart04>」"
+    },
+    {
+        "name": "アニマ",
+        "message": "「哈啊啊嗯，这已经不是实验了……呼呜呜<emoji=heart04>　意识到这是恋人之间的性爱后……嗯啊啊啊啊嗯<emoji=heart04>　已经舒服得停不下来了<emoji=heart04>　……啊，啊，啊啊啊<emoji=heart04>」"
     },
     {
         "name": "アニマ乙",
-        "message": "「啊啊啊，太棒了<emoji=heart04>！　喜欢的感觉也传到了我身上，啊啊啊<emoji=heart04>！　要爆炸了<emoji=heart04>！　阴道的感觉变得更敏感了，我要疯了<emoji=heart04><emoji=heart04><emoji=heart04>！」"
+        "message": "「啊啊啊，这好厉害<emoji=heart04>！　喜欢的心情也流入到阿妮玛里了，呼咿咿咿<emoji=heart04>！　要爆炸了<emoji=heart04>！　小穴的敏感度上升了，要变得奇怪了<emoji=heart04><emoji=heart04><emoji=heart04>！」"
     },
     {
         "name": "アニマ",
-        "message": "「啊啊啊，阴蒂都要爆炸了<emoji=heart04>　啊啊，被你那硬硬的、热热的恋人鸡巴摩擦，感觉太好了<emoji=heart04>　啊啊啊<emoji=heart04><emoji=heart04>」"
+        "message": "「呀啊啊啊，阴蒂勃起得好像要爆炸了一样<emoji=heart04>　哈啊啊，被你那炽热又坚挺的恋人肉棒摩擦着，好舒服<emoji=heart04>　呼咿咿咿嗯<emoji=heart04><emoji=heart04>」"
     },
     {
         "name": "アニマ乙",
-        "message": "「爱液汩汩地流出来了<emoji=heart04>　和你的鸡巴分不清界限，已经完全湿透了<emoji=heart04>　啊啊嗯，感觉太好了<emoji=heart04>　感觉太好了<emoji=heart04><emoji=heart04>」"
+        "message": "「爱液咕嘟咕嘟地溢出来了<emoji=heart04>　黏糊糊地融化成一团，甚至都分不清和你的肉棒的界限了<emoji=heart04>　哈啊啊嗯，好舒服<emoji=heart04>　好舒服<emoji=heart04><emoji=heart04>」"
     },
     {
         "name": "アニマ",
-        "message": "「啊啊啊，完全不一样<emoji=heart04>　和刚才完全不一样<emoji=heart04>　互相喜欢的恋人性爱太舒服了，啊啊啊<emoji=heart04>　腰停不下来<emoji=heart04>　啊啊啊啊啊<emoji=heart04>」"
+        "message": "「呼咿咿咿，完全不一样<emoji=heart04>　和刚才完全不一样<emoji=heart04>　两情相悦的恋人做爱好舒服，嗯啊啊<emoji=heart04>　腰停不下来了<emoji=heart04>　哈啊啊啊啊啊<emoji=heart04>」"
     },
     {
         "name": "アニマ乙",
-        "message": "「太、太、太棒了<emoji=heart04>　嗯啊啊，啊啊啊<emoji=heart04>　心和身体的两倍性爱太棒了<emoji=heart04>　啊，啊，啊啊嗯<emoji=heart04>　恋人性爱太舒服了<emoji=heart04>」"
+        "message": "「好厉害，好厉害，好厉害啊啊啊<emoji=heart04>　嗯呼啊，呼啊啊啊啊<emoji=heart04>　身心两倍的做爱好厉害啊啊<emoji=heart04>　啊，啊，啊啊嗯<emoji=heart04>　恋人做爱好舒服啊啊<emoji=heart04>」"
     },
     {
         "name": "アニマ",
-        "message": "「嗯，嗯嗯嗯<emoji=heart04>　喜欢恋人鸡巴<emoji=heart04>　虽然不是真枪实弹，只是用阴道夹住，感觉就好了<emoji=heart04>　啊啊，嗯，啊啊，啊啊啊<emoji=heart04>」"
+        "message": "「嗯唔，嗯唔唔唔<emoji=heart04>　好喜欢恋人肉棒<emoji=heart04>　明明不是真正的性交，只是用小穴夹着而已，就舒服起来了<emoji=heart04>　呀啊啊，嗯，哈啊啊，呼啊啊啊<emoji=heart04>」"
     },
     {
         "name": "アニマ乙",
-        "message": "「啊啊<emoji=heart04>　两个人的阴道包着，实际上就是做爱吧<emoji=heart04>　啊，啊啊<emoji=heart04>　恋人性爱<emoji=heart04>　感觉太棒了<emoji=heart04>　啊，啊，啊啊啊<emoji=heart04>！」"
+        "message": "「哈啊啊<emoji=heart04>　都用两个人的小穴包裹住了，实际上就是在做爱吧<emoji=heart04>　嗯啊，哈啊啊<emoji=heart04>　恋人做爱好舒服啊啊<emoji=heart04>　太爽了<emoji=heart04>　哈啊，啊，嗯啊啊啊啊<emoji=heart04>！」"
     },
     {
         "name": "アニマ",
-        "message": "「啊啊，阿尼玛，太激烈了<emoji=heart04>　嗯嗯嗯，啊，啊，要高潮了，感觉好强烈，要高潮了……<emoji=heart04><emoji=heart04>！　啊，啊啊啊啊<emoji=heart04><emoji=heart04>」"
+        "message": "「啊啊，阿妮玛，好激烈<emoji=heart04>　嗯呼唔唔，啊，啊，去了去了，舒服的快感涌上来了，要去了……<emoji=heart04><emoji=heart04>！　呼咿，呼咿，呼啊啊啊啊嗯<emoji=heart04><emoji=heart04>」"
     },
     {
         "name": "アニマ乙",
-        "message": "「阿尼玛也要高潮了<emoji=heart04>　啊，啊啊<emoji=heart04><emoji=heart04>　感觉好，感觉好，感觉好好<emoji=heart04>　啊啊，啊啊啊<emoji=heart04>　恋人阴茎真好……<emoji=heart04>」"
+        "message": "「阿妮玛也要去了<emoji=heart04>　哈啊，啊啊啊<emoji=heart04><emoji=heart04>　好舒服，好舒服，好舒服啊啊啊<emoji=heart04>　哈啊啊，呼啊啊啊啊<emoji=heart04>　恋人的肉棒好棒啊啊……<emoji=heart04>」"
     },
     {
         "name": "アニマ",
-        "message": "「啊，啊，阴茎膨胀起来了<emoji=heart04>　会长也要高潮了吧？　啊，好啊<emoji=heart04>　射精吧，射精吧<emoji=heart04>！　在阿尼玛里感觉好<emoji=heart04>！　啊啊啊啊<emoji=heart04>」"
+        "message": "「嗯啊，哈啊，肉棒开始膨胀了<emoji=heart04>　会长也快要高潮了？　嗯啊啊，可以哦<emoji=heart04>　射精吧，射精吧<emoji=heart04>！　用阿妮玛舒服起来吧！　呼啊啊啊啊嗯<emoji=heart04>」"
     },
     {
         "name": "アニマ乙",
-        "message": "「啊啊啊<emoji=heart04><emoji=heart04>　啊，啊啊啊<emoji=heart04><emoji=heart04>　要高潮了，阿尼玛也要高潮了！　感觉来了<emoji=heart04>　旋转旋转旋转<emoji=heart04><emoji=heart04>　啊啊啊啊<emoji=heart04><emoji=heart04>」"
+        "message": "「呼咿咿咿咿<emoji=heart04><emoji=heart04>　嗯啊，呼啊啊啊啊<emoji=heart04><emoji=heart04>　去了去了，阿妮玛也要去了！　舒服的感觉要来了<emoji=heart04>　来了来了来了来了<emoji=heart04><emoji=heart04>　嗯啊啊啊啊啊<emoji=heart04><emoji=heart04>」"
     },
     {
         "name": "アニマ",
-        "message": "「啊啊啊<emoji=heart04>　啊啊啊啊<emoji=heart04><emoji=heart04>　高潮了，高潮了高潮了高潮了高潮了高潮了──<emoji=heart04><emoji=heart04><emoji=heart04>！！！」"
+        "message": "「啊啊啊<emoji=heart04>　嗯哈啊啊啊<emoji=heart04><emoji=heart04>　去了，去了去了去了去了去了去了呜呜呜——<emoji=heart04><emoji=heart04><emoji=heart04>！！！」"
     },
     {
         "name": "アニマ乙",
-        "message": "「你也一起射精吧──<emoji=heart04><emoji=heart04><emoji=heart04>！！！」"
+        "message": "「你也一起射精吧！　去了，要去了呜呜呜呜呜——<emoji=heart04><emoji=heart04><emoji=heart04>！！！」"
     },
     {
         "name": "ダブルアニマ",
-        "message": "「「恋人性爱中，高潮了──<emoji=heart04><emoji=heart04><emoji=heart04>　啊啊啊啊啊啊啊啊啊啊啊啊<emoji=heart04>」」"
+        "message": "「「在恩爱的恋人做爱中，高潮了呜呜呜呜——<emoji=heart04><emoji=heart04><emoji=heart04>　呜……呼啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊<emoji=heart04>」」"
     },
     {
         "name": "アニマ",
-        "message": "「啊啊啊……嗯，啊啊啊啊……<emoji=heart04>　在射精<emoji=heart04>　看，再多射点<emoji=heart04><emoji=heart04>」"
+        "message": "「哈啊啊啊啊……嗯咕，哈啊啊啊啊啊……<emoji=heart04>　射精了<emoji=heart04>　来，还可以继续射哦……<emoji=heart04><emoji=heart04>」"
     },
     {
         "name": "アニマ乙",
-        "message": "「啊……呼……精液好热<emoji=heart04>　而且非常，色情的味道……啊啊……<emoji=heart04>」"
+        "message": "「哈啊……呼呜呜……精液好烫<emoji=heart04>　而且，味道好下流……哈啊啊……<emoji=heart04>」"
     },
     {
         "name": "アニマ",
-        "message": "「啊嗯<emoji=heart04>　鸡巴，还在抽搐，精液还在流出来呢……太棒了……<emoji=heart04>」"
+        "message": "「啊嗯<emoji=heart04>　肉棒，还在一跳一跳的，射着精液……好厉害……<emoji=heart04>」"
     },
     {
         "name": "アニマ",
-        "message": "「嗯嗯……吸溜……嗯哈<emoji=heart04>　你的精液，味道好淫荡……身体又兴奋起来了呢……<emoji=heart04>」"
+        "message": "「嗯唔……嗯啾噜……嗯哈啊<emoji=heart04>　你的精液，味道好下流……身体又要兴奋起来了……<emoji=heart04>」"
     },
     {
         "name": "アニマ乙",
-        "message": "「嗯呼……<emoji=heart04>　感度加倍的恋人性爱真是太棒了<emoji=heart04>　到目前为止的性爱中，最舒服的一次了……<emoji=heart04>」"
+        "message": "「嗯呼呜……<emoji=heart04>　敏感度2倍的恋人做爱好棒啊<emoji=heart04>　是至今为止最舒服的一次做爱……<emoji=heart04>」"
     },
     {
         "name": "アニマ",
-        "message": "「……呵呵，也就是说，达」"
+        "message": "「……呼咿，也就是说，达」"
     },
     {
         "name": "アニマ",
-        "message": "「真正的性爱会更加更加舒服，对吧？会长觉得呢？」"
+        "message": "「正式上床的话，肯定会更加更加舒服吧？　会长你怎么看？」"
     },
     {
         "name": "アニマ乙",
-        "message": "「阿尼玛，爱液还在不停地流出来。只要想到和你的真正性爱……哈嗯<emoji=heart04>　就兴奋得快要高潮了……<emoji=heart04>」"
+        "message": "「阿妮玛，爱液还在不停地往外流呢。光是想象一下和你正式做爱……哈啊嗯<emoji=heart04>　我就兴奋得快要高潮了……<emoji=heart04>」"
     },
     {
         "name": "アニマ",
-        "message": "「啊嗯<emoji=heart04>　……刚刚射精完，鸡巴又硬了<emoji=heart04>　也就是说，呵呵……可以期待接下来的了吗？<emoji=heart04>」"
+        "message": "「呀嗯<emoji=heart04>　……明明才刚射过精，肉棒就已经又变大了呢<emoji=heart04>　也就是说，嘻嘻……我可以期待接下来的性爱吧？<emoji=heart04>」"
     },
     {
         "name": "アニマ乙",
-        "message": "「恋人阿尼玛的阴道里，想要你多射精一些<emoji=heart04>」"
+        "message": "「好想在恋人阿妮玛的小穴里，尽情地射精啊<emoji=heart04>」"
     },
     {
         "name": "アニマ",
-        "message": "「……啊嗯♪　恋人鸡巴……来了<emoji=heart04>」"
+        "message": "「……啊嗯♪　恋人肉棒……进来了<emoji=heart04>」"
     },
     {
-        "message": "恋人们的淫荡请求，这次轮到我压倒他们了。"
+        "message": "面对恋人们下流的性爱请求，这次轮到我将她们推倒了。"
     }
 ]

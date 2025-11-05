@@ -20,6 +20,7 @@ TRANSLATED_DIR = os.path.join(OUT_DIR, "3_Translated")
 PLUGIN_DATA_DIR = os.path.join(OUT_DIR, "4_Plugin_Data")
 MASTER_CHARACTERS_FILE = os.path.join(OUT_DIR, "master_characters.json")
 NAMES_MAP_FILE = os.path.join(OUT_DIR, "names.json")
+EXCLUDE_NAMES_FILE = "exclude_names.json"
 
 
 # --- 辅助函数 ---
@@ -41,6 +42,7 @@ def handle_extraction(args):
     2. 遍历所有 book.json，提取对话文本。
     3. 会跳过在 '3_Translated' 目录中已存在的文件。
     4. 对 names.json 进行增量更新，保留已存在的条目。
+    5. 会读取 'out/exclude_names.json' 文件，排除其中列出的角色名。
     """
     print("--- 阶段一：开始提取 ---")
     input_dir = Path(args.input_dir)
@@ -70,7 +72,7 @@ def handle_extraction(args):
                         strings[CHARACTER_ID_COL_INDEX],
                         strings[CHARACTER_NAME_COL_INDEX],
                     )
-                    if char_id:
+                    if char_id and char_name:
                         character_map[char_id] = char_name
             break
     write_json(Path(MASTER_CHARACTERS_FILE), character_map)
@@ -137,6 +139,27 @@ def handle_extraction(args):
                 write_json(output_file, dialogues)
                 extracted_count += 1
 
+    excluded_names_set = set()
+    exclude_file_path = Path(EXCLUDE_NAMES_FILE)
+    if exclude_file_path.exists():
+        try:
+            excluded_list = read_json(exclude_file_path)
+            if isinstance(excluded_list, list):
+                excluded_names_set = set(excluded_list)
+                print(
+                    f"已加载 {len(excluded_names_set)} 个排除项，来自 '{EXCLUDE_NAMES_FILE}'。"
+                )
+            else:
+                print(
+                    f"警告: '{EXCLUDE_NAMES_FILE}' 格式不正确，应为一个 JSON 列表。已忽略。"
+                )
+        except json.JSONDecodeError:
+            print(f"警告: '{EXCLUDE_NAMES_FILE}' 文件格式错误，无法解析。已忽略。")
+    else:
+        print(
+            f"提示: 未找到排除文件 '{EXCLUDE_NAMES_FILE}'。如需排除特定名称，请创建该文件。"
+        )
+
     names_map_path = Path(NAMES_MAP_FILE)
     existing_names = {}
     if names_map_path.exists():
@@ -149,15 +172,18 @@ def handle_extraction(args):
     else:
         print(f"未找到 '{NAMES_MAP_FILE}'，将创建新文件。")
 
+    unique_display_names = set()
+    for speaker_id in all_speaker_ids:
+        display_name = character_map.get(speaker_id, speaker_id)
+        if display_name:
+            unique_display_names.add(display_name)
+
     new_names_added = 0
-    # 遍历本次扫描到的所有名字
-    for speaker_id in sorted(list(all_speaker_ids)):
-        # 如果名字不在现有文件中，则添加
-        if speaker_id not in existing_names:
-            existing_names[speaker_id] = speaker_id
+    for name in sorted(list(unique_display_names)):
+        if name not in existing_names and name not in excluded_names_set:
+            existing_names[name] = name
             new_names_added += 1
 
-    # 写回更新后的完整数据
     write_json(names_map_path, existing_names)
 
     if new_names_added > 0:
