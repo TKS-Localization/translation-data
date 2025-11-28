@@ -140,7 +140,7 @@ uv run scripts/localization_tool.py map
 
 ```bash
 # 请根据你的显卡显存调整 -c (上下文长度) 和 -ngl (GPU层数)
-llama-server -m models/Sakura-Galtransl-14B-v3.8-Q5_K_M.gguf -c 8192 -np 4 -fa on -ngl 999 -a Sakura-Galtransl-14B-v3.8 --port 6006
+llama-server -m models/Sakura-Galtransl-14B-v3.8-Q5_K_S.gguf -c 8192 -np 4 -fa on -ngl 999 -a Sakura-Galtransl-14B-v3.8 --port 6006
 ```
 
 ### 2. 配置 AiNiee
